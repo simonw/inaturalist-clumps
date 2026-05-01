@@ -1,5 +1,4 @@
 {
-  "generated_at": "2026-05-01T18:47:55Z",
   "users": [
     "simonw",
     "simon583"
@@ -1857,7 +1856,7 @@
             "common_name": null,
             "rank": "species"
           },
-          "species_guess": "Biznaga barril de San Jos\u00e9",
+          "species_guess": "Biznaga barril de San José",
           "photos": [
             {
               "id": 13453467,
@@ -7009,7 +7008,7 @@
             "common_name": "American White Pelican",
             "rank": "species"
           },
-          "species_guess": "p\u00e9lican d'Am\u00e9rique",
+          "species_guess": "pélican d'Amérique",
           "photos": [
             {
               "id": 55747613,
@@ -7118,7 +7117,7 @@
           "count": 1
         },
         {
-          "scientific_name": "Cistus \u00d7 purpureus",
+          "scientific_name": "Cistus × purpureus",
           "common_name": "Purple-flowered Rock-rose",
           "count": 1
         }
@@ -7172,7 +7171,7 @@
           "geoprivacy": null,
           "taxon": {
             "id": 415892,
-            "scientific_name": "Cistus \u00d7 purpureus",
+            "scientific_name": "Cistus × purpureus",
             "common_name": "Purple-flowered Rock-rose",
             "rank": "hybrid"
           },
@@ -7933,7 +7932,7 @@
             "common_name": "Banana Slugs",
             "rank": "genus"
           },
-          "species_guess": "\u9999\u8549\u86de\u8753\u5c5e",
+          "species_guess": "香蕉蛞蝓属",
           "photos": [
             {
               "id": 106233315,
@@ -14724,8 +14723,8 @@
       "observation_count": 1,
       "species": [
         {
-          "scientific_name": "Anser caerulescens \u00d7 indicus",
-          "common_name": "Snow \u00d7 Bar-headed Goose",
+          "scientific_name": "Anser caerulescens × indicus",
+          "common_name": "Snow × Bar-headed Goose",
           "count": 1
         }
       ],
@@ -14742,11 +14741,11 @@
           "geoprivacy": null,
           "taxon": {
             "id": 1552302,
-            "scientific_name": "Anser caerulescens \u00d7 indicus",
-            "common_name": "Snow \u00d7 Bar-headed Goose",
+            "scientific_name": "Anser caerulescens × indicus",
+            "common_name": "Snow × Bar-headed Goose",
             "rank": "hybrid"
           },
-          "species_guess": "Snow \u00d7 Bar-headed Goose",
+          "species_guess": "Snow × Bar-headed Goose",
           "photos": [
             {
               "id": 289232326,
@@ -14864,7 +14863,7 @@
             "common_name": "Eurasian Magpie",
             "rank": "species"
           },
-          "species_guess": "Straka obecn\u00e1",
+          "species_guess": "Straka obecná",
           "photos": [
             {
               "id": 289574735,
@@ -14923,7 +14922,7 @@
             "common_name": "Indian Peafowl",
             "rank": "species"
           },
-          "species_guess": "\u85cd\u5b54\u96c0",
+          "species_guess": "藍孔雀",
           "photos": [
             {
               "id": 290863894,
