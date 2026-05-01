@@ -3,6 +3,8 @@ name: Update clumps.json
 on:
   push:
     branches: [main]
+  schedule:
+    - cron: "9 */3 * * *"
   workflow_dispatch:
     inputs:
       full_refresh:
@@ -30,7 +32,7 @@ jobs:
 
       - name: Run inaturalist-clumper
         run: |
-          inaturalist-clumper simonw simon583 --output clumps.json ${{ inputs.full_refresh == true && '--full-refresh' || '' }}
+          inaturalist-clumper simonw simon583 --output clumps.json${{ inputs.full_refresh == true && ' --full-refresh' || '' }}
 
       - name: Strip generated_at from clumps.json
         run: |
