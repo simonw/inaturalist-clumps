@@ -1,0 +1,39 @@
+name: Update clumps.json
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install inaturalist-clumper
+        run: pip install https://github.com/simonw/inaturalist-clumper/archive/refs/heads/main.zip
+
+      - name: Run inaturalist-clumper
+        run: inaturalist-clumper simonw simon583 --output clumps.json
+
+      - name: Commit clumps.json if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add clumps.json
+          if git diff --staged --quiet; then
+            echo "No changes to clumps.json"
+          else
+            git commit -m "Update clumps.json"
+            git push
+          fi
