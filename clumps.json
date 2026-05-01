@@ -8,7 +8,7 @@
     "max_hours": 3.0
   },
   "total_observations": 310,
-  "skipped_no_time_or_location": 2,
+  "skipped_no_time_or_location": 0,
   "total_clumps": 204,
   "clumps": [
     {
