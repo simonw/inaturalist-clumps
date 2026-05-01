@@ -8,7 +8,7 @@
     "max_hours": 3.0
   },
   "total_observations": 310,
-  "skipped_no_time_or_location": 0,
+  "skipped_no_time_or_location": 2,
   "total_clumps": 204,
   "clumps": [
     {
@@ -15847,7 +15847,16 @@
             "rank": "species"
           },
           "species_guess": null,
-          "photos": []
+          "photos": [
+            {
+              "id": 651590396,
+              "thumbnail_url": "https://static.inaturalist.org/photos/651590396/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/651590396/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/651590396/original.jpg",
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
         }
       ]
     },
