@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 311,
+  "total_observations": 314,
   "skipped_no_time_or_location": 0,
-  "total_clumps": 205,
+  "total_clumps": 208,
   "clumps": [
     {
       "id": 1,
@@ -15803,6 +15803,206 @@
     },
     {
       "id": 203,
+      "started_at": "2026-04-08T18:37:42-07:00",
+      "ended_at": "2026-04-08T18:37:42-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.502557,
+        -122.478115
+      ],
+      "bbox": [
+        [
+          37.502557,
+          -122.478115
+        ],
+        [
+          37.502557,
+          -122.478115
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 357420709,
+          "uri": "https://www.inaturalist.org/observations/357420709",
+          "user_login": "simon583",
+          "observed_at": "2026-04-08T18:37:42-07:00",
+          "latitude": 37.5025566616,
+          "longitude": -122.4781146382,
+          "positional_accuracy_m": 175,
+          "obscured": false,
+          "geoprivacy": null,
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": []
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "started_at": "2026-04-13T09:44:57-07:00",
+      "ended_at": "2026-04-13T09:44:57-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.502286,
+        -122.49046
+      ],
+      "bbox": [
+        [
+          37.502286,
+          -122.49046
+        ],
+        [
+          37.502286,
+          -122.49046
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Phoca vitulina richardii",
+          "common_name": "Pacific Harbor Seal",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 357420219,
+          "uri": "https://www.inaturalist.org/observations/357420219",
+          "user_login": "simon583",
+          "observed_at": "2026-04-13T09:44:57-07:00",
+          "latitude": 37.502285679,
+          "longitude": -122.4904604852,
+          "positional_accuracy_m": 117,
+          "obscured": false,
+          "geoprivacy": null,
+          "taxon": {
+            "id": 117766,
+            "scientific_name": "Phoca vitulina richardii",
+            "common_name": "Pacific Harbor Seal",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 651909240,
+              "thumbnail_url": "https://static.inaturalist.org/photos/651909240/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/651909240/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/651909240/original.jpg",
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 651909600,
+              "thumbnail_url": "https://static.inaturalist.org/photos/651909600/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/651909600/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/651909600/original.jpg",
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 651909715,
+              "thumbnail_url": "https://static.inaturalist.org/photos/651909715/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/651909715/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/651909715/original.jpg",
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 651910109,
+              "thumbnail_url": "https://static.inaturalist.org/photos/651910109/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/651910109/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/651910109/original.jpg",
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "started_at": "2026-04-25T12:33:05-07:00",
+      "ended_at": "2026-04-25T12:33:05-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.483033,
+        -122.449087
+      ],
+      "bbox": [
+        [
+          37.483033,
+          -122.449087
+        ],
+        [
+          37.483033,
+          -122.449087
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 357420022,
+          "uri": "https://www.inaturalist.org/observations/357420022",
+          "user_login": "simon583",
+          "observed_at": "2026-04-25T12:33:05-07:00",
+          "latitude": 37.4830326109,
+          "longitude": -122.449087483,
+          "positional_accuracy_m": 5762,
+          "obscured": false,
+          "geoprivacy": null,
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 651908477,
+              "thumbnail_url": "https://static.inaturalist.org/photos/651908477/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/651908477/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/651908477/original.jpg",
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 651908548,
+              "thumbnail_url": "https://static.inaturalist.org/photos/651908548/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/651908548/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/651908548/original.jpg",
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 206,
       "started_at": "2026-04-30T11:11:28-07:00",
       "ended_at": "2026-04-30T11:11:28-07:00",
       "duration_hours": 0.0,
@@ -15861,7 +16061,7 @@
       ]
     },
     {
-      "id": 204,
+      "id": 207,
       "started_at": "2026-05-01T10:08:59-07:00",
       "ended_at": "2026-05-01T11:17:34-07:00",
       "duration_hours": 1.1431,
@@ -15986,7 +16186,7 @@
       ]
     },
     {
-      "id": 205,
+      "id": 208,
       "started_at": "2026-05-01T19:51:00-07:00",
       "ended_at": "2026-05-01T19:51:00-07:00",
       "duration_hours": 0.0,
