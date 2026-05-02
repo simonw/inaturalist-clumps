@@ -8,7 +8,7 @@
     "max_hours": 3.0
   },
   "total_observations": 314,
-  "skipped_no_time_or_location": 0,
+  "skipped_no_time_or_location": 2,
   "total_clumps": 208,
   "clumps": [
     {
@@ -15847,7 +15847,16 @@
             "rank": "subspecies"
           },
           "species_guess": null,
-          "photos": []
+          "photos": [
+            {
+              "id": 651912267,
+              "thumbnail_url": "https://static.inaturalist.org/photos/651912267/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/651912267/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/651912267/original.jpg",
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
         }
       ]
     },
@@ -15979,7 +15988,7 @@
             "common_name": "California Brown Pelican",
             "rank": "subspecies"
           },
-          "species_guess": null,
+          "species_guess": "California Brown Pelican",
           "photos": [
             {
               "id": 651908477,
@@ -16046,7 +16055,7 @@
             "common_name": "White-crowned Sparrow",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "White-crowned Sparrow",
           "photos": [
             {
               "id": 651590396,
@@ -16230,7 +16239,7 @@
             "common_name": "Acorn Woodpecker",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Acorn Woodpecker",
           "photos": [
             {
               "id": 651853337,
