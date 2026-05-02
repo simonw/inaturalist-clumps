@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 310,
+  "total_observations": 311,
   "skipped_no_time_or_location": 0,
-  "total_clumps": 204,
+  "total_clumps": 205,
   "clumps": [
     {
       "id": 1,
@@ -15978,6 +15978,73 @@
               "thumbnail_url": "https://static.inaturalist.org/photos/651551722/medium.jpg",
               "large_url": "https://static.inaturalist.org/photos/651551722/large.jpg",
               "original_url": "https://static.inaturalist.org/photos/651551722/original.jpg",
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "started_at": "2026-05-01T19:51:00-07:00",
+      "ended_at": "2026-05-01T19:51:00-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        39.772973,
+        -122.355359
+      ],
+      "bbox": [
+        [
+          39.772973,
+          -122.355359
+        ],
+        [
+          39.772973,
+          -122.355359
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Melanerpes formicivorus",
+          "common_name": "Acorn Woodpecker",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 357392870,
+          "uri": "https://www.inaturalist.org/observations/357392870",
+          "user_login": "simon583",
+          "observed_at": "2026-05-01T19:51:00-07:00",
+          "latitude": 39.7729733718,
+          "longitude": -122.3553593082,
+          "positional_accuracy_m": 14,
+          "obscured": false,
+          "geoprivacy": null,
+          "taxon": {
+            "id": 18209,
+            "scientific_name": "Melanerpes formicivorus",
+            "common_name": "Acorn Woodpecker",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 651853337,
+              "thumbnail_url": "https://static.inaturalist.org/photos/651853337/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/651853337/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/651853337/original.jpg",
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 651853732,
+              "thumbnail_url": "https://static.inaturalist.org/photos/651853732/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/651853732/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/651853732/original.jpg",
               "attribution": "(c) Simon Willison, all rights reserved",
               "license_code": null
             }
