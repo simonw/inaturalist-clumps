@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 314,
+  "total_observations": 316,
   "skipped_no_time_or_location": 0,
-  "total_clumps": 208,
+  "total_clumps": 209,
   "clumps": [
     {
       "id": 1,
@@ -17587,12 +17587,12 @@
     },
     {
       "id": 207,
-      "started_at": "2026-05-01T10:08:59-07:00",
+      "started_at": "2026-05-01T07:39:00-07:00",
       "ended_at": "2026-05-01T11:17:34-07:00",
-      "duration_hours": 1.1431,
+      "duration_hours": 3.6428,
       "centroid": [
-        39.773467,
-        -122.355169
+        39.773498,
+        -122.355177
       ],
       "bbox": [
         [
@@ -17605,8 +17605,13 @@
         ]
       ],
       "span_km": 0.0656,
-      "observation_count": 3,
+      "observation_count": 4,
       "species": [
+        {
+          "scientific_name": "Streptopelia decaocto",
+          "common_name": "Eurasian Collared-Dove",
+          "count": 1
+        },
         {
           "scientific_name": "Melanerpes formicivorus",
           "common_name": "Acorn Woodpecker",
@@ -17624,6 +17629,38 @@
         }
       ],
       "observations": [
+        {
+          "id": 357695606,
+          "uri": "https://www.inaturalist.org/observations/357695606",
+          "user_login": "simon583",
+          "observed_at": "2026-05-01T07:39:00-07:00",
+          "latitude": 39.7735917459,
+          "longitude": -122.355199571,
+          "positional_accuracy_m": 95,
+          "obscured": false,
+          "geoprivacy": null,
+          "taxon": {
+            "id": 2969,
+            "scientific_name": "Streptopelia decaocto",
+            "common_name": "Eurasian Collared-Dove",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 652432218,
+              "thumbnail_url": "https://static.inaturalist.org/photos/652432218/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/652432218/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/652432218/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
         {
           "id": 357242864,
           "uri": "https://www.inaturalist.org/observations/357242864",
@@ -17789,6 +17826,69 @@
               "original_dimensions": {
                 "width": 2048,
                 "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "started_at": "2026-05-02T13:42:00-07:00",
+      "ended_at": "2026-05-02T13:42:00-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        39.766378,
+        -122.34672
+      ],
+      "bbox": [
+        [
+          39.766378,
+          -122.34672
+        ],
+        [
+          39.766378,
+          -122.34672
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Urocyon cinereoargenteus",
+          "common_name": "Gray Fox",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 357691599,
+          "uri": "https://www.inaturalist.org/observations/357691599",
+          "user_login": "simon583",
+          "observed_at": "2026-05-02T13:42:00-07:00",
+          "latitude": 39.766378195,
+          "longitude": -122.3467203928,
+          "positional_accuracy_m": 127,
+          "obscured": false,
+          "geoprivacy": null,
+          "taxon": {
+            "id": 42076,
+            "scientific_name": "Urocyon cinereoargenteus",
+            "common_name": "Gray Fox",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 652423277,
+              "thumbnail_url": "https://static.inaturalist.org/photos/652423277/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/652423277/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/652423277/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1326
               },
               "attribution": "(c) Simon Willison, all rights reserved",
               "license_code": null
