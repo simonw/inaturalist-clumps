@@ -7,8 +7,8 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 317,
-  "skipped_no_time_or_location": 0,
+  "total_observations": 318,
+  "skipped_no_time_or_location": 2,
   "total_clumps": 209,
   "clumps": [
     {
@@ -17393,7 +17393,7 @@
             "common_name": "Pacific Harbor Seal",
             "rank": "subspecies"
           },
-          "species_guess": null,
+          "species_guess": "Pacific Harbor Seal",
           "photos": [
             {
               "id": 651909240,
@@ -17837,24 +17837,24 @@
     {
       "id": 209,
       "started_at": "2026-05-02T13:42:00-07:00",
-      "ended_at": "2026-05-02T16:01:00-07:00",
-      "duration_hours": 2.3167,
+      "ended_at": "2026-05-02T17:58:00-07:00",
+      "duration_hours": 4.2667,
       "centroid": [
-        39.770534,
-        -122.350307
+        39.771876,
+        -122.351539
       ],
       "bbox": [
         [
           39.766378,
-          -122.353893
+          -122.354004
         ],
         [
           39.77469,
           -122.34672
         ]
       ],
-      "span_km": 1.109,
-      "observation_count": 2,
+      "span_km": 1.1143,
+      "observation_count": 3,
       "species": [
         {
           "scientific_name": "Urocyon cinereoargenteus",
@@ -17864,6 +17864,11 @@
         {
           "scientific_name": "Pandion haliaetus",
           "common_name": "Osprey",
+          "count": 1
+        },
+        {
+          "scientific_name": "Euphagus cyanocephalus",
+          "common_name": "Brewer's Blackbird",
           "count": 1
         }
       ],
@@ -17916,13 +17921,45 @@
             "common_name": "Osprey",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Osprey",
           "photos": [
             {
               "id": 652489094,
               "thumbnail_url": "https://static.inaturalist.org/photos/652489094/medium.jpg",
               "large_url": "https://static.inaturalist.org/photos/652489094/large.jpg",
               "original_url": "https://static.inaturalist.org/photos/652489094/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 357740731,
+          "uri": "https://www.inaturalist.org/observations/357740731",
+          "user_login": "simon583",
+          "observed_at": "2026-05-02T17:58:00-07:00",
+          "latitude": 39.7745588364,
+          "longitude": -122.3540042489,
+          "positional_accuracy_m": 4,
+          "obscured": false,
+          "geoprivacy": null,
+          "taxon": {
+            "id": 10325,
+            "scientific_name": "Euphagus cyanocephalus",
+            "common_name": "Brewer's Blackbird",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 652521152,
+              "thumbnail_url": "https://static.inaturalist.org/photos/652521152/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/652521152/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/652521152/original.jpg",
               "original_dimensions": {
                 "width": 2048,
                 "height": 1365
