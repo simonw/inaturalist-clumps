@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 318,
+  "total_observations": 319,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 209,
+  "total_clumps": 210,
   "clumps": [
     {
       "id": 1,
@@ -17960,6 +17960,81 @@
               "thumbnail_url": "https://static.inaturalist.org/photos/652521152/medium.jpg",
               "large_url": "https://static.inaturalist.org/photos/652521152/large.jpg",
               "original_url": "https://static.inaturalist.org/photos/652521152/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "started_at": "2026-05-03T09:13:00-07:00",
+      "ended_at": "2026-05-03T09:13:00-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        39.773224,
+        -122.355319
+      ],
+      "bbox": [
+        [
+          39.773224,
+          -122.355319
+        ],
+        [
+          39.773224,
+          -122.355319
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Tachycineta bicolor",
+          "common_name": "Tree Swallow",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 357953160,
+          "uri": "https://www.inaturalist.org/observations/357953160",
+          "user_login": "simon583",
+          "observed_at": "2026-05-03T09:13:00-07:00",
+          "latitude": 39.7732238726,
+          "longitude": -122.3553191433,
+          "positional_accuracy_m": 3,
+          "obscured": false,
+          "geoprivacy": null,
+          "taxon": {
+            "id": 11935,
+            "scientific_name": "Tachycineta bicolor",
+            "common_name": "Tree Swallow",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 652930542,
+              "thumbnail_url": "https://static.inaturalist.org/photos/652930542/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/652930542/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/652930542/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 652930689,
+              "thumbnail_url": "https://static.inaturalist.org/photos/652930689/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/652930689/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/652930689/original.jpg",
               "original_dimensions": {
                 "width": 2048,
                 "height": 1365
