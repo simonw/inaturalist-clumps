@@ -16832,8 +16832,8 @@
       "observation_count": 1,
       "species": [
         {
-          "scientific_name": "Megaptera novaeangliae",
-          "common_name": "Humpback Whale",
+          "scientific_name": "Megaptera novaeangliae kuzira",
+          "common_name": "North Pacific Humpback Whale",
           "count": 1
         }
       ],
@@ -16849,12 +16849,12 @@
           "obscured": false,
           "geoprivacy": null,
           "taxon": {
-            "id": 41566,
-            "scientific_name": "Megaptera novaeangliae",
-            "common_name": "Humpback Whale",
-            "rank": "species"
+            "id": 705329,
+            "scientific_name": "Megaptera novaeangliae kuzira",
+            "common_name": "North Pacific Humpback Whale",
+            "rank": "subspecies"
           },
-          "species_guess": "Humpback Whale",
+          "species_guess": "North Pacific Humpback Whale",
           "photos": [
             {
               "id": 654541571,
