@@ -8437,7 +8437,7 @@
       "species": [
         {
           "scientific_name": "Megascapheus bottae",
-          "common_name": null,
+          "common_name": "Botta's Pocket Gopher",
           "count": 1
         }
       ],
@@ -8453,10 +8453,10 @@
           "obscured": false,
           "geoprivacy": null,
           "taxon": {
-            "id": 1624760,
+            "id": 1624661,
             "scientific_name": "Megascapheus bottae",
-            "common_name": null,
-            "rank": "complex"
+            "common_name": "Botta's Pocket Gopher",
+            "rank": "species"
           },
           "species_guess": "Megascapheus bottae",
           "photos": [
@@ -8950,7 +8950,7 @@
       "species": [
         {
           "scientific_name": "Megascapheus bottae",
-          "common_name": null,
+          "common_name": "Botta's Pocket Gopher",
           "count": 1
         }
       ],
@@ -8966,10 +8966,10 @@
           "obscured": false,
           "geoprivacy": null,
           "taxon": {
-            "id": 1624760,
+            "id": 1624661,
             "scientific_name": "Megascapheus bottae",
-            "common_name": null,
-            "rank": "complex"
+            "common_name": "Botta's Pocket Gopher",
+            "rank": "species"
           },
           "species_guess": "Megascapheus bottae",
           "photos": [
