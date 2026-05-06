@@ -16832,8 +16832,8 @@
       "observation_count": 1,
       "species": [
         {
-          "scientific_name": "Megaptera",
-          "common_name": "Humpback Whales",
+          "scientific_name": "Megaptera novaeangliae",
+          "common_name": "Humpback Whale",
           "count": 1
         }
       ],
@@ -16849,12 +16849,12 @@
           "obscured": false,
           "geoprivacy": null,
           "taxon": {
-            "id": 41565,
-            "scientific_name": "Megaptera",
-            "common_name": "Humpback Whales",
-            "rank": "genus"
+            "id": 41566,
+            "scientific_name": "Megaptera novaeangliae",
+            "common_name": "Humpback Whale",
+            "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Humpback Whale",
           "photos": [
             {
               "id": 654541571,
