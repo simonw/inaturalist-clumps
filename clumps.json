@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 322,
+  "total_observations": 324,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 213,
+  "total_clumps": 214,
   "clumps": [
     {
       "id": 1,
@@ -18224,6 +18224,118 @@
               "thumbnail_url": "https://static.inaturalist.org/photos/652930689/medium.jpg",
               "large_url": "https://static.inaturalist.org/photos/652930689/large.jpg",
               "original_url": "https://static.inaturalist.org/photos/652930689/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "started_at": "2026-05-12T17:15:00-07:00",
+      "ended_at": "2026-05-12T17:21:00-07:00",
+      "duration_hours": 0.1,
+      "centroid": [
+        37.503576,
+        -122.469034
+      ],
+      "bbox": [
+        [
+          37.502841,
+          -122.469468
+        ],
+        [
+          37.50431,
+          -122.4686
+        ]
+      ],
+      "span_km": 0.1805,
+      "observation_count": 2,
+      "species": [
+        {
+          "scientific_name": "Bombycilla cedrorum",
+          "common_name": "Cedar Waxwing",
+          "count": 1
+        },
+        {
+          "scientific_name": "Aphelocoma californica",
+          "common_name": "California Scrub-Jay",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 361027361,
+          "uri": "https://www.inaturalist.org/observations/361027361",
+          "user_login": "simon583",
+          "observed_at": "2026-05-12T17:15:00-07:00",
+          "latitude": 37.504310468,
+          "longitude": -122.4685997581,
+          "positional_accuracy_m": 121,
+          "obscured": false,
+          "geoprivacy": null,
+          "taxon": {
+            "id": 7428,
+            "scientific_name": "Bombycilla cedrorum",
+            "common_name": "Cedar Waxwing",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 658839258,
+              "thumbnail_url": "https://static.inaturalist.org/photos/658839258/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/658839258/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/658839258/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 658839296,
+              "thumbnail_url": "https://static.inaturalist.org/photos/658839296/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/658839296/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/658839296/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 361026952,
+          "uri": "https://www.inaturalist.org/observations/361026952",
+          "user_login": "simon583",
+          "observed_at": "2026-05-12T17:21:00-07:00",
+          "latitude": 37.5028405813,
+          "longitude": -122.4694675374,
+          "positional_accuracy_m": 51,
+          "obscured": false,
+          "geoprivacy": null,
+          "taxon": {
+            "id": 506118,
+            "scientific_name": "Aphelocoma californica",
+            "common_name": "California Scrub-Jay",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 658838422,
+              "thumbnail_url": "https://static.inaturalist.org/photos/658838422/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/658838422/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/658838422/original.jpg",
               "original_dimensions": {
                 "width": 2048,
                 "height": 1365
