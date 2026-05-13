@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 324,
+  "total_observations": 326,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 214,
+  "total_clumps": 215,
   "clumps": [
     {
       "id": 1,
@@ -18336,6 +18336,106 @@
               "thumbnail_url": "https://static.inaturalist.org/photos/658838422/medium.jpg",
               "large_url": "https://static.inaturalist.org/photos/658838422/large.jpg",
               "original_url": "https://static.inaturalist.org/photos/658838422/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "started_at": "2026-05-13T10:41:00-07:00",
+      "ended_at": "2026-05-13T10:44:00-07:00",
+      "duration_hours": 0.05,
+      "centroid": [
+        37.502276,
+        -122.482341
+      ],
+      "bbox": [
+        [
+          37.502192,
+          -122.485456
+        ],
+        [
+          37.502361,
+          -122.479226
+        ]
+      ],
+      "span_km": 0.5499,
+      "observation_count": 2,
+      "species": [
+        {
+          "scientific_name": "Melanitta perspicillata",
+          "common_name": "Surf Scoter",
+          "count": 1
+        },
+        {
+          "scientific_name": "Larus occidentalis",
+          "common_name": "Western Gull",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 361212682,
+          "uri": "https://www.inaturalist.org/observations/361212682",
+          "user_login": "simon583",
+          "observed_at": "2026-05-13T10:41:00-07:00",
+          "latitude": 37.5023608649,
+          "longitude": -122.4792258038,
+          "positional_accuracy_m": 419,
+          "obscured": false,
+          "geoprivacy": null,
+          "taxon": {
+            "id": 7036,
+            "scientific_name": "Melanitta perspicillata",
+            "common_name": "Surf Scoter",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 659192176,
+              "thumbnail_url": "https://static.inaturalist.org/photos/659192176/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/659192176/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/659192176/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1366
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 361212508,
+          "uri": "https://www.inaturalist.org/observations/361212508",
+          "user_login": "simon583",
+          "observed_at": "2026-05-13T10:44:00-07:00",
+          "latitude": 37.5021917907,
+          "longitude": -122.4854560924,
+          "positional_accuracy_m": 113,
+          "obscured": false,
+          "geoprivacy": null,
+          "taxon": {
+            "id": 4345,
+            "scientific_name": "Larus occidentalis",
+            "common_name": "Western Gull",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 659191991,
+              "thumbnail_url": "https://static.inaturalist.org/photos/659191991/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/659191991/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/659191991/original.jpg",
               "original_dimensions": {
                 "width": 2048,
                 "height": 1365
