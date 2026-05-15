@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 327,
+  "total_observations": 329,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 216,
+  "total_clumps": 217,
   "clumps": [
     {
       "id": 9687475,
@@ -18511,6 +18511,106 @@
               "thumbnail_url": "https://static.inaturalist.org/photos/659374809/medium.jpg",
               "large_url": "https://static.inaturalist.org/photos/659374809/large.jpg",
               "original_url": "https://static.inaturalist.org/photos/659374809/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 361818285,
+      "started_at": "2026-05-15T07:42:00-07:00",
+      "ended_at": "2026-05-15T07:47:00-07:00",
+      "duration_hours": 0.0833,
+      "centroid": [
+        33.762153,
+        -118.193686
+      ],
+      "bbox": [
+        [
+          33.760518,
+          -118.193802
+        ],
+        [
+          33.763787,
+          -118.193571
+        ]
+      ],
+      "span_km": 0.3641,
+      "observation_count": 2,
+      "species": [
+        {
+          "scientific_name": "Larus occidentalis",
+          "common_name": "Western Gull",
+          "count": 1
+        },
+        {
+          "scientific_name": "Columba livia",
+          "common_name": "Rock Pigeon",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 361818285,
+          "uri": "https://www.inaturalist.org/observations/361818285",
+          "user_login": "simon583",
+          "observed_at": "2026-05-15T07:42:00-07:00",
+          "latitude": 33.760518135,
+          "longitude": -118.1938017509,
+          "positional_accuracy_m": 136,
+          "obscured": false,
+          "geoprivacy": null,
+          "taxon": {
+            "id": 4345,
+            "scientific_name": "Larus occidentalis",
+            "common_name": "Western Gull",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 660343826,
+              "thumbnail_url": "https://static.inaturalist.org/photos/660343826/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/660343826/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/660343826/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 361818412,
+          "uri": "https://www.inaturalist.org/observations/361818412",
+          "user_login": "simon583",
+          "observed_at": "2026-05-15T07:47:00-07:00",
+          "latitude": 33.7637870847,
+          "longitude": -118.1935705052,
+          "positional_accuracy_m": 140,
+          "obscured": false,
+          "geoprivacy": null,
+          "taxon": {
+            "id": 3017,
+            "scientific_name": "Columba livia",
+            "common_name": "Rock Pigeon",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 660344126,
+              "thumbnail_url": "https://static.inaturalist.org/photos/660344126/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/660344126/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/660344126/original.jpg",
               "original_dimensions": {
                 "width": 2048,
                 "height": 1365
