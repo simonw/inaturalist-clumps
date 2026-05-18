@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 333,
+  "total_observations": 334,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 218,
+  "total_clumps": 219,
   "clumps": [
     {
       "id": 9687475,
@@ -30134,6 +30134,115 @@
         "display_name": "Pillar Point Harbor, CA, US",
         "breadcrumb": [
           53576,
+          1919,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 362814416,
+      "started_at": "2026-04-13T17:36:00-07:00",
+      "ended_at": "2026-04-13T17:36:00-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.504513,
+        -122.482981
+      ],
+      "bbox": [
+        [
+          37.504513,
+          -122.482981
+        ],
+        [
+          37.504513,
+          -122.482981
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Sturnus vulgaris",
+          "common_name": "European Starling",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 362814416,
+          "uri": "https://www.inaturalist.org/observations/362814416",
+          "user_login": "simon583",
+          "observed_at": "2026-04-13T17:36:00-07:00",
+          "latitude": 37.504512978,
+          "longitude": -122.4829807324,
+          "positional_accuracy_m": 555,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Shoppes at Harbor Village, Half Moon Bay, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 14850,
+            "scientific_name": "Sturnus vulgaris",
+            "common_name": "European Starling",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 662223770,
+              "thumbnail_url": "https://static.inaturalist.org/photos/662223770/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/662223770/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/662223770/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Shoppes at Harbor Village, Half Moon Bay, CA, US",
+        "place_id": 1919,
+        "display_name": "San Mateo County, CA, US",
+        "breadcrumb": [
           1919,
           14,
           1,
