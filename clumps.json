@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 329,
+  "total_observations": 333,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 217,
+  "total_clumps": 218,
   "clumps": [
     {
       "id": 9687475,
@@ -31933,6 +31933,400 @@
           97394
         ]
       }
+    },
+    {
+      "id": 362781627,
+      "started_at": "2026-05-18T07:51:00-07:00",
+      "ended_at": "2026-05-18T08:13:00-07:00",
+      "duration_hours": 0.3667,
+      "centroid": [
+        33.759386,
+        -118.190599
+      ],
+      "bbox": [
+        [
+          33.757669,
+          -118.19262
+        ],
+        [
+          33.763136,
+          -118.18797
+        ]
+      ],
+      "span_km": 0.7445,
+      "observation_count": 4,
+      "species": [
+        {
+          "scientific_name": "Larus glaucescens",
+          "common_name": "Glaucous-winged Gull",
+          "count": 1
+        },
+        {
+          "scientific_name": "Pelecanus occidentalis",
+          "common_name": "Brown Pelican",
+          "count": 1
+        },
+        {
+          "scientific_name": "Egretta thula",
+          "common_name": "Snowy Egret",
+          "count": 1
+        },
+        {
+          "scientific_name": "Branta canadensis",
+          "common_name": "Canada Goose",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 362782049,
+          "uri": "https://www.inaturalist.org/observations/362782049",
+          "user_login": "simon583",
+          "observed_at": "2026-05-18T07:51:00-07:00",
+          "latitude": 33.7576687855,
+          "longitude": -118.190515792,
+          "positional_accuracy_m": 18,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Queensway Bay, Long Beach, CA, US",
+          "place_ids": [
+            1,
+            14,
+            962,
+            4652,
+            9853,
+            51043,
+            51727,
+            54030,
+            55105,
+            56773,
+            59613,
+            62068,
+            62332,
+            63047,
+            65360,
+            66068,
+            66741,
+            75907,
+            76101,
+            77313,
+            80718,
+            81264,
+            83134,
+            92151,
+            92337,
+            95504,
+            96034,
+            96683,
+            96687,
+            97394,
+            108490,
+            111374,
+            118252,
+            118253,
+            118386,
+            119138,
+            121107,
+            133884,
+            143618,
+            183392
+          ],
+          "taxon": {
+            "id": 4399,
+            "scientific_name": "Larus glaucescens",
+            "common_name": "Glaucous-winged Gull",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 662161673,
+              "thumbnail_url": "https://static.inaturalist.org/photos/662161673/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/662161673/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/662161673/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 662161721,
+              "thumbnail_url": "https://static.inaturalist.org/photos/662161721/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/662161721/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/662161721/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 362782164,
+          "uri": "https://www.inaturalist.org/observations/362782164",
+          "user_login": "simon583",
+          "observed_at": "2026-05-18T07:52:00-07:00",
+          "latitude": 33.757812831,
+          "longitude": -118.1926196183,
+          "positional_accuracy_m": 419,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Queensway Bay, Long Beach, CA, US",
+          "place_ids": [
+            1,
+            14,
+            962,
+            4652,
+            9853,
+            51043,
+            51727,
+            54030,
+            55105,
+            56773,
+            59613,
+            62068,
+            62332,
+            63047,
+            65360,
+            66068,
+            66741,
+            75907,
+            76101,
+            77313,
+            80718,
+            81264,
+            83134,
+            92151,
+            92337,
+            95504,
+            96034,
+            96683,
+            96687,
+            97394,
+            108490,
+            111374,
+            118252,
+            118253,
+            118386,
+            119138,
+            121107,
+            133884,
+            143618,
+            183392
+          ],
+          "taxon": {
+            "id": 4328,
+            "scientific_name": "Pelecanus occidentalis",
+            "common_name": "Brown Pelican",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 662161937,
+              "thumbnail_url": "https://static.inaturalist.org/photos/662161937/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/662161937/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/662161937/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1366
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 362781792,
+          "uri": "https://www.inaturalist.org/observations/362781792",
+          "user_login": "simon583",
+          "observed_at": "2026-05-18T08:01:00-07:00",
+          "latitude": 33.758928453,
+          "longitude": -118.1912892184,
+          "positional_accuracy_m": 61,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Queensway Bay, Long Beach, CA, US",
+          "place_ids": [
+            1,
+            14,
+            962,
+            4652,
+            9853,
+            51043,
+            51727,
+            54030,
+            55105,
+            56773,
+            59613,
+            62068,
+            62332,
+            63047,
+            65360,
+            66068,
+            66741,
+            75907,
+            76101,
+            77313,
+            81264,
+            83134,
+            92151,
+            92337,
+            95504,
+            96034,
+            96683,
+            96687,
+            97394,
+            108490,
+            111374,
+            118252,
+            118253,
+            118386,
+            119138,
+            121107,
+            126329,
+            133884,
+            143618,
+            183392
+          ],
+          "taxon": {
+            "id": 4940,
+            "scientific_name": "Egretta thula",
+            "common_name": "Snowy Egret",
+            "rank": "species"
+          },
+          "species_guess": "Snowy Egret",
+          "photos": [
+            {
+              "id": 662161148,
+              "thumbnail_url": "https://static.inaturalist.org/photos/662161148/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/662161148/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/662161148/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 662161189,
+              "thumbnail_url": "https://static.inaturalist.org/photos/662161189/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/662161189/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/662161189/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 362781627,
+          "uri": "https://www.inaturalist.org/observations/362781627",
+          "user_login": "simon583",
+          "observed_at": "2026-05-18T08:13:00-07:00",
+          "latitude": 33.763135604,
+          "longitude": -118.1879696969,
+          "positional_accuracy_m": 214,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Rainbow Lagoon Park, Long Beach, CA, US",
+          "place_ids": [
+            1,
+            14,
+            962,
+            4652,
+            9853,
+            51043,
+            51727,
+            54030,
+            55105,
+            56773,
+            59613,
+            62068,
+            62332,
+            63047,
+            65360,
+            66068,
+            66741,
+            75907,
+            76101,
+            77313,
+            81264,
+            83134,
+            92151,
+            92337,
+            95504,
+            95697,
+            96034,
+            96683,
+            96687,
+            97394,
+            108490,
+            111374,
+            118252,
+            118253,
+            118386,
+            119138,
+            121107,
+            126329,
+            133884,
+            143618
+          ],
+          "taxon": {
+            "id": 7089,
+            "scientific_name": "Branta canadensis",
+            "common_name": "Canada Goose",
+            "rank": "species"
+          },
+          "species_guess": "Canada Goose",
+          "photos": [
+            {
+              "id": 662160828,
+              "thumbnail_url": "https://static.inaturalist.org/photos/662160828/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/662160828/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/662160828/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 662160866,
+              "thumbnail_url": "https://static.inaturalist.org/photos/662160866/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/662160866/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/662160866/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Queensway Bay, Long Beach, CA, US",
+        "place_id": 4652,
+        "display_name": "Los Angeles River, CA, US",
+        "breadcrumb": [
+          4652,
+          962,
+          14,
+          1,
+          97394
+        ]
+      }
     }
   ],
   "places": {
@@ -32042,6 +32436,18 @@
       "ancestor_ids": [
         97394,
         1
+      ]
+    },
+    "4652": {
+      "name": "Los Angeles River",
+      "display_name": "Los Angeles River, CA, US",
+      "admin_level": null,
+      "place_type": 16,
+      "ancestor_ids": [
+        97394,
+        1,
+        14,
+        962
       ]
     },
     "54321": {
