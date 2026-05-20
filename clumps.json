@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 334,
+  "total_observations": 335,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 219,
+  "total_clumps": 220,
   "clumps": [
     {
       "id": 9687475,
@@ -14395,8 +14395,8 @@
       "observation_count": 1,
       "species": [
         {
-          "scientific_name": "Ariolimax",
-          "common_name": "Banana Slugs",
+          "scientific_name": "Ariolimax brachyphallus",
+          "common_name": null,
           "count": 1
         }
       ],
@@ -14448,12 +14448,12 @@
             140260
           ],
           "taxon": {
-            "id": 47777,
-            "scientific_name": "Ariolimax",
-            "common_name": "Banana Slugs",
-            "rank": "genus"
+            "id": 966086,
+            "scientific_name": "Ariolimax brachyphallus",
+            "common_name": null,
+            "rank": "species"
           },
-          "species_guess": "香蕉蛞蝓属",
+          "species_guess": "Ariolimax brachyphallus",
           "photos": [
             {
               "id": 106233315,
@@ -32432,6 +32432,117 @@
         "breadcrumb": [
           4652,
           962,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 363259490,
+      "started_at": "2026-05-19T17:28:00-07:00",
+      "ended_at": "2026-05-19T17:28:00-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.502697,
+        -122.478918
+      ],
+      "bbox": [
+        [
+          37.502697,
+          -122.478918
+        ],
+        [
+          37.502697,
+          -122.478918
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Melanitta perspicillata",
+          "common_name": "Surf Scoter",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 363259490,
+          "uri": "https://www.inaturalist.org/observations/363259490",
+          "user_login": "simon583",
+          "observed_at": "2026-05-19T17:28:00-07:00",
+          "latitude": 37.5026969155,
+          "longitude": -122.4789184789,
+          "positional_accuracy_m": 165,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 7036,
+            "scientific_name": "Melanitta perspicillata",
+            "common_name": "Surf Scoter",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 663086393,
+              "thumbnail_url": "https://static.inaturalist.org/photos/663086393/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/663086393/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/663086393/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pillar Point Harbor, CA, US",
+        "place_id": 128254,
+        "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
+        "breadcrumb": [
+          128254,
+          54030,
           14,
           1,
           97394
