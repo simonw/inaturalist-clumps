@@ -32651,7 +32651,7 @@
             "common_name": "Canada Goose",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Canada Goose",
           "photos": [
             {
               "id": 663335439,
@@ -32859,7 +32859,7 @@
             "common_name": "California Brown Pelican",
             "rank": "subspecies"
           },
-          "species_guess": null,
+          "species_guess": "California Brown Pelican",
           "photos": [
             {
               "id": 663353366,
