@@ -31875,8 +31875,8 @@
           "count": 1
         },
         {
-          "scientific_name": "Columba livia",
-          "common_name": "Rock Pigeon",
+          "scientific_name": "Columba livia domestica",
+          "common_name": "Feral Pigeon",
           "count": 1
         }
       ],
@@ -32009,12 +32009,12 @@
             143618
           ],
           "taxon": {
-            "id": 3017,
-            "scientific_name": "Columba livia",
-            "common_name": "Rock Pigeon",
-            "rank": "species"
+            "id": 122767,
+            "scientific_name": "Columba livia domestica",
+            "common_name": "Feral Pigeon",
+            "rank": "variety"
           },
-          "species_guess": "Rock Pigeon",
+          "species_guess": "Feral Pigeon",
           "photos": [
             {
               "id": 660344126,
@@ -33238,7 +33238,7 @@
             "common_name": "Harbor Seal",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Harbor Seal",
           "photos": [
             {
               "id": 665828550,
@@ -33308,7 +33308,7 @@
             "common_name": "California Sea Lion",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "California Sea Lion",
           "photos": [
             {
               "id": 665836920,
@@ -33378,7 +33378,7 @@
             "common_name": "California Brown Pelican",
             "rank": "subspecies"
           },
-          "species_guess": null,
+          "species_guess": "California Brown Pelican",
           "photos": [
             {
               "id": 665837520,
