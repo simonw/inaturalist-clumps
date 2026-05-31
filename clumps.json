@@ -7,7 +7,7 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 353,
+  "total_observations": 354,
   "skipped_no_time_or_location": 2,
   "total_clumps": 227,
   "clumps": [
@@ -33978,11 +33978,11 @@
     {
       "id": 367248018,
       "started_at": "2026-05-31T14:52:00-07:00",
-      "ended_at": "2026-05-31T14:53:00-07:00",
-      "duration_hours": 0.0167,
+      "ended_at": "2026-05-31T14:54:00-07:00",
+      "duration_hours": 0.0333,
       "centroid": [
-        37.501815,
-        -122.481826
+        37.501846,
+        -122.481835
       ],
       "bbox": [
         [
@@ -33990,17 +33990,22 @@
           -122.481935
         ],
         [
-          37.501892,
+          37.501907,
           -122.481716
         ]
       ],
-      "span_km": 0.0258,
-      "observation_count": 2,
+      "span_km": 0.0269,
+      "observation_count": 3,
       "species": [
         {
           "scientific_name": "Pelecanus occidentalis californicus",
           "common_name": "California Brown Pelican",
           "count": 2
+        },
+        {
+          "scientific_name": "Phoca vitulina richardii",
+          "common_name": "Pacific Harbor Seal",
+          "count": 1
         }
       ],
       "observations": [
@@ -34135,6 +34140,76 @@
               "thumbnail_url": "https://static.inaturalist.org/photos/670650285/medium.jpg",
               "large_url": "https://static.inaturalist.org/photos/670650285/large.jpg",
               "original_url": "https://static.inaturalist.org/photos/670650285/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 367252729,
+          "uri": "https://www.inaturalist.org/observations/367252729",
+          "user_login": "simon583",
+          "observed_at": "2026-05-31T14:54:00-07:00",
+          "latitude": 37.5019067255,
+          "longitude": -122.4818532491,
+          "positional_accuracy_m": 222,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            207217
+          ],
+          "taxon": {
+            "id": 117766,
+            "scientific_name": "Phoca vitulina richardii",
+            "common_name": "Pacific Harbor Seal",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 670658868,
+              "thumbnail_url": "https://static.inaturalist.org/photos/670658868/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/670658868/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/670658868/original.jpg",
               "original_dimensions": {
                 "width": 2048,
                 "height": 1365
