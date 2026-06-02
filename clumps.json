@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 355,
+  "total_observations": 356,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 227,
+  "total_clumps": 228,
   "clumps": [
     {
       "id": 9687475,
@@ -34300,6 +34300,122 @@
           97394
         ]
       }
+    },
+    {
+      "id": 367841339,
+      "started_at": "2026-06-02T11:17:03-07:00",
+      "ended_at": "2026-06-02T11:17:03-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.809033,
+        -122.431525
+      ],
+      "bbox": [
+        [
+          37.809033,
+          -122.431525
+        ],
+        [
+          37.809033,
+          -122.431525
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 367841339,
+          "uri": "https://www.inaturalist.org/observations/367841339",
+          "user_login": "simon583",
+          "observed_at": "2026-06-02T11:17:03-07:00",
+          "latitude": 37.8090333333,
+          "longitude": -122.431525,
+          "positional_accuracy_m": 8,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pier 2, San Francisco, CA, US",
+          "place_ids": [
+            1,
+            14,
+            854,
+            9853,
+            9912,
+            50422,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63097,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            93467,
+            94045,
+            95504,
+            96034,
+            96057,
+            96285,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120629,
+            129174,
+            133888,
+            134683,
+            140260,
+            157662,
+            166265,
+            207217
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 671786719,
+              "thumbnail_url": "https://static.inaturalist.org/photos/671786719/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/671786719/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/671786719/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1536
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pier 2, San Francisco, CA, US",
+        "place_id": 120629,
+        "display_name": "Fort Mason, CA, US",
+        "breadcrumb": [
+          120629,
+          5219,
+          854,
+          14,
+          1,
+          97394
+        ]
+      }
     }
   ],
   "places": {
@@ -35144,6 +35260,19 @@
         14,
         54030,
         92272
+      ]
+    },
+    "120629": {
+      "name": "Fort Mason",
+      "display_name": "Fort Mason, CA, US",
+      "admin_level": null,
+      "place_type": 100,
+      "ancestor_ids": [
+        97394,
+        1,
+        14,
+        854,
+        5219
       ]
     },
     "13112": {
