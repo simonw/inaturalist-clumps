@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 360,
+  "total_observations": 361,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 230,
+  "total_clumps": 231,
   "clumps": [
     {
       "id": 9687475,
@@ -34776,6 +34776,124 @@
         "breadcrumb": [
           128254,
           54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 369086275,
+      "started_at": "2026-06-06T13:07:00-07:00",
+      "ended_at": "2026-06-06T13:07:00-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.639064,
+        -122.491813
+      ],
+      "bbox": [
+        [
+          37.639064,
+          -122.491813
+        ],
+        [
+          37.639064,
+          -122.491813
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Corvus corax",
+          "common_name": "Common Raven",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 369086275,
+          "uri": "https://www.inaturalist.org/observations/369086275",
+          "user_login": "simon583",
+          "observed_at": "2026-06-06T13:07:00-07:00",
+          "latitude": 37.6390641031,
+          "longitude": -122.4918129236,
+          "positional_accuracy_m": 104,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Ingrid B. Lacy Middle School, Pacifica, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            93467,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120714,
+            133888,
+            134683,
+            140260
+          ],
+          "taxon": {
+            "id": 8010,
+            "scientific_name": "Corvus corax",
+            "common_name": "Common Raven",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 674160515,
+              "thumbnail_url": "https://static.inaturalist.org/photos/674160515/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/674160515/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/674160515/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 674160582,
+              "thumbnail_url": "https://static.inaturalist.org/photos/674160582/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/674160582/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/674160582/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Ingrid B. Lacy Middle School, Pacifica, CA, US",
+        "place_id": 1919,
+        "display_name": "San Mateo County, CA, US",
+        "breadcrumb": [
+          1919,
           14,
           1,
           97394
