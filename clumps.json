@@ -34923,8 +34923,8 @@
       "observation_count": 1,
       "species": [
         {
-          "scientific_name": "Selasphorus sasin",
-          "common_name": "Allen's Hummingbird",
+          "scientific_name": "Trochilidae",
+          "common_name": "Hummingbirds",
           "count": 1
         }
       ],
@@ -34971,12 +34971,12 @@
             140260
           ],
           "taxon": {
-            "id": 6359,
-            "scientific_name": "Selasphorus sasin",
-            "common_name": "Allen's Hummingbird",
-            "rank": "species"
+            "id": 5562,
+            "scientific_name": "Trochilidae",
+            "common_name": "Hummingbirds",
+            "rank": "family"
           },
-          "species_guess": null,
+          "species_guess": "Hummingbirds",
           "photos": [
             {
               "id": 674295738,
