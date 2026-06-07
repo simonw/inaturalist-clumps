@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 362,
+  "total_observations": 365,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 232,
+  "total_clumps": 233,
   "clumps": [
     {
       "id": 9687475,
@@ -35019,6 +35019,275 @@
       ],
       "location": {
         "place_guess": null,
+        "place_id": 1919,
+        "display_name": "San Mateo County, CA, US",
+        "breadcrumb": [
+          1919,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 369371861,
+      "started_at": "2026-06-07T08:37:00-07:00",
+      "ended_at": "2026-06-07T09:38:00-07:00",
+      "duration_hours": 1.0167,
+      "centroid": [
+        37.495478,
+        -122.496067
+      ],
+      "bbox": [
+        [
+          37.495136,
+          -122.497062
+        ],
+        [
+          37.496113,
+          -122.495027
+        ]
+      ],
+      "span_km": 0.2099,
+      "observation_count": 3,
+      "species": [
+        {
+          "scientific_name": "Sialia mexicana",
+          "common_name": "Western Bluebird",
+          "count": 1
+        },
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        },
+        {
+          "scientific_name": "Pandion haliaetus",
+          "common_name": "Osprey",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 369371861,
+          "uri": "https://www.inaturalist.org/observations/369371861",
+          "user_login": "simon583",
+          "observed_at": "2026-06-07T08:37:00-07:00",
+          "latitude": 37.4961133492,
+          "longitude": -122.4950268345,
+          "positional_accuracy_m": 165,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point West Shoreline Trail, El Granada, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            63687,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            133888,
+            140260,
+            154799,
+            207217
+          ],
+          "taxon": {
+            "id": 12937,
+            "scientific_name": "Sialia mexicana",
+            "common_name": "Western Bluebird",
+            "rank": "species"
+          },
+          "species_guess": "Western Bluebird",
+          "photos": [
+            {
+              "id": 674704193,
+              "thumbnail_url": "https://static.inaturalist.org/photos/674704193/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/674704193/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/674704193/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 369372718,
+          "uri": "https://www.inaturalist.org/observations/369372718",
+          "user_login": "simon583",
+          "observed_at": "2026-06-07T08:52:00-07:00",
+          "latitude": 37.4951834659,
+          "longitude": -122.4961125969,
+          "positional_accuracy_m": 164,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "North Pacific Ocean, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51152,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            63687,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96683,
+            96687,
+            97394,
+            112245,
+            118406,
+            118564,
+            119138,
+            120714,
+            128254,
+            133888,
+            140260,
+            207217
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": "California Brown Pelican",
+          "photos": [
+            {
+              "id": 674705037,
+              "thumbnail_url": "https://static.inaturalist.org/photos/674705037/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/674705037/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/674705037/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1366
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 369395776,
+          "uri": "https://www.inaturalist.org/observations/369395776",
+          "user_login": "simon583",
+          "observed_at": "2026-06-07T09:38:00-07:00",
+          "latitude": 37.4951360399,
+          "longitude": -122.4970624821,
+          "positional_accuracy_m": 500,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "North Pacific Ocean, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96683,
+            96687,
+            97394,
+            112245,
+            118406,
+            118564,
+            119138,
+            120714,
+            128254,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 116999,
+            "scientific_name": "Pandion haliaetus",
+            "common_name": "Osprey",
+            "rank": "species"
+          },
+          "species_guess": "Osprey",
+          "photos": [
+            {
+              "id": 674746896,
+              "thumbnail_url": "https://static.inaturalist.org/photos/674746896/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/674746896/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/674746896/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1297
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 674746946,
+              "thumbnail_url": "https://static.inaturalist.org/photos/674746946/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/674746946/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/674746946/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "North Pacific Ocean, CA, US",
         "place_id": 1919,
         "display_name": "San Mateo County, CA, US",
         "breadcrumb": [
