@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 361,
+  "total_observations": 362,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 231,
+  "total_clumps": 232,
   "clumps": [
     {
       "id": 9687475,
@@ -34890,6 +34890,135 @@
       ],
       "location": {
         "place_guess": "Ingrid B. Lacy Middle School, Pacifica, CA, US",
+        "place_id": 1919,
+        "display_name": "San Mateo County, CA, US",
+        "breadcrumb": [
+          1919,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 369155226,
+      "started_at": "2026-06-06T17:08:00-07:00",
+      "ended_at": "2026-06-06T17:08:00-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.401501,
+        -122.446704
+      ],
+      "bbox": [
+        [
+          37.401501,
+          -122.446704
+        ],
+        [
+          37.401501,
+          -122.446704
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Selasphorus sasin",
+          "common_name": "Allen's Hummingbird",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 369155226,
+          "uri": "https://www.inaturalist.org/observations/369155226",
+          "user_login": "simon583",
+          "observed_at": "2026-06-06T17:08:00-07:00",
+          "latitude": 37.4015008387,
+          "longitude": -122.4467035001,
+          "positional_accuracy_m": null,
+          "obscured": true,
+          "geoprivacy": "obscured",
+          "place_guess": "California, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 6359,
+            "scientific_name": "Selasphorus sasin",
+            "common_name": "Allen's Hummingbird",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 674295738,
+              "thumbnail_url": "https://static.inaturalist.org/photos/674295738/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/674295738/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/674295738/original.jpg",
+              "original_dimensions": {
+                "width": 1365,
+                "height": 2048
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 674295785,
+              "thumbnail_url": "https://static.inaturalist.org/photos/674295785/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/674295785/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/674295785/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 674295811,
+              "thumbnail_url": "https://static.inaturalist.org/photos/674295811/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/674295811/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/674295811/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": null,
         "place_id": 1919,
         "display_name": "San Mateo County, CA, US",
         "breadcrumb": [
