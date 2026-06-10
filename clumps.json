@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 365,
+  "total_observations": 368,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 233,
+  "total_clumps": 234,
   "clumps": [
     {
       "id": 9687475,
@@ -35292,6 +35292,277 @@
         "display_name": "San Mateo County, CA, US",
         "breadcrumb": [
           1919,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 370449104,
+      "started_at": "2026-06-10T10:00:17-07:00",
+      "ended_at": "2026-06-10T10:20:00-07:00",
+      "duration_hours": 0.3286,
+      "centroid": [
+        37.503211,
+        -122.485369
+      ],
+      "bbox": [
+        [
+          37.502805,
+          -122.486075
+        ],
+        [
+          37.50396,
+          -122.484023
+        ]
+      ],
+      "span_km": 0.2219,
+      "observation_count": 3,
+      "species": [
+        {
+          "scientific_name": "Pelecanus occidentalis",
+          "common_name": "Brown Pelican",
+          "count": 1
+        },
+        {
+          "scientific_name": "Sturnus vulgaris",
+          "common_name": "European Starling",
+          "count": 1
+        },
+        {
+          "scientific_name": "Ardea herodias",
+          "common_name": "Great Blue Heron",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 370449585,
+          "uri": "https://www.inaturalist.org/observations/370449585",
+          "user_login": "simon583",
+          "observed_at": "2026-06-10T10:00:17-07:00",
+          "latitude": 37.5028051091,
+          "longitude": -122.486075467,
+          "positional_accuracy_m": 501,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 4328,
+            "scientific_name": "Pelecanus occidentalis",
+            "common_name": "Brown Pelican",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 676742907,
+              "thumbnail_url": "https://static.inaturalist.org/photos/676742907/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/676742907/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/676742907/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 370449252,
+          "uri": "https://www.inaturalist.org/observations/370449252",
+          "user_login": "simon583",
+          "observed_at": "2026-06-10T10:12:20-07:00",
+          "latitude": 37.5028683333,
+          "longitude": -122.4840233333,
+          "positional_accuracy_m": null,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor Trail, El Granada, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 14850,
+            "scientific_name": "Sturnus vulgaris",
+            "common_name": "European Starling",
+            "rank": "species"
+          },
+          "species_guess": "European Starling",
+          "photos": [
+            {
+              "id": 676742321,
+              "thumbnail_url": "https://static.inaturalist.org/photos/676742321/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/676742321/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/676742321/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 370449104,
+          "uri": "https://www.inaturalist.org/observations/370449104",
+          "user_login": "simon583",
+          "observed_at": "2026-06-10T10:20:00-07:00",
+          "latitude": 37.50396,
+          "longitude": -122.4860083333,
+          "positional_accuracy_m": null,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Capistrano Rd, El Granada, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 4956,
+            "scientific_name": "Ardea herodias",
+            "common_name": "Great Blue Heron",
+            "rank": "species"
+          },
+          "species_guess": "Great Blue Heron",
+          "photos": [
+            {
+              "id": 676742055,
+              "thumbnail_url": "https://static.inaturalist.org/photos/676742055/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/676742055/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/676742055/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 676742053,
+              "thumbnail_url": "https://static.inaturalist.org/photos/676742053/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/676742053/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/676742053/original.jpg",
+              "original_dimensions": {
+                "width": 1365,
+                "height": 2048
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Capistrano Rd, El Granada, CA, US",
+        "place_id": 128254,
+        "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
+        "breadcrumb": [
+          128254,
+          54030,
           14,
           1,
           97394
