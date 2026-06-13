@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 368,
+  "total_observations": 369,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 234,
+  "total_clumps": 235,
   "clumps": [
     {
       "id": 9687475,
@@ -35558,6 +35558,130 @@
       ],
       "location": {
         "place_guess": "Capistrano Rd, El Granada, CA, US",
+        "place_id": 128254,
+        "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
+        "breadcrumb": [
+          128254,
+          54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 371094916,
+      "started_at": "2026-06-12T19:49:00-07:00",
+      "ended_at": "2026-06-12T19:49:00-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.503025,
+        -122.482605
+      ],
+      "bbox": [
+        [
+          37.503025,
+          -122.482605
+        ],
+        [
+          37.503025,
+          -122.482605
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Phoca vitulina",
+          "common_name": "Harbor Seal",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 371094916,
+          "uri": "https://www.inaturalist.org/observations/371094916",
+          "user_login": "simon583",
+          "observed_at": "2026-06-12T19:49:00-07:00",
+          "latitude": 37.5030249919,
+          "longitude": -122.482605,
+          "positional_accuracy_m": 500,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, El Granada, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 41708,
+            "scientific_name": "Phoca vitulina",
+            "common_name": "Harbor Seal",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 678002199,
+              "thumbnail_url": "https://static.inaturalist.org/photos/678002199/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/678002199/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/678002199/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 678002244,
+              "thumbnail_url": "https://static.inaturalist.org/photos/678002244/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/678002244/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/678002244/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pillar Point Harbor, El Granada, CA, US",
         "place_id": 128254,
         "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
         "breadcrumb": [
