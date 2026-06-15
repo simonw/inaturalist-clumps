@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 373,
+  "total_observations": 374,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 236,
+  "total_clumps": 237,
   "clumps": [
     {
       "id": 9687475,
@@ -35782,7 +35782,7 @@
             "common_name": "Great Blue Heron",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Great Blue Heron",
           "photos": [
             {
               "id": 679116360,
@@ -35851,7 +35851,7 @@
             "common_name": "California Sea Lion",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "California Sea Lion",
           "photos": [
             {
               "id": 679115808,
@@ -35997,6 +35997,140 @@
               "thumbnail_url": "https://static.inaturalist.org/photos/679115365/medium.jpg",
               "large_url": "https://static.inaturalist.org/photos/679115365/large.jpg",
               "original_url": "https://static.inaturalist.org/photos/679115365/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pillar Point Harbor, CA, US",
+        "place_id": 128254,
+        "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
+        "breadcrumb": [
+          128254,
+          54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 371818093,
+      "started_at": "2026-06-14T17:38:00-07:00",
+      "ended_at": "2026-06-14T17:38:00-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.503143,
+        -122.480269
+      ],
+      "bbox": [
+        [
+          37.503143,
+          -122.480269
+        ],
+        [
+          37.503143,
+          -122.480269
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 371818093,
+          "uri": "https://www.inaturalist.org/observations/371818093",
+          "user_login": "simon583",
+          "observed_at": "2026-06-14T17:38:00-07:00",
+          "latitude": 37.5031434779,
+          "longitude": -122.4802690453,
+          "positional_accuracy_m": 419,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 679368849,
+              "thumbnail_url": "https://static.inaturalist.org/photos/679368849/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/679368849/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/679368849/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 679368893,
+              "thumbnail_url": "https://static.inaturalist.org/photos/679368893/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/679368893/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/679368893/original.jpg",
+              "original_dimensions": {
+                "width": 1365,
+                "height": 2048
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 679368963,
+              "thumbnail_url": "https://static.inaturalist.org/photos/679368963/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/679368963/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/679368963/original.jpg",
               "original_dimensions": {
                 "width": 2048,
                 "height": 1365
