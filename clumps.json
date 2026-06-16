@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 374,
+  "total_observations": 375,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 237,
+  "total_clumps": 238,
   "clumps": [
     {
       "id": 9687475,
@@ -36131,6 +36131,153 @@
               "thumbnail_url": "https://static.inaturalist.org/photos/679368963/medium.jpg",
               "large_url": "https://static.inaturalist.org/photos/679368963/large.jpg",
               "original_url": "https://static.inaturalist.org/photos/679368963/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pillar Point Harbor, CA, US",
+        "place_id": 128254,
+        "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
+        "breadcrumb": [
+          128254,
+          54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 372171967,
+      "started_at": "2026-06-15T18:56:00-07:00",
+      "ended_at": "2026-06-15T18:56:00-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.502452,
+        -122.480492
+      ],
+      "bbox": [
+        [
+          37.502452,
+          -122.480492
+        ],
+        [
+          37.502452,
+          -122.480492
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Phoca vitulina richardii",
+          "common_name": "Pacific Harbor Seal",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 372171967,
+          "uri": "https://www.inaturalist.org/observations/372171967",
+          "user_login": "simon583",
+          "observed_at": "2026-06-15T18:56:00-07:00",
+          "latitude": 37.5024522231,
+          "longitude": -122.4804917627,
+          "positional_accuracy_m": 270,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 117766,
+            "scientific_name": "Phoca vitulina richardii",
+            "common_name": "Pacific Harbor Seal",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 680057714,
+              "thumbnail_url": "https://static.inaturalist.org/photos/680057714/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/680057714/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/680057714/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 680057775,
+              "thumbnail_url": "https://static.inaturalist.org/photos/680057775/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/680057775/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/680057775/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 680057840,
+              "thumbnail_url": "https://static.inaturalist.org/photos/680057840/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/680057840/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/680057840/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 680057916,
+              "thumbnail_url": "https://static.inaturalist.org/photos/680057916/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/680057916/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/680057916/original.jpg",
               "original_dimensions": {
                 "width": 2048,
                 "height": 1365
