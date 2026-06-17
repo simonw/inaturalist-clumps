@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 381,
+  "total_observations": 384,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 239,
+  "total_clumps": 242,
   "clumps": [
     {
       "id": 9687475,
@@ -26904,6 +26904,128 @@
       }
     },
     {
+      "id": 372525176,
+      "started_at": "2023-02-04T10:12:43-08:00",
+      "ended_at": "2023-02-04T10:12:43-08:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.116363,
+        -122.328904
+      ],
+      "bbox": [
+        [
+          37.116363,
+          -122.328904
+        ],
+        [
+          37.116363,
+          -122.328904
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Mirounga angustirostris",
+          "common_name": "Northern Elephant Seal",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 372525176,
+          "uri": "https://www.inaturalist.org/observations/372525176",
+          "user_login": "simon583",
+          "observed_at": "2023-02-04T10:12:43-08:00",
+          "latitude": 37.1163634692,
+          "longitude": -122.3289039769,
+          "positional_accuracy_m": 605,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Año Nuevo Coast Natural Preserve, Pescadero, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            5221,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            66741,
+            92151,
+            92337,
+            93467,
+            94045,
+            95504,
+            96034,
+            96683,
+            96687,
+            97394,
+            111885,
+            119138,
+            120148,
+            124258,
+            128797,
+            133886,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 41728,
+            "scientific_name": "Mirounga angustirostris",
+            "common_name": "Northern Elephant Seal",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 680738159,
+              "thumbnail_url": "https://static.inaturalist.org/photos/680738159/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/680738159/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/680738159/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 680738180,
+              "thumbnail_url": "https://static.inaturalist.org/photos/680738180/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/680738180/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/680738180/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Año Nuevo Coast Natural Preserve, Pescadero, CA, US",
+        "place_id": 5221,
+        "display_name": "Año Nuevo State Reserve, CA, US",
+        "breadcrumb": [
+          5221,
+          1919,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
       "id": 148649020,
       "started_at": "2023-02-12T15:35:22-08:00",
       "ended_at": "2023-02-12T15:35:22-08:00",
@@ -28712,6 +28834,138 @@
       }
     },
     {
+      "id": 372524721,
+      "started_at": "2023-08-02T13:42:38-07:00",
+      "ended_at": "2023-08-02T13:42:38-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        36.879933,
+        -121.632279
+      ],
+      "bbox": [
+        [
+          36.879933,
+          -121.632279
+        ],
+        [
+          36.879933,
+          -121.632279
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Enhydra lutris nereis",
+          "common_name": "Southern Sea Otter",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 372524721,
+          "uri": "https://www.inaturalist.org/observations/372524721",
+          "user_login": "simon583",
+          "observed_at": "2023-08-02T13:42:38-07:00",
+          "latitude": 36.8799331453,
+          "longitude": -121.6322790045,
+          "positional_accuracy_m": 369,
+          "obscured": true,
+          "geoprivacy": null,
+          "place_guess": "California, US",
+          "place_ids": [
+            1,
+            14,
+            1921,
+            9853,
+            51330,
+            54030,
+            59613,
+            62068,
+            62332,
+            62622,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118063,
+            119138,
+            120714,
+            128254,
+            133886,
+            150804,
+            154028
+          ],
+          "taxon": {
+            "id": 117520,
+            "scientific_name": "Enhydra lutris nereis",
+            "common_name": "Southern Sea Otter",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 680737193,
+              "thumbnail_url": "https://static.inaturalist.org/photos/680737193/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/680737193/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/680737193/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 680737699,
+              "thumbnail_url": "https://static.inaturalist.org/photos/680737699/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/680737699/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/680737699/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 680737728,
+              "thumbnail_url": "https://static.inaturalist.org/photos/680737728/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/680737728/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/680737728/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": null,
+        "place_id": 118063,
+        "display_name": "Monterey Bay Area, CA, US",
+        "breadcrumb": [
+          118063,
+          92272,
+          54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
       "id": 177269680,
       "started_at": "2023-08-07T17:32:58-07:00",
       "ended_at": "2023-08-07T17:32:58-07:00",
@@ -29055,6 +29309,115 @@
         "breadcrumb": [
           128254,
           54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 372524996,
+      "started_at": "2025-02-14T11:12:22-08:00",
+      "ended_at": "2025-02-14T11:12:22-08:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.114187,
+        -122.328904
+      ],
+      "bbox": [
+        [
+          37.114187,
+          -122.328904
+        ],
+        [
+          37.114187,
+          -122.328904
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Mirounga angustirostris",
+          "common_name": "Northern Elephant Seal",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 372524996,
+          "uri": "https://www.inaturalist.org/observations/372524996",
+          "user_login": "simon583",
+          "observed_at": "2025-02-14T11:12:22-08:00",
+          "latitude": 37.1141867984,
+          "longitude": -122.3289043381,
+          "positional_accuracy_m": 370,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Año Nuevo Coast Natural Preserve, Pescadero, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            5221,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96683,
+            96687,
+            97394,
+            111885,
+            119138,
+            120148,
+            124258,
+            128254,
+            133886,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 41728,
+            "scientific_name": "Mirounga angustirostris",
+            "common_name": "Northern Elephant Seal",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 680737884,
+              "thumbnail_url": "https://static.inaturalist.org/photos/680737884/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/680737884/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/680737884/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Año Nuevo Coast Natural Preserve, Pescadero, CA, US",
+        "place_id": 5221,
+        "display_name": "Año Nuevo State Reserve, CA, US",
+        "breadcrumb": [
+          5221,
+          1919,
           14,
           1,
           97394
