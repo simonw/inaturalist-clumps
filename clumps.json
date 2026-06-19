@@ -37410,7 +37410,7 @@
             "common_name": "California Brown Pelican",
             "rank": "subspecies"
           },
-          "species_guess": null,
+          "species_guess": "California Brown Pelican",
           "photos": [
             {
               "id": 681926968,
@@ -37479,7 +37479,7 @@
             "common_name": "Pacific Harbor Seal",
             "rank": "subspecies"
           },
-          "species_guess": null,
+          "species_guess": "Pacific Harbor Seal",
           "photos": [
             {
               "id": 681926905,
