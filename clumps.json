@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 393,
+  "total_observations": 394,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 246,
+  "total_clumps": 247,
   "clumps": [
     {
       "id": 9687475,
@@ -38010,6 +38010,153 @@
       ],
       "location": {
         "place_guess": "Pillar Point Harbor, CA, US",
+        "place_id": 128254,
+        "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
+        "breadcrumb": [
+          128254,
+          54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 374647896,
+      "started_at": "2026-06-23T09:39:00-07:00",
+      "ended_at": "2026-06-23T09:39:00-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.50114,
+        -122.474223
+      ],
+      "bbox": [
+        [
+          37.50114,
+          -122.474223
+        ],
+        [
+          37.50114,
+          -122.474223
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Corvus corax",
+          "common_name": "Common Raven",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 374647896,
+          "uri": "https://www.inaturalist.org/observations/374647896",
+          "user_login": "simon583",
+          "observed_at": "2026-06-23T09:39:00-07:00",
+          "latitude": 37.5011403591,
+          "longitude": -122.4742225742,
+          "positional_accuracy_m": 178,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor Trail, Half Moon Bay, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 8010,
+            "scientific_name": "Corvus corax",
+            "common_name": "Common Raven",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 684806278,
+              "thumbnail_url": "https://static.inaturalist.org/photos/684806278/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/684806278/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/684806278/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 684806339,
+              "thumbnail_url": "https://static.inaturalist.org/photos/684806339/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/684806339/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/684806339/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 684806397,
+              "thumbnail_url": "https://static.inaturalist.org/photos/684806397/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/684806397/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/684806397/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 684806452,
+              "thumbnail_url": "https://static.inaturalist.org/photos/684806452/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/684806452/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/684806452/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pillar Point Harbor Trail, Half Moon Bay, CA, US",
         "place_id": 128254,
         "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
         "breadcrumb": [
