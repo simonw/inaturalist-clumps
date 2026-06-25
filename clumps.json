@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 396,
+  "total_observations": 398,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 248,
+  "total_clumps": 249,
   "clumps": [
     {
       "id": 9687475,
@@ -38371,6 +38371,206 @@
         "breadcrumb": [
           128254,
           54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 375361939,
+      "started_at": "2026-06-25T14:24:00-07:00",
+      "ended_at": "2026-06-25T14:39:08-07:00",
+      "duration_hours": 0.2522,
+      "centroid": [
+        37.119262,
+        -122.32457
+      ],
+      "bbox": [
+        [
+          37.115649,
+          -122.326245
+        ],
+        [
+          37.122874,
+          -122.322895
+        ]
+      ],
+      "span_km": 0.8566,
+      "observation_count": 2,
+      "species": [
+        {
+          "scientific_name": "Zonotrichia leucophrys",
+          "common_name": "White-crowned Sparrow",
+          "count": 1
+        },
+        {
+          "scientific_name": "Cathartes aura",
+          "common_name": "Turkey Vulture",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 375361939,
+          "uri": "https://www.inaturalist.org/observations/375361939",
+          "user_login": "simon583",
+          "observed_at": "2026-06-25T14:24:00-07:00",
+          "latitude": 37.1228743141,
+          "longitude": -122.3228952412,
+          "positional_accuracy_m": 4118,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Cabrillo Hwy, Pescadero, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            66741,
+            92151,
+            92337,
+            93467,
+            94045,
+            95504,
+            96034,
+            96683,
+            96687,
+            97394,
+            119138,
+            128797,
+            133886,
+            140260
+          ],
+          "taxon": {
+            "id": 9176,
+            "scientific_name": "Zonotrichia leucophrys",
+            "common_name": "White-crowned Sparrow",
+            "rank": "species"
+          },
+          "species_guess": "White-crowned Sparrow",
+          "photos": [
+            {
+              "id": 686193079,
+              "thumbnail_url": "https://static.inaturalist.org/photos/686193079/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/686193079/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/686193079/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 686193098,
+              "thumbnail_url": "https://static.inaturalist.org/photos/686193098/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/686193098/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/686193098/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 375362065,
+          "uri": "https://www.inaturalist.org/observations/375362065",
+          "user_login": "simon583",
+          "observed_at": "2026-06-25T14:39:08-07:00",
+          "latitude": 37.115648785,
+          "longitude": -122.3262454033,
+          "positional_accuracy_m": 415,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Año Nuevo Coast Natural Preserve, Pescadero, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            5221,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96683,
+            96687,
+            97394,
+            111885,
+            119138,
+            120148,
+            124258,
+            128254,
+            128797,
+            133886,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 4756,
+            "scientific_name": "Cathartes aura",
+            "common_name": "Turkey Vulture",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 686193322,
+              "thumbnail_url": "https://static.inaturalist.org/photos/686193322/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/686193322/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/686193322/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 686193359,
+              "thumbnail_url": "https://static.inaturalist.org/photos/686193359/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/686193359/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/686193359/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Año Nuevo Coast Natural Preserve, Pescadero, CA, US",
+        "place_id": 1919,
+        "display_name": "San Mateo County, CA, US",
+        "breadcrumb": [
+          1919,
           14,
           1,
           97394
