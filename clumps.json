@@ -8728,17 +8728,17 @@
       "ended_at": "2019-03-22T17:22:52-07:00",
       "duration_hours": 0.0,
       "centroid": [
-        33.956661,
-        -115.985364
+        33.940823,
+        -115.815651
       ],
       "bbox": [
         [
-          33.956661,
-          -115.985364
+          33.940823,
+          -115.815651
         ],
         [
-          33.956661,
-          -115.985364
+          33.940823,
+          -115.815651
         ]
       ],
       "span_km": 0.0,
@@ -8756,12 +8756,12 @@
           "uri": "https://www.inaturalist.org/observations/22179100",
           "user_login": "simonw",
           "observed_at": "2019-03-22T17:22:52-07:00",
-          "latitude": 33.9566607174,
-          "longitude": -115.9853638228,
+          "latitude": 33.9408227136,
+          "longitude": -115.8156508919,
           "positional_accuracy_m": 3181,
-          "obscured": false,
+          "obscured": true,
           "geoprivacy": null,
-          "place_guess": "Joshua Tree National Park, Desert Hot Springs, CA, US",
+          "place_guess": "California, US",
           "place_ids": [
             1,
             14,
@@ -8787,7 +8787,6 @@
             97394,
             118341,
             118386,
-            118666,
             120002,
             124413,
             124813,
@@ -8819,7 +8818,7 @@
         }
       ],
       "location": {
-        "place_guess": "Joshua Tree National Park, Desert Hot Springs, CA, US",
+        "place_guess": null,
         "place_id": 917,
         "display_name": "Riverside County, US, CA",
         "breadcrumb": [
