@@ -7,7 +7,7 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 398,
+  "total_observations": 399,
   "skipped_no_time_or_location": 2,
   "total_clumps": 249,
   "clumps": [
@@ -38383,25 +38383,30 @@
       "ended_at": "2026-06-25T14:39:08-07:00",
       "duration_hours": 0.2522,
       "centroid": [
-        37.119262,
-        -122.32457
+        37.117453,
+        -122.325618
       ],
       "bbox": [
         [
-          37.115649,
-          -122.326245
+          37.113836,
+          -122.327714
         ],
         [
           37.122874,
           -122.322895
         ]
       ],
-      "span_km": 0.8566,
-      "observation_count": 2,
+      "span_km": 1.0921,
+      "observation_count": 3,
       "species": [
         {
           "scientific_name": "Zonotrichia leucophrys",
           "common_name": "White-crowned Sparrow",
+          "count": 1
+        },
+        {
+          "scientific_name": "Mirounga angustirostris",
+          "common_name": "Northern Elephant Seal",
           "count": 1
         },
         {
@@ -38486,6 +38491,73 @@
           ]
         },
         {
+          "id": 375362393,
+          "uri": "https://www.inaturalist.org/observations/375362393",
+          "user_login": "simon583",
+          "observed_at": "2026-06-25T14:38:25-07:00",
+          "latitude": 37.113836039,
+          "longitude": -122.3277144833,
+          "positional_accuracy_m": 255,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Año Nuevo Coast Natural Preserve, Pescadero, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            5221,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96683,
+            96687,
+            97394,
+            111885,
+            118406,
+            119138,
+            120148,
+            124258,
+            128254,
+            133886,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 41728,
+            "scientific_name": "Mirounga angustirostris",
+            "common_name": "Northern Elephant Seal",
+            "rank": "species"
+          },
+          "species_guess": "Northern Elephant Seal",
+          "photos": [
+            {
+              "id": 686193845,
+              "thumbnail_url": "https://static.inaturalist.org/photos/686193845/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/686193845/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/686193845/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1350
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
           "id": 375362065,
           "uri": "https://www.inaturalist.org/observations/375362065",
           "user_login": "simon583",
@@ -38536,7 +38608,7 @@
             "common_name": "Turkey Vulture",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Turkey Vulture",
           "photos": [
             {
               "id": 686193322,
