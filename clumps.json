@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 399,
+  "total_observations": 402,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 249,
+  "total_clumps": 250,
   "clumps": [
     {
       "id": 9687475,
@@ -38643,6 +38643,299 @@
         "display_name": "San Mateo County, CA, US",
         "breadcrumb": [
           1919,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 377043228,
+      "started_at": "2026-06-30T19:49:00-07:00",
+      "ended_at": "2026-06-30T20:04:00-07:00",
+      "duration_hours": 0.25,
+      "centroid": [
+        37.502087,
+        -122.47883
+      ],
+      "bbox": [
+        [
+          37.501471,
+          -122.483007
+        ],
+        [
+          37.502434,
+          -122.475175
+        ]
+      ],
+      "span_km": 0.6992,
+      "observation_count": 3,
+      "species": [
+        {
+          "scientific_name": "Phoca vitulina richardii",
+          "common_name": "Pacific Harbor Seal",
+          "count": 1
+        },
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        },
+        {
+          "scientific_name": "Tringa semipalmata",
+          "common_name": "Willet",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 377044608,
+          "uri": "https://www.inaturalist.org/observations/377044608",
+          "user_login": "simon583",
+          "observed_at": "2026-06-30T19:49:00-07:00",
+          "latitude": 37.5024337971,
+          "longitude": -122.4830070828,
+          "positional_accuracy_m": 132,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 117766,
+            "scientific_name": "Phoca vitulina richardii",
+            "common_name": "Pacific Harbor Seal",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 689451940,
+              "thumbnail_url": "https://static.inaturalist.org/photos/689451940/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/689451940/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/689451940/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 377044521,
+          "uri": "https://www.inaturalist.org/observations/377044521",
+          "user_login": "simon583",
+          "observed_at": "2026-06-30T19:55:00-07:00",
+          "latitude": 37.50235669,
+          "longitude": -122.4783083511,
+          "positional_accuracy_m": 419,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 689451731,
+              "thumbnail_url": "https://static.inaturalist.org/photos/689451731/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/689451731/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/689451731/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 689451773,
+              "thumbnail_url": "https://static.inaturalist.org/photos/689451773/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/689451773/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/689451773/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 689451820,
+              "thumbnail_url": "https://static.inaturalist.org/photos/689451820/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/689451820/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/689451820/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 377043228,
+          "uri": "https://www.inaturalist.org/observations/377043228",
+          "user_login": "simon583",
+          "observed_at": "2026-06-30T20:04:00-07:00",
+          "latitude": 37.5014710275,
+          "longitude": -122.4751748056,
+          "positional_accuracy_m": 162,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, Half Moon Bay, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 144491,
+            "scientific_name": "Tringa semipalmata",
+            "common_name": "Willet",
+            "rank": "species"
+          },
+          "species_guess": "Willet",
+          "photos": [
+            {
+              "id": 689449174,
+              "thumbnail_url": "https://static.inaturalist.org/photos/689449174/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/689449174/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/689449174/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 689449217,
+              "thumbnail_url": "https://static.inaturalist.org/photos/689449217/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/689449217/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/689449217/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pillar Point Harbor, CA, US",
+        "place_id": 128254,
+        "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
+        "breadcrumb": [
+          128254,
+          54030,
           14,
           1,
           97394
