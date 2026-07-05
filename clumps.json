@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 403,
+  "total_observations": 404,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 251,
+  "total_clumps": 252,
   "clumps": [
     {
       "id": 9687475,
@@ -39042,6 +39042,117 @@
               "thumbnail_url": "https://static.inaturalist.org/photos/691448395/medium.jpg",
               "large_url": "https://static.inaturalist.org/photos/691448395/large.jpg",
               "original_url": "https://static.inaturalist.org/photos/691448395/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pillar Point Harbor, CA, US",
+        "place_id": 128254,
+        "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
+        "breadcrumb": [
+          128254,
+          54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 378280788,
+      "started_at": "2026-07-04T20:34:00-07:00",
+      "ended_at": "2026-07-04T20:34:00-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.502766,
+        -122.479343
+      ],
+      "bbox": [
+        [
+          37.502766,
+          -122.479343
+        ],
+        [
+          37.502766,
+          -122.479343
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 378280788,
+          "uri": "https://www.inaturalist.org/observations/378280788",
+          "user_login": "simon583",
+          "observed_at": "2026-07-04T20:34:00-07:00",
+          "latitude": 37.502766167,
+          "longitude": -122.4793426048,
+          "positional_accuracy_m": 419,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 691837138,
+              "thumbnail_url": "https://static.inaturalist.org/photos/691837138/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/691837138/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/691837138/original.jpg",
               "original_dimensions": {
                 "width": 2048,
                 "height": 1365
