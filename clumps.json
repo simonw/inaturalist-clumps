@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 404,
+  "total_observations": 405,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 252,
+  "total_clumps": 253,
   "clumps": [
     {
       "id": 9687475,
@@ -39153,6 +39153,141 @@
               "thumbnail_url": "https://static.inaturalist.org/photos/691837138/medium.jpg",
               "large_url": "https://static.inaturalist.org/photos/691837138/large.jpg",
               "original_url": "https://static.inaturalist.org/photos/691837138/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pillar Point Harbor, CA, US",
+        "place_id": 128254,
+        "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
+        "breadcrumb": [
+          128254,
+          54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 378674232,
+      "started_at": "2026-07-05T16:55:00-07:00",
+      "ended_at": "2026-07-05T16:55:00-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.502762,
+        -122.478218
+      ],
+      "bbox": [
+        [
+          37.502762,
+          -122.478218
+        ],
+        [
+          37.502762,
+          -122.478218
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 378674232,
+          "uri": "https://www.inaturalist.org/observations/378674232",
+          "user_login": "simon583",
+          "observed_at": "2026-07-05T16:55:00-07:00",
+          "latitude": 37.5027617284,
+          "longitude": -122.4782176415,
+          "positional_accuracy_m": 419,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 692595850,
+              "thumbnail_url": "https://static.inaturalist.org/photos/692595850/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/692595850/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/692595850/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 692595917,
+              "thumbnail_url": "https://static.inaturalist.org/photos/692595917/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/692595917/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/692595917/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 692595941,
+              "thumbnail_url": "https://static.inaturalist.org/photos/692595941/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/692595941/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/692595941/original.jpg",
               "original_dimensions": {
                 "width": 2048,
                 "height": 1365
