@@ -22881,7 +22881,7 @@
         },
         {
           "scientific_name": "Angiospermae",
-          "common_name": "Flowering Plants",
+          "common_name": "flowering plants",
           "count": 1
         }
       ],
@@ -23002,7 +23002,7 @@
           "taxon": {
             "id": 47125,
             "scientific_name": "Angiospermae",
-            "common_name": "Flowering Plants",
+            "common_name": "flowering plants",
             "rank": "subphylum"
           },
           "species_guess": "flowering plants",
