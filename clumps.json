@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 405,
+  "total_observations": 407,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 253,
+  "total_clumps": 255,
   "clumps": [
     {
       "id": 9687475,
@@ -39305,6 +39305,238 @@
         "breadcrumb": [
           128254,
           54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 379840635,
+      "started_at": "2026-07-09T10:20:00-07:00",
+      "ended_at": "2026-07-09T10:20:00-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.50466,
+        -122.48809
+      ],
+      "bbox": [
+        [
+          37.50466,
+          -122.48809
+        ],
+        [
+          37.50466,
+          -122.48809
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Calypte anna",
+          "common_name": "Anna's Hummingbird",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 379840635,
+          "uri": "https://www.inaturalist.org/observations/379840635",
+          "user_login": "simon583",
+          "observed_at": "2026-07-09T10:20:00-07:00",
+          "latitude": 37.5046596948,
+          "longitude": -122.4880897046,
+          "positional_accuracy_m": 8,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Broadway, Half Moon Bay, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 6317,
+            "scientific_name": "Calypte anna",
+            "common_name": "Anna's Hummingbird",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 694846338,
+              "thumbnail_url": "https://static.inaturalist.org/photos/694846338/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/694846338/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/694846338/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 694846403,
+              "thumbnail_url": "https://static.inaturalist.org/photos/694846403/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/694846403/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/694846403/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Broadway, Half Moon Bay, CA, US",
+        "place_id": 128254,
+        "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
+        "breadcrumb": [
+          128254,
+          54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 379840979,
+      "started_at": "2026-07-09T16:16:00-07:00",
+      "ended_at": "2026-07-09T16:16:00-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.506267,
+        -122.470035
+      ],
+      "bbox": [
+        [
+          37.506267,
+          -122.470035
+        ],
+        [
+          37.506267,
+          -122.470035
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Melozone crissalis",
+          "common_name": "California Towhee",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 379840979,
+          "uri": "https://www.inaturalist.org/observations/379840979",
+          "user_login": "simon583",
+          "observed_at": "2026-07-09T16:16:00-07:00",
+          "latitude": 37.5062671605,
+          "longitude": -122.4700349418,
+          "positional_accuracy_m": 126,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Francisco St, Half Moon Bay, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 73044,
+            "scientific_name": "Melozone crissalis",
+            "common_name": "California Towhee",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 694847235,
+              "thumbnail_url": "https://static.inaturalist.org/photos/694847235/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/694847235/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/694847235/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Francisco St, Half Moon Bay, CA, US",
+        "place_id": 1919,
+        "display_name": "San Mateo County, CA, US",
+        "breadcrumb": [
+          1919,
           14,
           1,
           97394
