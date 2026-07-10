@@ -39527,6 +39527,18 @@
               },
               "attribution": "(c) Simon Willison, all rights reserved",
               "license_code": null
+            },
+            {
+              "id": 694887878,
+              "thumbnail_url": "https://static.inaturalist.org/photos/694887878/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/694887878/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/694887878/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
             }
           ]
         }
