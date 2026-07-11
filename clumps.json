@@ -7,7 +7,7 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 408,
+  "total_observations": 411,
   "skipped_no_time_or_location": 2,
   "total_clumps": 256,
   "clumps": [
@@ -39554,28 +39554,43 @@
     {
       "id": 380201038,
       "started_at": "2026-07-10T19:42:45-07:00",
-      "ended_at": "2026-07-10T19:42:45-07:00",
-      "duration_hours": 0.0,
+      "ended_at": "2026-07-10T19:49:03-07:00",
+      "duration_hours": 0.105,
       "centroid": [
-        37.502705,
-        -122.48239
+        37.501654,
+        -122.480733
       ],
       "bbox": [
         [
-          37.502705,
+          37.50057,
           -122.48239
         ],
         [
           37.502705,
-          -122.48239
+          -122.4798
         ]
       ],
-      "span_km": 0.0,
-      "observation_count": 1,
+      "span_km": 0.3295,
+      "observation_count": 4,
       "species": [
         {
           "scientific_name": "Nycticorax nycticorax",
           "common_name": "Black-crowned Night Heron",
+          "count": 1
+        },
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        },
+        {
+          "scientific_name": "Phoca vitulina richardii",
+          "common_name": "Pacific Harbor Seal",
+          "count": 1
+        },
+        {
+          "scientific_name": "Ardea herodias",
+          "common_name": "Great Blue Heron",
           "count": 1
         }
       ],
@@ -39659,10 +39674,220 @@
               "license_code": null
             }
           ]
+        },
+        {
+          "id": 380214489,
+          "uri": "https://www.inaturalist.org/observations/380214489",
+          "user_login": "simon583",
+          "observed_at": "2026-07-10T19:46:13-07:00",
+          "latitude": 37.5005697593,
+          "longitude": -122.4803343243,
+          "positional_accuracy_m": 350,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "El Granada, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            207217
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 695580726,
+              "thumbnail_url": "https://static.inaturalist.org/photos/695580726/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/695580726/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/695580726/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 380214673,
+          "uri": "https://www.inaturalist.org/observations/380214673",
+          "user_login": "simon583",
+          "observed_at": "2026-07-10T19:48:31-07:00",
+          "latitude": 37.5019757681,
+          "longitude": -122.4797996128,
+          "positional_accuracy_m": 142,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            207217
+          ],
+          "taxon": {
+            "id": 117766,
+            "scientific_name": "Phoca vitulina richardii",
+            "common_name": "Pacific Harbor Seal",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 695581106,
+              "thumbnail_url": "https://static.inaturalist.org/photos/695581106/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/695581106/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/695581106/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 380214778,
+          "uri": "https://www.inaturalist.org/observations/380214778",
+          "user_login": "simon583",
+          "observed_at": "2026-07-10T19:49:03-07:00",
+          "latitude": 37.5013653254,
+          "longitude": -122.4804067313,
+          "positional_accuracy_m": 47,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            207217
+          ],
+          "taxon": {
+            "id": 4956,
+            "scientific_name": "Ardea herodias",
+            "common_name": "Great Blue Heron",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 695581289,
+              "thumbnail_url": "https://static.inaturalist.org/photos/695581289/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/695581289/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/695581289/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
         }
       ],
       "location": {
-        "place_guess": "Pillar Point Harbor, CA, US",
+        "place_guess": "CA, US",
         "place_id": 128254,
         "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
         "breadcrumb": [
