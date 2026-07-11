@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 407,
+  "total_observations": 408,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 255,
+  "total_clumps": 256,
   "clumps": [
     {
       "id": 9687475,
@@ -39545,6 +39545,129 @@
         "display_name": "San Mateo County, CA, US",
         "breadcrumb": [
           1919,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 380201038,
+      "started_at": "2026-07-10T19:42:45-07:00",
+      "ended_at": "2026-07-10T19:42:45-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.502705,
+        -122.48239
+      ],
+      "bbox": [
+        [
+          37.502705,
+          -122.48239
+        ],
+        [
+          37.502705,
+          -122.48239
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Nycticorax nycticorax",
+          "common_name": "Black-crowned Night Heron",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 380201038,
+          "uri": "https://www.inaturalist.org/observations/380201038",
+          "user_login": "simon583",
+          "observed_at": "2026-07-10T19:42:45-07:00",
+          "latitude": 37.5027046152,
+          "longitude": -122.4823902877,
+          "positional_accuracy_m": 155,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 4981,
+            "scientific_name": "Nycticorax nycticorax",
+            "common_name": "Black-crowned Night Heron",
+            "rank": "species"
+          },
+          "species_guess": "Black-crowned Night Heron",
+          "photos": [
+            {
+              "id": 695554988,
+              "thumbnail_url": "https://static.inaturalist.org/photos/695554988/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/695554988/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/695554988/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 695555129,
+              "thumbnail_url": "https://static.inaturalist.org/photos/695555129/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/695555129/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/695555129/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pillar Point Harbor, CA, US",
+        "place_id": 128254,
+        "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
+        "breadcrumb": [
+          128254,
+          54030,
           14,
           1,
           97394
