@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 411,
+  "total_observations": 415,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 256,
+  "total_clumps": 257,
   "clumps": [
     {
       "id": 9687475,
@@ -39888,6 +39888,333 @@
       ],
       "location": {
         "place_guess": "CA, US",
+        "place_id": 128254,
+        "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
+        "breadcrumb": [
+          128254,
+          54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 381744378,
+      "started_at": "2026-07-14T20:37:42-07:00",
+      "ended_at": "2026-07-14T20:51:58-07:00",
+      "duration_hours": 0.2378,
+      "centroid": [
+        37.502373,
+        -122.481492
+      ],
+      "bbox": [
+        [
+          37.500977,
+          -122.482187
+        ],
+        [
+          37.502969,
+          -122.480508
+        ]
+      ],
+      "span_km": 0.2664,
+      "observation_count": 4,
+      "species": [
+        {
+          "scientific_name": "Nannopterum auritum",
+          "common_name": "Double-crested Cormorant",
+          "count": 2
+        },
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        },
+        {
+          "scientific_name": "Ardea herodias",
+          "common_name": "Great Blue Heron",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 381744378,
+          "uri": "https://www.inaturalist.org/observations/381744378",
+          "user_login": "simon583",
+          "observed_at": "2026-07-14T20:37:42-07:00",
+          "latitude": 37.5029433494,
+          "longitude": -122.4813443899,
+          "positional_accuracy_m": 419,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 1454382,
+            "scientific_name": "Nannopterum auritum",
+            "common_name": "Double-crested Cormorant",
+            "rank": "species"
+          },
+          "species_guess": "Double-crested Cormorant",
+          "photos": [
+            {
+              "id": 698535075,
+              "thumbnail_url": "https://static.inaturalist.org/photos/698535075/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/698535075/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/698535075/original.jpg",
+              "original_dimensions": {
+                "width": 1365,
+                "height": 2048
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 381744849,
+          "uri": "https://www.inaturalist.org/observations/381744849",
+          "user_login": "simon583",
+          "observed_at": "2026-07-14T20:41:13-07:00",
+          "latitude": 37.5009772926,
+          "longitude": -122.4805079847,
+          "positional_accuracy_m": 419,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            207217
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": "California Brown Pelican",
+          "photos": [
+            {
+              "id": 698536153,
+              "thumbnail_url": "https://static.inaturalist.org/photos/698536153/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/698536153/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/698536153/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 381744645,
+          "uri": "https://www.inaturalist.org/observations/381744645",
+          "user_login": "simon583",
+          "observed_at": "2026-07-14T20:50:23-07:00",
+          "latitude": 37.5026039305,
+          "longitude": -122.4821874066,
+          "positional_accuracy_m": 419,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 4956,
+            "scientific_name": "Ardea herodias",
+            "common_name": "Great Blue Heron",
+            "rank": "species"
+          },
+          "species_guess": "Great Blue Heron",
+          "photos": [
+            {
+              "id": 698535651,
+              "thumbnail_url": "https://static.inaturalist.org/photos/698535651/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/698535651/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/698535651/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 381744461,
+          "uri": "https://www.inaturalist.org/observations/381744461",
+          "user_login": "simon583",
+          "observed_at": "2026-07-14T20:51:58-07:00",
+          "latitude": 37.5029688628,
+          "longitude": -122.4819276092,
+          "positional_accuracy_m": 419,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, El Granada, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 1454382,
+            "scientific_name": "Nannopterum auritum",
+            "common_name": "Double-crested Cormorant",
+            "rank": "species"
+          },
+          "species_guess": "Double-crested Cormorant",
+          "photos": [
+            {
+              "id": 698535250,
+              "thumbnail_url": "https://static.inaturalist.org/photos/698535250/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/698535250/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/698535250/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pillar Point Harbor, CA, US",
         "place_id": 128254,
         "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
         "breadcrumb": [
