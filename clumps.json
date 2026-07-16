@@ -40513,7 +40513,7 @@
             "common_name": "Great Blue Heron",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Great Blue Heron",
           "photos": [
             {
               "id": 698804174,
@@ -40593,7 +40593,7 @@
             "common_name": "California Brown Pelican",
             "rank": "subspecies"
           },
-          "species_guess": null,
+          "species_guess": "California Brown Pelican",
           "photos": [
             {
               "id": 698804747,
@@ -40661,7 +40661,7 @@
             "common_name": "Willet",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Willet",
           "photos": [
             {
               "id": 698804632,
