@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 422,
+  "total_observations": 424,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 260,
+  "total_clumps": 261,
   "clumps": [
     {
       "id": 9687475,
@@ -40853,6 +40853,202 @@
               "thumbnail_url": "https://static.inaturalist.org/photos/699378777/medium.jpg",
               "large_url": "https://static.inaturalist.org/photos/699378777/large.jpg",
               "original_url": "https://static.inaturalist.org/photos/699378777/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pillar Point Harbor, CA, US",
+        "place_id": 128254,
+        "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
+        "breadcrumb": [
+          128254,
+          54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 383452766,
+      "started_at": "2026-07-19T18:23:53-07:00",
+      "ended_at": "2026-07-19T18:28:43-07:00",
+      "duration_hours": 0.0806,
+      "centroid": [
+        37.502646,
+        -122.478586
+      ],
+      "bbox": [
+        [
+          37.502462,
+          -122.479027
+        ],
+        [
+          37.502829,
+          -122.478145
+        ]
+      ],
+      "span_km": 0.0879,
+      "observation_count": 2,
+      "species": [
+        {
+          "scientific_name": "Thalasseus elegans",
+          "common_name": "Elegant Tern",
+          "count": 1
+        },
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 383452766,
+          "uri": "https://www.inaturalist.org/observations/383452766",
+          "user_login": "simon583",
+          "observed_at": "2026-07-19T18:23:53-07:00",
+          "latitude": 37.5028294472,
+          "longitude": -122.4790272028,
+          "positional_accuracy_m": 419,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 144542,
+            "scientific_name": "Thalasseus elegans",
+            "common_name": "Elegant Tern",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 701825290,
+              "thumbnail_url": "https://static.inaturalist.org/photos/701825290/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/701825290/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/701825290/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1321
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 701825343,
+              "thumbnail_url": "https://static.inaturalist.org/photos/701825343/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/701825343/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/701825343/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 383452851,
+          "uri": "https://www.inaturalist.org/observations/383452851",
+          "user_login": "simon583",
+          "observed_at": "2026-07-19T18:28:43-07:00",
+          "latitude": 37.5024617522,
+          "longitude": -122.4781450432,
+          "positional_accuracy_m": 261,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 701825653,
+              "thumbnail_url": "https://static.inaturalist.org/photos/701825653/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/701825653/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/701825653/original.jpg",
               "original_dimensions": {
                 "width": 2048,
                 "height": 1365
