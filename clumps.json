@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 424,
+  "total_observations": 425,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 261,
+  "total_clumps": 262,
   "clumps": [
     {
       "id": 9687475,
@@ -41066,6 +41066,130 @@
         "breadcrumb": [
           128254,
           54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 383713864,
+      "started_at": "2026-07-21T12:51:03-07:00",
+      "ended_at": "2026-07-21T12:51:03-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.810695,
+        -122.411379
+      ],
+      "bbox": [
+        [
+          37.810695,
+          -122.411379
+        ],
+        [
+          37.810695,
+          -122.411379
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Zalophus californianus",
+          "common_name": "California Sea Lion",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 383713864,
+          "uri": "https://www.inaturalist.org/observations/383713864",
+          "user_login": "simon583",
+          "observed_at": "2026-07-21T12:51:03-07:00",
+          "latitude": 37.8106954522,
+          "longitude": -122.4113785984,
+          "positional_accuracy_m": 47,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "San Francisco Bay, San Francisco, CA, US",
+          "place_ids": [
+            1,
+            14,
+            854,
+            9853,
+            50422,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63097,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            93467,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            129174,
+            133888,
+            134683,
+            140260,
+            157661,
+            166265,
+            207217
+          ],
+          "taxon": {
+            "id": 41740,
+            "scientific_name": "Zalophus californianus",
+            "common_name": "California Sea Lion",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 702321069,
+              "thumbnail_url": "https://static.inaturalist.org/photos/702321069/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/702321069/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/702321069/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 702321114,
+              "thumbnail_url": "https://static.inaturalist.org/photos/702321114/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/702321114/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/702321114/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "San Francisco Bay, San Francisco, CA, US",
+        "place_id": 854,
+        "display_name": "San Francisco County, US, CA",
+        "breadcrumb": [
+          854,
           14,
           1,
           97394
