@@ -7,7 +7,7 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 429,
+  "total_observations": 430,
   "skipped_no_time_or_location": 2,
   "total_clumps": 266,
   "clumps": [
@@ -41577,26 +41577,31 @@
     },
     {
       "id": 386560283,
-      "started_at": "2026-07-29T20:57:13-07:00",
+      "started_at": "2026-07-29T20:32:30-07:00",
       "ended_at": "2026-07-29T20:57:13-07:00",
-      "duration_hours": 0.0,
+      "duration_hours": 0.4119,
       "centroid": [
-        37.503063,
-        -122.479488
+        37.502311,
+        -122.482491
       ],
       "bbox": [
         [
-          37.503063,
-          -122.479488
+          37.50156,
+          -122.485493
         ],
         [
           37.503063,
           -122.479488
         ]
       ],
-      "span_km": 0.0,
-      "observation_count": 1,
+      "span_km": 0.5555,
+      "observation_count": 2,
       "species": [
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        },
         {
           "scientific_name": "Hydroprogne caspia",
           "common_name": "Caspian Tern",
@@ -41604,6 +41609,76 @@
         }
       ],
       "observations": [
+        {
+          "id": 387046400,
+          "uri": "https://www.inaturalist.org/observations/387046400",
+          "user_login": "simon583",
+          "observed_at": "2026-07-29T20:32:30-07:00",
+          "latitude": 37.501559941,
+          "longitude": -122.4854934399,
+          "positional_accuracy_m": 16,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            207217
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 708703287,
+              "thumbnail_url": "https://static.inaturalist.org/photos/708703287/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/708703287/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/708703287/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
         {
           "id": 386560283,
           "uri": "https://www.inaturalist.org/observations/386560283",
