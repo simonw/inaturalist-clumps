@@ -41219,8 +41219,8 @@
       "observation_count": 1,
       "species": [
         {
-          "scientific_name": "Enhydra lutris",
-          "common_name": "Sea Otter",
+          "scientific_name": "Enhydra lutris nereis",
+          "common_name": "Southern Sea Otter",
           "count": 1
         }
       ],
@@ -41268,12 +41268,12 @@
             154028
           ],
           "taxon": {
-            "id": 41860,
-            "scientific_name": "Enhydra lutris",
-            "common_name": "Sea Otter",
-            "rank": "species"
+            "id": 117520,
+            "scientific_name": "Enhydra lutris nereis",
+            "common_name": "Southern Sea Otter",
+            "rank": "subspecies"
           },
-          "species_guess": "Sea Otter",
+          "species_guess": "Southern Sea Otter",
           "photos": [
             {
               "id": 708397038,
