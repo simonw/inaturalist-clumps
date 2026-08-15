@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 437,
+  "total_observations": 438,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 271,
+  "total_clumps": 272,
   "clumps": [
     {
       "id": 9687475,
@@ -42467,6 +42467,115 @@
         "display_name": "Pillar Point Harbor, CA, US",
         "breadcrumb": [
           53576,
+          1919,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 391533950,
+      "started_at": "2026-08-15T10:51:28-07:00",
+      "ended_at": "2026-08-15T10:51:28-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.504442,
+        -122.482605
+      ],
+      "bbox": [
+        [
+          37.504442,
+          -122.482605
+        ],
+        [
+          37.504442,
+          -122.482605
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Calypte anna",
+          "common_name": "Anna's Hummingbird",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 391533950,
+          "uri": "https://www.inaturalist.org/observations/391533950",
+          "user_login": "simon583",
+          "observed_at": "2026-08-15T10:51:28-07:00",
+          "latitude": 37.5044416667,
+          "longitude": -122.482605,
+          "positional_accuracy_m": 4,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Shoppes at Harbor Village, Half Moon Bay, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 6317,
+            "scientific_name": "Calypte anna",
+            "common_name": "Anna's Hummingbird",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 717439134,
+              "thumbnail_url": "https://static.inaturalist.org/photos/717439134/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/717439134/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/717439134/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1536
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Shoppes at Harbor Village, Half Moon Bay, CA, US",
+        "place_id": 1919,
+        "display_name": "San Mateo County, CA, US",
+        "breadcrumb": [
           1919,
           14,
           1,
