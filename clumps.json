@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 436,
+  "total_observations": 437,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 270,
+  "total_clumps": 271,
   "clumps": [
     {
       "id": 9687475,
@@ -42354,6 +42354,119 @@
         "place_id": 1919,
         "display_name": "San Mateo County, CA, US",
         "breadcrumb": [
+          1919,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 391300422,
+      "started_at": "2026-08-14T20:22:00-07:00",
+      "ended_at": "2026-08-14T20:22:00-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.499961,
+        -122.482205
+      ],
+      "bbox": [
+        [
+          37.499961,
+          -122.482205
+        ],
+        [
+          37.499961,
+          -122.482205
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Morus bassanus",
+          "common_name": "Northern Gannet",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 391300422,
+          "uri": "https://www.inaturalist.org/observations/391300422",
+          "user_login": "simon583",
+          "observed_at": "2026-08-14T20:22:00-07:00",
+          "latitude": 37.499961034,
+          "longitude": -122.4822050475,
+          "positional_accuracy_m": 69,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            207217
+          ],
+          "taxon": {
+            "id": 3802,
+            "scientific_name": "Morus bassanus",
+            "common_name": "Northern Gannet",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 716984157,
+              "thumbnail_url": "https://static.inaturalist.org/photos/716984157/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/716984157/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/716984157/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1366
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pillar Point Harbor, CA, US",
+        "place_id": 53576,
+        "display_name": "Pillar Point Harbor, CA, US",
+        "breadcrumb": [
+          53576,
           1919,
           14,
           1,
