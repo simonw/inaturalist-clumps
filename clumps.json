@@ -5767,7 +5767,8 @@
             154028,
             177398,
             186891,
-            214334
+            214334,
+            238213
           ],
           "taxon": {
             "id": 41708,
@@ -5794,9 +5795,10 @@
       ],
       "location": {
         "place_guess": "150–206 Ocean View Blvd, Pacific Grove, CA, US",
-        "place_id": 118063,
-        "display_name": "Monterey Bay Area, CA, US",
+        "place_id": 238213,
+        "display_name": "Monterey Peninsula Shoreline, CA, US",
         "breadcrumb": [
+          238213,
           118063,
           92272,
           54030,
@@ -42906,6 +42908,20 @@
         97391,
         6857,
         6858
+      ]
+    },
+    "238213": {
+      "name": "Monterey Peninsula Shoreline",
+      "display_name": "Monterey Peninsula Shoreline, CA, US",
+      "admin_level": null,
+      "place_type": 16,
+      "ancestor_ids": [
+        97394,
+        1,
+        14,
+        54030,
+        92272,
+        118063
       ]
     },
     "125575": {
