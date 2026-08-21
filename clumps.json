@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 440,
+  "total_observations": 442,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 273,
+  "total_clumps": 274,
   "clumps": [
     {
       "id": 9687475,
@@ -42653,7 +42653,7 @@
             "common_name": "Carrion Crow",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Carrion Crow",
           "photos": [
             {
               "id": 720795182,
@@ -42702,7 +42702,7 @@
             "common_name": "European Fallow Deer",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "European Fallow Deer",
           "photos": [
             {
               "id": 720795339,
@@ -42725,6 +42725,147 @@
         "display_name": "Hackney, England, GB",
         "breadcrumb": [
           30346,
+          6858,
+          6857,
+          97391
+        ]
+      }
+    },
+    {
+      "id": 393274664,
+      "started_at": "2026-08-21T13:58:48+01:00",
+      "ended_at": "2026-08-21T14:08:46+01:00",
+      "duration_hours": 0.1661,
+      "centroid": [
+        50.713122,
+        -3.5248
+      ],
+      "bbox": [
+        [
+          50.711417,
+          -3.526411
+        ],
+        [
+          50.714828,
+          -3.523189
+        ]
+      ],
+      "span_km": 0.4419,
+      "observation_count": 2,
+      "species": [
+        {
+          "scientific_name": "Phalacrocorax carbo",
+          "common_name": "Great Cormorant",
+          "count": 1
+        },
+        {
+          "scientific_name": "Ardea cinerea",
+          "common_name": "Grey Heron",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 393274664,
+          "uri": "https://www.inaturalist.org/observations/393274664",
+          "user_login": "simon583",
+          "observed_at": "2026-08-21T13:58:48+01:00",
+          "latitude": 50.7148275237,
+          "longitude": -3.5264113799,
+          "positional_accuracy_m": 209,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "River Exe, Exeter, England, GB",
+          "place_ids": [
+            6857,
+            6858,
+            30336,
+            59614,
+            67952,
+            80627,
+            81490,
+            96372,
+            97391,
+            108692,
+            149075,
+            202094
+          ],
+          "taxon": {
+            "id": 4270,
+            "scientific_name": "Phalacrocorax carbo",
+            "common_name": "Great Cormorant",
+            "rank": "species"
+          },
+          "species_guess": "Great Cormorant",
+          "photos": [
+            {
+              "id": 720825944,
+              "thumbnail_url": "https://static.inaturalist.org/photos/720825944/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/720825944/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/720825944/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 393275569,
+          "uri": "https://www.inaturalist.org/observations/393275569",
+          "user_login": "simon583",
+          "observed_at": "2026-08-21T14:08:46+01:00",
+          "latitude": 50.7114173987,
+          "longitude": -3.5231888752,
+          "positional_accuracy_m": 83,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "St. David's, Exeter, England, GB",
+          "place_ids": [
+            6857,
+            6858,
+            30336,
+            59614,
+            67952,
+            80627,
+            81490,
+            96372,
+            97391,
+            108692,
+            149075,
+            202094
+          ],
+          "taxon": {
+            "id": 4954,
+            "scientific_name": "Ardea cinerea",
+            "common_name": "Grey Heron",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 720827986,
+              "thumbnail_url": "https://static.inaturalist.org/photos/720827986/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/720827986/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/720827986/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "St. David's, Exeter, England, GB",
+        "place_id": 30336,
+        "display_name": "Devon, England, GB",
+        "breadcrumb": [
+          30336,
           6858,
           6857,
           97391
