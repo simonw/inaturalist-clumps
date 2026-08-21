@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 438,
+  "total_observations": 440,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 272,
+  "total_clumps": 273,
   "clumps": [
     {
       "id": 9687475,
@@ -42585,6 +42585,151 @@
           97394
         ]
       }
+    },
+    {
+      "id": 393259092,
+      "started_at": "2026-08-19T14:16:06+01:00",
+      "ended_at": "2026-08-19T14:25:00+01:00",
+      "duration_hours": 0.1483,
+      "centroid": [
+        51.561314,
+        -0.090192
+      ],
+      "bbox": [
+        [
+          51.560967,
+          -0.090933
+        ],
+        [
+          51.561662,
+          -0.08945
+        ]
+      ],
+      "span_km": 0.1284,
+      "observation_count": 2,
+      "species": [
+        {
+          "scientific_name": "Corvus corone",
+          "common_name": "Carrion Crow",
+          "count": 1
+        },
+        {
+          "scientific_name": "Dama dama",
+          "common_name": "European Fallow Deer",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 393259092,
+          "uri": "https://www.inaturalist.org/observations/393259092",
+          "user_login": "simon583",
+          "observed_at": "2026-08-19T14:16:06+01:00",
+          "latitude": 51.5609666667,
+          "longitude": -0.08945,
+          "positional_accuracy_m": 4,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Clissold Park, London, England, GB",
+          "place_ids": [
+            6857,
+            6858,
+            30346,
+            59614,
+            66357,
+            67952,
+            80627,
+            81490,
+            96372,
+            97391,
+            108692,
+            149132,
+            194596,
+            228957
+          ],
+          "taxon": {
+            "id": 204496,
+            "scientific_name": "Corvus corone",
+            "common_name": "Carrion Crow",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 720795182,
+              "thumbnail_url": "https://static.inaturalist.org/photos/720795182/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/720795182/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/720795182/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1536
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 393259182,
+          "uri": "https://www.inaturalist.org/observations/393259182",
+          "user_login": "simon583",
+          "observed_at": "2026-08-19T14:25:00+01:00",
+          "latitude": 51.5616616667,
+          "longitude": -0.0909333333,
+          "positional_accuracy_m": 41,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Clissold Park, London, England, GB",
+          "place_ids": [
+            6857,
+            6858,
+            30346,
+            59614,
+            66357,
+            67952,
+            80627,
+            81490,
+            96372,
+            97391,
+            108692,
+            149132,
+            194596,
+            228957
+          ],
+          "taxon": {
+            "id": 42161,
+            "scientific_name": "Dama dama",
+            "common_name": "European Fallow Deer",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 720795339,
+              "thumbnail_url": "https://static.inaturalist.org/photos/720795339/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/720795339/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/720795339/original.jpg",
+              "original_dimensions": {
+                "width": 1536,
+                "height": 2048
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Clissold Park, London, England, GB",
+        "place_id": 30346,
+        "display_name": "Hackney, England, GB",
+        "breadcrumb": [
+          30346,
+          6858,
+          6857,
+          97391
+        ]
+      }
     }
   ],
   "places": {
@@ -42943,6 +43088,17 @@
       "place_type": 12,
       "ancestor_ids": [
         97394
+      ]
+    },
+    "30346": {
+      "name": "Hackney",
+      "display_name": "Hackney, England, GB",
+      "admin_level": 20,
+      "place_type": 9,
+      "ancestor_ids": [
+        97391,
+        6857,
+        6858
       ]
     },
     "101525": {
