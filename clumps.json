@@ -7,7 +7,7 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 445,
+  "total_observations": 446,
   "skipped_no_time_or_location": 2,
   "total_clumps": 276,
   "clumps": [
@@ -43016,28 +43016,33 @@
     {
       "id": 394071393,
       "started_at": "2026-08-24T10:47:34+01:00",
-      "ended_at": "2026-08-24T10:47:34+01:00",
-      "duration_hours": 0.0,
+      "ended_at": "2026-08-24T11:33:20+01:00",
+      "duration_hours": 0.7628,
       "centroid": [
-        50.722185,
-        -3.540005
+        50.722125,
+        -3.539796
       ],
       "bbox": [
         [
-          50.722185,
+          50.722065,
           -3.540005
         ],
         [
           50.722185,
-          -3.540005
+          -3.539587
         ]
       ],
-      "span_km": 0.0,
-      "observation_count": 1,
+      "span_km": 0.0324,
+      "observation_count": 2,
       "species": [
         {
           "scientific_name": "Phalacrocorax carbo",
           "common_name": "Great Cormorant",
+          "count": 1
+        },
+        {
+          "scientific_name": "Ardea cinerea",
+          "common_name": "Grey Heron",
           "count": 1
         }
       ],
@@ -43100,10 +43105,57 @@
               "license_code": null
             }
           ]
+        },
+        {
+          "id": 394073868,
+          "uri": "https://www.inaturalist.org/observations/394073868",
+          "user_login": "simon583",
+          "observed_at": "2026-08-24T11:33:20+01:00",
+          "latitude": 50.7220645426,
+          "longitude": -3.5395865528,
+          "positional_accuracy_m": 5,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Mill On The Exe, Exeter, England, GB",
+          "place_ids": [
+            6857,
+            6858,
+            30336,
+            59614,
+            67952,
+            80627,
+            81490,
+            96372,
+            97391,
+            108692,
+            149075,
+            202094
+          ],
+          "taxon": {
+            "id": 4954,
+            "scientific_name": "Ardea cinerea",
+            "common_name": "Grey Heron",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 722397714,
+              "thumbnail_url": "https://static.inaturalist.org/photos/722397714/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/722397714/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/722397714/original.jpg",
+              "original_dimensions": {
+                "width": 1365,
+                "height": 2048
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
         }
       ],
       "location": {
-        "place_guess": "River Exe, Exeter, England, GB",
+        "place_guess": "Mill On The Exe, Exeter, England, GB",
         "place_id": 30336,
         "display_name": "Devon, England, GB",
         "breadcrumb": [
