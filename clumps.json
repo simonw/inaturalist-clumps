@@ -11584,8 +11584,8 @@
       "observation_count": 1,
       "species": [
         {
-          "scientific_name": "Caerostris darwini",
-          "common_name": "Darwin's Bark Spider",
+          "scientific_name": "Caerostris",
+          "common_name": "Bark Spiders",
           "count": 1
         }
       ],
@@ -11613,12 +11613,12 @@
             206937
           ],
           "taxon": {
-            "id": 493256,
-            "scientific_name": "Caerostris darwini",
-            "common_name": "Darwin's Bark Spider",
-            "rank": "species"
+            "id": 194346,
+            "scientific_name": "Caerostris",
+            "common_name": "Bark Spiders",
+            "rank": "genus"
           },
-          "species_guess": "Darwin's Bark Spider",
+          "species_guess": "Bark Spiders",
           "photos": [
             {
               "id": 47019700,
