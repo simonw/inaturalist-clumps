@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 447,
+  "total_observations": 449,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 277,
+  "total_clumps": 278,
   "clumps": [
     {
       "id": 9687475,
@@ -43261,6 +43261,191 @@
           6858,
           6857,
           97391
+        ]
+      }
+    },
+    {
+      "id": 395988569,
+      "started_at": "2026-08-30T16:59:38-07:00",
+      "ended_at": "2026-08-30T17:16:44-07:00",
+      "duration_hours": 0.285,
+      "centroid": [
+        37.502944,
+        -122.490265
+      ],
+      "bbox": [
+        [
+          37.502743,
+          -122.490909
+        ],
+        [
+          37.503145,
+          -122.48962
+        ]
+      ],
+      "span_km": 0.1222,
+      "observation_count": 2,
+      "species": [
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        },
+        {
+          "scientific_name": "Passer domesticus",
+          "common_name": "House Sparrow",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 395988633,
+          "uri": "https://www.inaturalist.org/observations/395988633",
+          "user_login": "simon583",
+          "observed_at": "2026-08-30T16:59:38-07:00",
+          "latitude": 37.502742915,
+          "longitude": -122.4896199553,
+          "positional_accuracy_m": 419,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, Moss Beach, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            63687,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 726145345,
+              "thumbnail_url": "https://static.inaturalist.org/photos/726145345/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/726145345/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/726145345/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 395988569,
+          "uri": "https://www.inaturalist.org/observations/395988569",
+          "user_login": "simon583",
+          "observed_at": "2026-08-30T17:16:44-07:00",
+          "latitude": 37.5031446518,
+          "longitude": -122.4909092348,
+          "positional_accuracy_m": 159,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Princeton Ave, Half Moon Bay, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 13858,
+            "scientific_name": "Passer domesticus",
+            "common_name": "House Sparrow",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 726145199,
+              "thumbnail_url": "https://static.inaturalist.org/photos/726145199/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/726145199/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/726145199/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Princeton Ave, Half Moon Bay, CA, US",
+        "place_id": 128254,
+        "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
+        "breadcrumb": [
+          128254,
+          54030,
+          14,
+          1,
+          97394
         ]
       }
     }
