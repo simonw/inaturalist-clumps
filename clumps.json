@@ -43351,7 +43351,7 @@
             "common_name": "California Brown Pelican",
             "rank": "subspecies"
           },
-          "species_guess": null,
+          "species_guess": "California Brown Pelican",
           "photos": [
             {
               "id": 726145345,
@@ -43419,7 +43419,7 @@
             "common_name": "House Sparrow",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "House Sparrow",
           "photos": [
             {
               "id": 726145199,
