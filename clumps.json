@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 451,
+  "total_observations": 452,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 280,
+  "total_clumps": 281,
   "clumps": [
     {
       "id": 9687475,
@@ -43694,6 +43694,126 @@
         "breadcrumb": [
           128254,
           54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 399708714,
+      "started_at": "2026-09-12T14:16:09-07:00",
+      "ended_at": "2026-09-12T14:16:09-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.633558,
+        -122.495408
+      ],
+      "bbox": [
+        [
+          37.633558,
+          -122.495408
+        ],
+        [
+          37.633558,
+          -122.495408
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 399708714,
+          "uri": "https://www.inaturalist.org/observations/399708714",
+          "user_login": "simon583",
+          "observed_at": "2026-09-12T14:16:09-07:00",
+          "latitude": 37.6335576047,
+          "longitude": -122.4954080824,
+          "positional_accuracy_m": 139,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Gulf of the Farallones, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            133888,
+            134683,
+            140260
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 733368932,
+              "thumbnail_url": "https://static.inaturalist.org/photos/733368932/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/733368932/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/733368932/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 733368989,
+              "thumbnail_url": "https://static.inaturalist.org/photos/733368989/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/733368989/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/733368989/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Gulf of the Farallones, CA, US",
+        "place_id": 1919,
+        "display_name": "San Mateo County, CA, US",
+        "breadcrumb": [
+          1919,
           14,
           1,
           97394
