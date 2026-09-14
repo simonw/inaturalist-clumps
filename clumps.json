@@ -43906,7 +43906,7 @@
             "common_name": "California Brown Pelican",
             "rank": "subspecies"
           },
-          "species_guess": null,
+          "species_guess": "California Brown Pelican",
           "photos": [
             {
               "id": 734061938,
@@ -43974,7 +43974,7 @@
             "common_name": "Elegant Tern",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Elegant Tern",
           "photos": [
             {
               "id": 734061711,
