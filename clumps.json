@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 454,
+  "total_observations": 456,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 282,
+  "total_clumps": 283,
   "clumps": [
     {
       "id": 9687475,
@@ -43998,6 +43998,183 @@
         "breadcrumb": [
           128254,
           54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 401435273,
+      "started_at": "2026-09-18T17:06:31-07:00",
+      "ended_at": "2026-09-18T17:06:42-07:00",
+      "duration_hours": 0.0031,
+      "centroid": [
+        37.47075,
+        -122.311127
+      ],
+      "bbox": [
+        [
+          37.470505,
+          -122.311256
+        ],
+        [
+          37.470994,
+          -122.310999
+        ]
+      ],
+      "span_km": 0.0588,
+      "observation_count": 2,
+      "species": [
+        {
+          "scientific_name": "Otospermophilus beecheyi",
+          "common_name": "California Ground Squirrel",
+          "count": 1
+        },
+        {
+          "scientific_name": "Zonotrichia leucophrys",
+          "common_name": "White-crowned Sparrow",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 401435334,
+          "uri": "https://www.inaturalist.org/observations/401435334",
+          "user_login": "simon583",
+          "observed_at": "2026-09-18T17:06:31-07:00",
+          "latitude": 37.4709937341,
+          "longitude": -122.310999256,
+          "positional_accuracy_m": 349,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Filoli, Redwood City, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            5128,
+            9853,
+            50422,
+            51330,
+            54321,
+            59308,
+            59613,
+            62068,
+            62332,
+            62622,
+            65360,
+            66741,
+            76255,
+            92151,
+            92337,
+            93467,
+            94045,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120714,
+            140260,
+            145763
+          ],
+          "taxon": {
+            "id": 180007,
+            "scientific_name": "Otospermophilus beecheyi",
+            "common_name": "California Ground Squirrel",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 736803362,
+              "thumbnail_url": "https://static.inaturalist.org/photos/736803362/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/736803362/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/736803362/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 401435273,
+          "uri": "https://www.inaturalist.org/observations/401435273",
+          "user_login": "simon583",
+          "observed_at": "2026-09-18T17:06:42-07:00",
+          "latitude": 37.4705054837,
+          "longitude": -122.3112555793,
+          "positional_accuracy_m": 679,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Filoli, Redwood City, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54321,
+            59308,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            76255,
+            92151,
+            92337,
+            93467,
+            94045,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120714,
+            140260,
+            145763
+          ],
+          "taxon": {
+            "id": 9176,
+            "scientific_name": "Zonotrichia leucophrys",
+            "common_name": "White-crowned Sparrow",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 736803199,
+              "thumbnail_url": "https://static.inaturalist.org/photos/736803199/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/736803199/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/736803199/original.jpg",
+              "original_dimensions": {
+                "width": 1366,
+                "height": 2048
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Filoli, Redwood City, CA, US",
+        "place_id": 1919,
+        "display_name": "San Mateo County, CA, US",
+        "breadcrumb": [
+          1919,
           14,
           1,
           97394
