@@ -44575,7 +44575,7 @@
             "common_name": "Northern Gannet",
             "rank": "species"
           },
-          "species_guess": "Northern fan",
+          "species_guess": "Northern Gannet",
           "photos": [
             {
               "id": 740453177,
@@ -44643,7 +44643,7 @@
             "common_name": "Great Blue Heron",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Great Blue Heron",
           "photos": [
             {
               "id": 740453341,
@@ -44712,7 +44712,7 @@
             "common_name": "California Brown Pelican",
             "rank": "subspecies"
           },
-          "species_guess": null,
+          "species_guess": "California Brown Pelican",
           "photos": [
             {
               "id": 740454506,
