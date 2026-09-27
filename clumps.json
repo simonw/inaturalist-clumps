@@ -10270,7 +10270,8 @@
             134683,
             140260,
             157661,
-            166265
+            166265,
+            240698
           ],
           "taxon": {
             "id": 12727,
@@ -10340,8 +10341,8 @@
             140260,
             157661,
             166265,
-            207214,
-            207217
+            207217,
+            240699
           ],
           "taxon": {
             "id": 41740,
@@ -13934,7 +13935,8 @@
             134683,
             140260,
             157661,
-            166265
+            166265,
+            240699
           ],
           "taxon": {
             "id": 41740,
@@ -13961,9 +13963,10 @@
       ],
       "location": {
         "place_guess": "San Francisco Bay, San Francisco, CA, US",
-        "place_id": 854,
-        "display_name": "San Francisco County, US, CA",
+        "place_id": 240699,
+        "display_name": "Pier 39 area, CA, US",
         "breadcrumb": [
+          240699,
           854,
           14,
           1,
@@ -41143,7 +41146,8 @@
             140260,
             157661,
             166265,
-            207217
+            207217,
+            240699
           ],
           "taxon": {
             "id": 41740,
@@ -41182,9 +41186,10 @@
       ],
       "location": {
         "place_guess": "San Francisco Bay, San Francisco, CA, US",
-        "place_id": 854,
-        "display_name": "San Francisco County, US, CA",
+        "place_id": 240699,
+        "display_name": "Pier 39 area, CA, US",
         "breadcrumb": [
+          240699,
           854,
           14,
           1,
@@ -44873,6 +44878,18 @@
         97394,
         1,
         14
+      ]
+    },
+    "240699": {
+      "name": "Pier 39 area",
+      "display_name": "Pier 39 area, CA, US",
+      "admin_level": null,
+      "place_type": 7,
+      "ancestor_ids": [
+        97394,
+        1,
+        14,
+        854
       ]
     },
     "6725": {
