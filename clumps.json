@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 462,
+  "total_observations": 463,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 286,
+  "total_clumps": 287,
   "clumps": [
     {
       "id": 9687475,
@@ -44736,6 +44736,117 @@
       ],
       "location": {
         "place_guess": "Pillar Point Harbor, CA, US",
+        "place_id": 128254,
+        "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
+        "breadcrumb": [
+          128254,
+          54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 404239413,
+      "started_at": "2026-09-28T11:23:01-07:00",
+      "ended_at": "2026-09-28T11:23:01-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.504682,
+        -122.488198
+      ],
+      "bbox": [
+        [
+          37.504682,
+          -122.488198
+        ],
+        [
+          37.504682,
+          -122.488198
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Calypte anna",
+          "common_name": "Anna's Hummingbird",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 404239413,
+          "uri": "https://www.inaturalist.org/observations/404239413",
+          "user_login": "simon583",
+          "observed_at": "2026-09-28T11:23:01-07:00",
+          "latitude": 37.5046824812,
+          "longitude": -122.4881977159,
+          "positional_accuracy_m": 104,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Harvard Ave, Half Moon Bay, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 6317,
+            "scientific_name": "Calypte anna",
+            "common_name": "Anna's Hummingbird",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 742324217,
+              "thumbnail_url": "https://static.inaturalist.org/photos/742324217/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/742324217/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/742324217/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Harvard Ave, Half Moon Bay, CA, US",
         "place_id": 128254,
         "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
         "breadcrumb": [
