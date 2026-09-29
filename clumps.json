@@ -10344,7 +10344,8 @@
             157661,
             166265,
             207217,
-            240699
+            240699,
+            240755
           ],
           "taxon": {
             "id": 41740,
@@ -10371,9 +10372,10 @@
       ],
       "location": {
         "place_guess": "Pier 39, San Francisco, CA, US",
-        "place_id": 854,
-        "display_name": "San Francisco County, US, CA",
+        "place_id": 240755,
+        "display_name": "District 3, CA, US",
         "breadcrumb": [
+          240755,
           854,
           14,
           1,
@@ -13938,7 +13940,8 @@
             140260,
             157661,
             166265,
-            240699
+            240699,
+            240755
           ],
           "taxon": {
             "id": 41740,
@@ -41148,7 +41151,8 @@
             157661,
             166265,
             207217,
-            240699
+            240699,
+            240755
           ],
           "taxon": {
             "id": 41740,
@@ -45171,6 +45175,18 @@
       "admin_level": -10,
       "place_type": 29,
       "ancestor_ids": []
+    },
+    "240755": {
+      "name": "District 3",
+      "display_name": "District 3, CA, US",
+      "admin_level": null,
+      "place_type": 101,
+      "ancestor_ids": [
+        97394,
+        1,
+        14,
+        854
+      ]
     },
     "5751": {
       "name": "Pescadero State Beach",
