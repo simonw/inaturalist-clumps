@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 463,
+  "total_observations": 464,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 287,
+  "total_clumps": 288,
   "clumps": [
     {
       "id": 9687475,
@@ -44857,6 +44857,145 @@
         "breadcrumb": [
           128254,
           54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 404551608,
+      "started_at": "2026-09-29T12:47:31-07:00",
+      "ended_at": "2026-09-29T12:47:31-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.809723,
+        -122.429955
+      ],
+      "bbox": [
+        [
+          37.809723,
+          -122.429955
+        ],
+        [
+          37.809723,
+          -122.429955
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 404551608,
+          "uri": "https://www.inaturalist.org/observations/404551608",
+          "user_login": "simon583",
+          "observed_at": "2026-09-29T12:47:31-07:00",
+          "latitude": 37.8097231519,
+          "longitude": -122.4299548397,
+          "positional_accuracy_m": 209,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "San Francisco Bay, San Francisco, CA, US",
+          "place_ids": [
+            1,
+            14,
+            854,
+            9853,
+            9912,
+            50422,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63097,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            93467,
+            94045,
+            95504,
+            96034,
+            96057,
+            96285,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            129174,
+            133888,
+            134683,
+            140260,
+            157662,
+            166265,
+            207217
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 742940191,
+              "thumbnail_url": "https://static.inaturalist.org/photos/742940191/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/742940191/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/742940191/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 742940311,
+              "thumbnail_url": "https://static.inaturalist.org/photos/742940311/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/742940311/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/742940311/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 742940498,
+              "thumbnail_url": "https://static.inaturalist.org/photos/742940498/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/742940498/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/742940498/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "San Francisco Bay, San Francisco, CA, US",
+        "place_id": 96285,
+        "display_name": "San Francisco Green Connection #1 Expanded, US, CA",
+        "breadcrumb": [
+          96285,
+          854,
           14,
           1,
           97394
