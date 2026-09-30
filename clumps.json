@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 464,
+  "total_observations": 467,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 288,
+  "total_clumps": 289,
   "clumps": [
     {
       "id": 9687475,
@@ -45004,6 +45004,259 @@
           97394
         ]
       }
+    },
+    {
+      "id": 404844538,
+      "started_at": "2026-09-30T12:07:09-04:00",
+      "ended_at": "2026-09-30T12:21:23-04:00",
+      "duration_hours": 0.2372,
+      "centroid": [
+        40.792623,
+        -73.954708
+      ],
+      "bbox": [
+        [
+          40.791878,
+          -73.955291
+        ],
+        [
+          40.793338,
+          -73.954325
+        ]
+      ],
+      "span_km": 0.1815,
+      "observation_count": 3,
+      "species": [
+        {
+          "scientific_name": "Cyanocitta cristata",
+          "common_name": "Blue Jay",
+          "count": 1
+        },
+        {
+          "scientific_name": "Sturnus vulgaris",
+          "common_name": "European Starling",
+          "count": 1
+        },
+        {
+          "scientific_name": "Turdus migratorius",
+          "common_name": "American Robin",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 404844538,
+          "uri": "https://www.inaturalist.org/observations/404844538",
+          "user_login": "simon583",
+          "observed_at": "2026-09-30T12:07:09-04:00",
+          "latitude": 40.7926518864,
+          "longitude": -73.9543252537,
+          "positional_accuracy_m": 853,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Central Park, New York, NY, US",
+          "place_ids": [
+            1,
+            48,
+            674,
+            1264,
+            9853,
+            51894,
+            52250,
+            59613,
+            59954,
+            59956,
+            61551,
+            64492,
+            66741,
+            81418,
+            81457,
+            82256,
+            82257,
+            82402,
+            96557,
+            97394,
+            121363,
+            122847,
+            123516,
+            124324,
+            124340,
+            125229,
+            125699,
+            145650,
+            146618,
+            148950,
+            157840
+          ],
+          "taxon": {
+            "id": 8229,
+            "scientific_name": "Cyanocitta cristata",
+            "common_name": "Blue Jay",
+            "rank": "species"
+          },
+          "species_guess": "Blue Jay",
+          "photos": [
+            {
+              "id": 743523580,
+              "thumbnail_url": "https://static.inaturalist.org/photos/743523580/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/743523580/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/743523580/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 404845004,
+          "uri": "https://www.inaturalist.org/observations/404845004",
+          "user_login": "simon583",
+          "observed_at": "2026-09-30T12:20:20-04:00",
+          "latitude": 40.7933377409,
+          "longitude": -73.9545090581,
+          "positional_accuracy_m": 419,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Central Park, New York, NY, US",
+          "place_ids": [
+            1,
+            48,
+            674,
+            1264,
+            9853,
+            49955,
+            51894,
+            52250,
+            59613,
+            59954,
+            59956,
+            61551,
+            64492,
+            66741,
+            81418,
+            81457,
+            82256,
+            82257,
+            82402,
+            96557,
+            97394,
+            121363,
+            122847,
+            123516,
+            124324,
+            124340,
+            125229,
+            125404,
+            125699,
+            145650,
+            146618,
+            148950,
+            157840,
+            162930
+          ],
+          "taxon": {
+            "id": 14850,
+            "scientific_name": "Sturnus vulgaris",
+            "common_name": "European Starling",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 743524705,
+              "thumbnail_url": "https://static.inaturalist.org/photos/743524705/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/743524705/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/743524705/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 404847640,
+          "uri": "https://www.inaturalist.org/observations/404847640",
+          "user_login": "simon583",
+          "observed_at": "2026-09-30T12:21:23-04:00",
+          "latitude": 40.7918782537,
+          "longitude": -73.9552911221,
+          "positional_accuracy_m": 1162,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Central Park, New York, NY, US",
+          "place_ids": [
+            1,
+            48,
+            674,
+            1264,
+            9853,
+            51894,
+            52250,
+            59613,
+            59954,
+            59956,
+            61551,
+            64492,
+            66741,
+            81418,
+            81457,
+            82256,
+            82257,
+            82402,
+            96557,
+            97394,
+            121363,
+            122847,
+            123516,
+            124324,
+            124340,
+            125229,
+            125699,
+            145650,
+            146618,
+            148950,
+            157840
+          ],
+          "taxon": {
+            "id": 12727,
+            "scientific_name": "Turdus migratorius",
+            "common_name": "American Robin",
+            "rank": "species"
+          },
+          "species_guess": "American Robin",
+          "photos": [
+            {
+              "id": 743529775,
+              "thumbnail_url": "https://static.inaturalist.org/photos/743529775/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/743529775/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/743529775/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Central Park, New York, NY, US",
+        "place_id": 674,
+        "display_name": "New York City, US, NY",
+        "breadcrumb": [
+          674,
+          48,
+          1,
+          97394
+        ]
+      }
     }
   ],
   "places": {
@@ -45125,6 +45378,16 @@
         1,
         14,
         962
+      ]
+    },
+    "48": {
+      "name": "New York",
+      "display_name": "New York, US",
+      "admin_level": 10,
+      "place_type": 8,
+      "ancestor_ids": [
+        97394,
+        1
       ]
     },
     "54321": {
@@ -45441,6 +45704,17 @@
         97394,
         6924,
         8579
+      ]
+    },
+    "674": {
+      "name": "New York City",
+      "display_name": "New York City, US, NY",
+      "admin_level": 30,
+      "place_type": 7,
+      "ancestor_ids": [
+        97394,
+        1,
+        48
       ]
     },
     "5795": {
