@@ -7,7 +7,7 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 471,
+  "total_observations": 472,
   "skipped_no_time_or_location": 2,
   "total_clumps": 291,
   "clumps": [
@@ -45536,12 +45536,12 @@
     },
     {
       "id": 405517744,
-      "started_at": "2026-10-03T09:58:03-07:00",
+      "started_at": "2026-10-03T09:35:08-07:00",
       "ended_at": "2026-10-03T09:58:03-07:00",
-      "duration_hours": 0.0,
+      "duration_hours": 0.3819,
       "centroid": [
-        37.542351,
-        -122.507853
+        37.542639,
+        -122.507655
       ],
       "bbox": [
         [
@@ -45549,13 +45549,18 @@
           -122.507853
         ],
         [
-          37.542351,
-          -122.507853
+          37.542927,
+          -122.507457
         ]
       ],
-      "span_km": 0.0,
-      "observation_count": 1,
+      "span_km": 0.073,
+      "observation_count": 2,
       "species": [
+        {
+          "scientific_name": "Lama pacos",
+          "common_name": "Alpaca",
+          "count": 1
+        },
         {
           "scientific_name": "Buteo lineatus",
           "common_name": "Red-shouldered Hawk",
@@ -45563,6 +45568,85 @@
         }
       ],
       "observations": [
+        {
+          "id": 405534012,
+          "uri": "https://www.inaturalist.org/observations/405534012",
+          "user_login": "simon583",
+          "observed_at": "2026-10-03T09:35:08-07:00",
+          "latitude": 37.5429272656,
+          "longitude": -122.5074570528,
+          "positional_accuracy_m": 104,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Tamarind St, Montara, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 319688,
+            "scientific_name": "Lama pacos",
+            "common_name": "Alpaca",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 744900509,
+              "thumbnail_url": "https://static.inaturalist.org/photos/744900509/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/744900509/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/744900509/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 744900788,
+              "thumbnail_url": "https://static.inaturalist.org/photos/744900788/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/744900788/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/744900788/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
         {
           "id": 405517744,
           "uri": "https://www.inaturalist.org/observations/405517744",
