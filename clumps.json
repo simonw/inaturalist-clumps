@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 467,
+  "total_observations": 471,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 289,
+  "total_clumps": 291,
   "clumps": [
     {
       "id": 9687475,
@@ -45265,6 +45265,379 @@
         "breadcrumb": [
           674,
           48,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 405525545,
+      "started_at": "2026-10-02T11:34:02-04:00",
+      "ended_at": "2026-10-02T11:44:52-04:00",
+      "duration_hours": 0.1806,
+      "centroid": [
+        40.751336,
+        -73.96014
+      ],
+      "bbox": [
+        [
+          40.749248,
+          -73.961744
+        ],
+        [
+          40.753156,
+          -73.958415
+        ]
+      ],
+      "span_km": 0.5172,
+      "observation_count": 3,
+      "species": [
+        {
+          "scientific_name": "Branta canadensis",
+          "common_name": "Canada Goose",
+          "count": 1
+        },
+        {
+          "scientific_name": "Larus smithsonianus",
+          "common_name": "American Herring Gull",
+          "count": 1
+        },
+        {
+          "scientific_name": "Nannopterum auritum",
+          "common_name": "Double-crested Cormorant",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 405526567,
+          "uri": "https://www.inaturalist.org/observations/405526567",
+          "user_login": "simon583",
+          "observed_at": "2026-10-02T11:34:02-04:00",
+          "latitude": 40.7531560437,
+          "longitude": -73.9584146403,
+          "positional_accuracy_m": 141,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "South Point Park, New York, NY, US",
+          "place_ids": [
+            1,
+            48,
+            674,
+            1264,
+            9853,
+            51894,
+            52250,
+            59613,
+            59954,
+            59956,
+            61551,
+            64492,
+            66741,
+            81418,
+            81457,
+            82256,
+            82257,
+            82402,
+            91172,
+            96557,
+            97394,
+            121363,
+            122847,
+            123516,
+            124324,
+            124340,
+            125229,
+            125308,
+            125699,
+            138154,
+            144359,
+            146618,
+            148950,
+            152304,
+            157840,
+            174507,
+            174508
+          ],
+          "taxon": {
+            "id": 7089,
+            "scientific_name": "Branta canadensis",
+            "common_name": "Canada Goose",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 744885104,
+              "thumbnail_url": "https://static.inaturalist.org/photos/744885104/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/744885104/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/744885104/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 405526470,
+          "uri": "https://www.inaturalist.org/observations/405526470",
+          "user_login": "simon583",
+          "observed_at": "2026-10-02T11:40:26-04:00",
+          "latitude": 40.7516043536,
+          "longitude": -73.9602624297,
+          "positional_accuracy_m": 52,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "West Channel, New York, NY, US",
+          "place_ids": [
+            1,
+            48,
+            674,
+            1264,
+            9853,
+            51894,
+            52250,
+            59613,
+            59954,
+            59956,
+            61551,
+            64492,
+            66741,
+            81418,
+            81457,
+            82256,
+            82257,
+            82402,
+            91172,
+            96557,
+            97394,
+            121363,
+            122847,
+            123516,
+            124324,
+            124340,
+            125229,
+            125308,
+            125699,
+            138154,
+            146618,
+            148950,
+            152304,
+            157840,
+            174507,
+            174508,
+            187831
+          ],
+          "taxon": {
+            "id": 1578489,
+            "scientific_name": "Larus smithsonianus",
+            "common_name": "American Herring Gull",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 744884796,
+              "thumbnail_url": "https://static.inaturalist.org/photos/744884796/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/744884796/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/744884796/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 405525545,
+          "uri": "https://www.inaturalist.org/observations/405525545",
+          "user_login": "simon583",
+          "observed_at": "2026-10-02T11:44:52-04:00",
+          "latitude": 40.7492483493,
+          "longitude": -73.9617442132,
+          "positional_accuracy_m": 52,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "East River, New York, NY, US",
+          "place_ids": [
+            1,
+            48,
+            674,
+            1264,
+            9853,
+            51894,
+            52250,
+            59613,
+            59954,
+            59956,
+            61551,
+            64492,
+            66741,
+            81418,
+            81457,
+            82256,
+            82257,
+            82402,
+            91172,
+            96557,
+            97394,
+            121363,
+            122847,
+            123516,
+            124324,
+            124340,
+            125229,
+            125308,
+            125699,
+            146618,
+            148950,
+            152304,
+            157840
+          ],
+          "taxon": {
+            "id": 1454382,
+            "scientific_name": "Nannopterum auritum",
+            "common_name": "Double-crested Cormorant",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 744884628,
+              "thumbnail_url": "https://static.inaturalist.org/photos/744884628/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/744884628/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/744884628/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "East River, New York, NY, US",
+        "place_id": 674,
+        "display_name": "New York City, US, NY",
+        "breadcrumb": [
+          674,
+          48,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 405517744,
+      "started_at": "2026-10-03T09:58:03-07:00",
+      "ended_at": "2026-10-03T09:58:03-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.542351,
+        -122.507853
+      ],
+      "bbox": [
+        [
+          37.542351,
+          -122.507853
+        ],
+        [
+          37.542351,
+          -122.507853
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Buteo lineatus",
+          "common_name": "Red-shouldered Hawk",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 405517744,
+          "uri": "https://www.inaturalist.org/observations/405517744",
+          "user_login": "simon583",
+          "observed_at": "2026-10-03T09:58:03-07:00",
+          "latitude": 37.5423510081,
+          "longitude": -122.5078533044,
+          "positional_accuracy_m": 20,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Tamarind St, Montara, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 5206,
+            "scientific_name": "Buteo lineatus",
+            "common_name": "Red-shouldered Hawk",
+            "rank": "species"
+          },
+          "species_guess": "Red-shouldered Hawk",
+          "photos": [
+            {
+              "id": 744868914,
+              "thumbnail_url": "https://static.inaturalist.org/photos/744868914/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/744868914/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/744868914/original.jpg",
+              "original_dimensions": {
+                "width": 1365,
+                "height": 2048
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Tamarind St, Montara, CA, US",
+        "place_id": 1919,
+        "display_name": "San Mateo County, CA, US",
+        "breadcrumb": [
+          1919,
+          14,
           1,
           97394
         ]
