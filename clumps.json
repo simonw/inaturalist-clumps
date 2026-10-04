@@ -45365,7 +45365,7 @@
             "common_name": "Canada Goose",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Canada Goose",
           "photos": [
             {
               "id": 744885104,
@@ -45505,7 +45505,7 @@
             "common_name": "Double-crested Cormorant",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Double-crested Cormorant",
           "photos": [
             {
               "id": 744884628,
