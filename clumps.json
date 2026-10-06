@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 472,
+  "total_observations": 475,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 291,
+  "total_clumps": 292,
   "clumps": [
     {
       "id": 9687475,
@@ -45717,6 +45717,265 @@
         "display_name": "San Mateo County, CA, US",
         "breadcrumb": [
           1919,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 406203789,
+      "started_at": "2026-10-04T18:15:39-07:00",
+      "ended_at": "2026-10-04T18:31:21-07:00",
+      "duration_hours": 0.2617,
+      "centroid": [
+        37.502582,
+        -122.478837
+      ],
+      "bbox": [
+        [
+          37.50148,
+          -122.48242
+        ],
+        [
+          37.50328,
+          -122.476127
+        ]
+      ],
+      "span_km": 0.59,
+      "observation_count": 3,
+      "species": [
+        {
+          "scientific_name": "Euphagus cyanocephalus",
+          "common_name": "Brewer's Blackbird",
+          "count": 1
+        },
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        },
+        {
+          "scientific_name": "Corvus corax",
+          "common_name": "Common Raven",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 406203970,
+          "uri": "https://www.inaturalist.org/observations/406203970",
+          "user_login": "simon583",
+          "observed_at": "2026-10-04T18:15:39-07:00",
+          "latitude": 37.5029855629,
+          "longitude": -122.4824197192,
+          "positional_accuracy_m": 14,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, El Granada, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 10325,
+            "scientific_name": "Euphagus cyanocephalus",
+            "common_name": "Brewer's Blackbird",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 746259127,
+              "thumbnail_url": "https://static.inaturalist.org/photos/746259127/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/746259127/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/746259127/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 406205013,
+          "uri": "https://www.inaturalist.org/observations/406205013",
+          "user_login": "simon583",
+          "observed_at": "2026-10-04T18:28:43-07:00",
+          "latitude": 37.5014803613,
+          "longitude": -122.4761274604,
+          "positional_accuracy_m": 419,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, Half Moon Bay, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 746261390,
+              "thumbnail_url": "https://static.inaturalist.org/photos/746261390/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/746261390/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/746261390/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 406203789,
+          "uri": "https://www.inaturalist.org/observations/406203789",
+          "user_login": "simon583",
+          "observed_at": "2026-10-04T18:31:21-07:00",
+          "latitude": 37.5032800774,
+          "longitude": -122.4779646508,
+          "positional_accuracy_m": 140,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor Trail, El Granada, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 8010,
+            "scientific_name": "Corvus corax",
+            "common_name": "Common Raven",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 746258621,
+              "thumbnail_url": "https://static.inaturalist.org/photos/746258621/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/746258621/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/746258621/original.jpg",
+              "original_dimensions": {
+                "width": 1365,
+                "height": 2048
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pillar Point Harbor Trail, El Granada, CA, US",
+        "place_id": 128254,
+        "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
+        "breadcrumb": [
+          128254,
+          54030,
           14,
           1,
           97394
