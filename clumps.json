@@ -45816,7 +45816,7 @@
             "common_name": "Brewer's Blackbird",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Brewer's Blackbird",
           "photos": [
             {
               "id": 746259127,
@@ -45952,7 +45952,7 @@
             "common_name": "Common Raven",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Common Raven",
           "photos": [
             {
               "id": 746258621,
