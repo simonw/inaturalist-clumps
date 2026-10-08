@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 475,
+  "total_observations": 477,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 292,
+  "total_clumps": 293,
   "clumps": [
     {
       "id": 9687475,
@@ -45976,6 +45976,199 @@
         "breadcrumb": [
           128254,
           54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 406833106,
+      "started_at": "2026-10-08T11:34:22-07:00",
+      "ended_at": "2026-10-08T11:50:58-07:00",
+      "duration_hours": 0.2767,
+      "centroid": [
+        37.506094,
+        -122.476418
+      ],
+      "bbox": [
+        [
+          37.505805,
+          -122.48098
+        ],
+        [
+          37.506383,
+          -122.471856
+        ]
+      ],
+      "span_km": 0.8073,
+      "observation_count": 2,
+      "species": [
+        {
+          "scientific_name": "Melozone crissalis",
+          "common_name": "California Towhee",
+          "count": 1
+        },
+        {
+          "scientific_name": "Buteo jamaicensis",
+          "common_name": "Red-tailed Hawk",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 406833106,
+          "uri": "https://www.inaturalist.org/observations/406833106",
+          "user_login": "simon583",
+          "observed_at": "2026-10-08T11:34:22-07:00",
+          "latitude": 37.506383306,
+          "longitude": -122.4718564093,
+          "positional_accuracy_m": 182,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Francisco St, Half Moon Bay, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 73044,
+            "scientific_name": "Melozone crissalis",
+            "common_name": "California Towhee",
+            "rank": "species"
+          },
+          "species_guess": "California Towhee",
+          "photos": [
+            {
+              "id": 747527107,
+              "thumbnail_url": "https://static.inaturalist.org/photos/747527107/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/747527107/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/747527107/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 406833811,
+          "uri": "https://www.inaturalist.org/observations/406833811",
+          "user_login": "simon583",
+          "observed_at": "2026-10-08T11:50:58-07:00",
+          "latitude": 37.5058047942,
+          "longitude": -122.4809796372,
+          "positional_accuracy_m": 38,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Avenue Alhambra, Half Moon Bay, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 5212,
+            "scientific_name": "Buteo jamaicensis",
+            "common_name": "Red-tailed Hawk",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 747527136,
+              "thumbnail_url": "https://static.inaturalist.org/photos/747527136/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/747527136/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/747527136/original.jpg",
+              "original_dimensions": {
+                "width": 1365,
+                "height": 2048
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 747527194,
+              "thumbnail_url": "https://static.inaturalist.org/photos/747527194/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/747527194/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/747527194/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Avenue Alhambra, Half Moon Bay, CA, US",
+        "place_id": 1919,
+        "display_name": "San Mateo County, CA, US",
+        "breadcrumb": [
+          1919,
           14,
           1,
           97394
