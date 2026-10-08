@@ -46226,7 +46226,7 @@
             "common_name": "California Brown Pelican",
             "rank": "subspecies"
           },
-          "species_guess": null,
+          "species_guess": "California Brown Pelican",
           "photos": [
             {
               "id": 747552060,
@@ -46295,7 +46295,7 @@
             "common_name": "Osprey",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Osprey",
           "photos": [
             {
               "id": 747551715,
