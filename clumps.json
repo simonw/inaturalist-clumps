@@ -7,7 +7,7 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 477,
+  "total_observations": 479,
   "skipped_no_time_or_location": 2,
   "total_clumps": 293,
   "clumps": [
@@ -45985,24 +45985,24 @@
     {
       "id": 406833106,
       "started_at": "2026-10-08T11:34:22-07:00",
-      "ended_at": "2026-10-08T11:50:58-07:00",
-      "duration_hours": 0.2767,
+      "ended_at": "2026-10-08T13:08:05-07:00",
+      "duration_hours": 1.5619,
       "centroid": [
-        37.506094,
-        -122.476418
+        37.504337,
+        -122.479986
       ],
       "bbox": [
         [
-          37.505805,
-          -122.48098
+          37.501748,
+          -122.485488
         ],
         [
           37.506383,
           -122.471856
         ]
       ],
-      "span_km": 0.8073,
-      "observation_count": 2,
+      "span_km": 1.3083,
+      "observation_count": 4,
       "species": [
         {
           "scientific_name": "Melozone crissalis",
@@ -46012,6 +46012,16 @@
         {
           "scientific_name": "Buteo jamaicensis",
           "common_name": "Red-tailed Hawk",
+          "count": 1
+        },
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        },
+        {
+          "scientific_name": "Pandion haliaetus",
+          "common_name": "Osprey",
           "count": 1
         }
       ],
@@ -46161,10 +46171,161 @@
               "license_code": null
             }
           ]
+        },
+        {
+          "id": 406848071,
+          "uri": "https://www.inaturalist.org/observations/406848071",
+          "user_login": "simon583",
+          "observed_at": "2026-10-08T12:57:56-07:00",
+          "latitude": 37.5017478069,
+          "longitude": -122.4854881862,
+          "positional_accuracy_m": 69,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            207217
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 747552060,
+              "thumbnail_url": "https://static.inaturalist.org/photos/747552060/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/747552060/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/747552060/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 406847936,
+          "uri": "https://www.inaturalist.org/observations/406847936",
+          "user_login": "simon583",
+          "observed_at": "2026-10-08T13:08:05-07:00",
+          "latitude": 37.5034102418,
+          "longitude": -122.4816195521,
+          "positional_accuracy_m": 44,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, El Granada, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 116999,
+            "scientific_name": "Pandion haliaetus",
+            "common_name": "Osprey",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 747551715,
+              "thumbnail_url": "https://static.inaturalist.org/photos/747551715/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/747551715/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/747551715/original.jpg",
+              "original_dimensions": {
+                "width": 1365,
+                "height": 2048
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 747551747,
+              "thumbnail_url": "https://static.inaturalist.org/photos/747551747/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/747551747/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/747551747/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
         }
       ],
       "location": {
-        "place_guess": "Avenue Alhambra, Half Moon Bay, CA, US",
+        "place_guess": "Pillar Point Harbor, El Granada, CA, US",
         "place_id": 1919,
         "display_name": "San Mateo County, CA, US",
         "breadcrumb": [
