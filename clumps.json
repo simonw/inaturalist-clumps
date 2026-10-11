@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 479,
+  "total_observations": 482,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 293,
+  "total_clumps": 294,
   "clumps": [
     {
       "id": 9687475,
@@ -46335,6 +46335,265 @@
           97394
         ]
       }
+    },
+    {
+      "id": 407406172,
+      "started_at": "2026-10-10T17:15:13-07:00",
+      "ended_at": "2026-10-10T17:48:30-07:00",
+      "duration_hours": 0.5547,
+      "centroid": [
+        37.413223,
+        -121.988488
+      ],
+      "bbox": [
+        [
+          37.411215,
+          -121.992579
+        ],
+        [
+          37.415868,
+          -121.98622
+        ]
+      ],
+      "span_km": 0.7636,
+      "observation_count": 3,
+      "species": [
+        {
+          "scientific_name": "Zonotrichia leucophrys",
+          "common_name": "White-crowned Sparrow",
+          "count": 1
+        },
+        {
+          "scientific_name": "Ardea alba",
+          "common_name": "Great Egret",
+          "count": 1
+        },
+        {
+          "scientific_name": "Spinus psaltria",
+          "common_name": "Lesser Goldfinch",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 407406172,
+          "uri": "https://www.inaturalist.org/observations/407406172",
+          "user_login": "simon583",
+          "observed_at": "2026-10-10T17:15:13-07:00",
+          "latitude": 37.4112149827,
+          "longitude": -121.9925791006,
+          "positional_accuracy_m": 205,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "San Francisco Bay Trail, Sunnyvale, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1250,
+            9853,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            65360,
+            66741,
+            76255,
+            92151,
+            92337,
+            93467,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            153971,
+            229062
+          ],
+          "taxon": {
+            "id": 9176,
+            "scientific_name": "Zonotrichia leucophrys",
+            "common_name": "White-crowned Sparrow",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 748672796,
+              "thumbnail_url": "https://static.inaturalist.org/photos/748672796/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/748672796/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/748672796/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 407406440,
+          "uri": "https://www.inaturalist.org/observations/407406440",
+          "user_login": "simon583",
+          "observed_at": "2026-10-10T17:23:24-07:00",
+          "latitude": 37.4158676985,
+          "longitude": -121.9866636163,
+          "positional_accuracy_m": 118,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Calabazas Creek, Sunnyvale, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1250,
+            9853,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63144,
+            65360,
+            66741,
+            76255,
+            76555,
+            92151,
+            92337,
+            93467,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            129174,
+            133888,
+            153971,
+            229062
+          ],
+          "taxon": {
+            "id": 144455,
+            "scientific_name": "Ardea alba",
+            "common_name": "Great Egret",
+            "rank": "species"
+          },
+          "species_guess": "Great Egret",
+          "photos": [
+            {
+              "id": 748673401,
+              "thumbnail_url": "https://static.inaturalist.org/photos/748673401/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/748673401/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/748673401/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 748673443,
+              "thumbnail_url": "https://static.inaturalist.org/photos/748673443/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/748673443/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/748673443/original.jpg",
+              "original_dimensions": {
+                "width": 1365,
+                "height": 2048
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 407407139,
+          "uri": "https://www.inaturalist.org/observations/407407139",
+          "user_login": "simon583",
+          "observed_at": "2026-10-10T17:48:30-07:00",
+          "latitude": 37.4125862498,
+          "longitude": -121.9862202486,
+          "positional_accuracy_m": 97,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "San Francisco Bay Trail, San Jose, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1250,
+            9853,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            65360,
+            66741,
+            76255,
+            92151,
+            92337,
+            93467,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            129174,
+            153971,
+            229062
+          ],
+          "taxon": {
+            "id": 145308,
+            "scientific_name": "Spinus psaltria",
+            "common_name": "Lesser Goldfinch",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 748674473,
+              "thumbnail_url": "https://static.inaturalist.org/photos/748674473/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/748674473/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/748674473/original.jpg",
+              "original_dimensions": {
+                "width": 1365,
+                "height": 2048
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "San Francisco Bay Trail, San Jose, CA, US",
+        "place_id": 229062,
+        "display_name": "City of Sunnyvale, California, CA, US",
+        "breadcrumb": [
+          229062,
+          1250,
+          14,
+          1,
+          97394
+        ]
+      }
     }
   ],
   "places": {
@@ -46896,6 +47155,18 @@
         97394,
         1,
         14
+      ]
+    },
+    "229062": {
+      "name": "City of Sunnyvale, California",
+      "display_name": "City of Sunnyvale, California, CA, US",
+      "admin_level": null,
+      "place_type": 1000,
+      "ancestor_ids": [
+        97394,
+        1,
+        14,
+        1250
       ]
     },
     "6857": {
