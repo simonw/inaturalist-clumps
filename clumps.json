@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 483,
+  "total_observations": 486,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 295,
+  "total_clumps": 296,
   "clumps": [
     {
       "id": 9687475,
@@ -46725,6 +46725,271 @@
         "display_name": "Pillar Point Harbor, CA, US",
         "breadcrumb": [
           53576,
+          1919,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 407944575,
+      "started_at": "2026-10-12T14:41:25-07:00",
+      "ended_at": "2026-10-12T14:46:09-07:00",
+      "duration_hours": 0.0789,
+      "centroid": [
+        37.262598,
+        -122.413967
+      ],
+      "bbox": [
+        [
+          37.259655,
+          -122.414772
+        ],
+        [
+          37.266851,
+          -122.412676
+        ]
+      ],
+      "span_km": 0.8214,
+      "observation_count": 3,
+      "species": [
+        {
+          "scientific_name": "Euphagus cyanocephalus",
+          "common_name": "Brewer's Blackbird",
+          "count": 1
+        },
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        },
+        {
+          "scientific_name": "Larus heermanni",
+          "common_name": "Heermann's Gull",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 407944807,
+          "uri": "https://www.inaturalist.org/observations/407944807",
+          "user_login": "simon583",
+          "observed_at": "2026-10-12T14:41:25-07:00",
+          "latitude": 37.2668508043,
+          "longitude": -122.4126756241,
+          "positional_accuracy_m": 65,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pescadero State Beach, Pescadero, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            5751,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            77103,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96683,
+            96687,
+            97394,
+            112245,
+            119138,
+            120148,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799,
+            207217,
+            219172
+          ],
+          "taxon": {
+            "id": 10325,
+            "scientific_name": "Euphagus cyanocephalus",
+            "common_name": "Brewer's Blackbird",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 749775729,
+              "thumbnail_url": "https://static.inaturalist.org/photos/749775729/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/749775729/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/749775729/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 407944703,
+          "uri": "https://www.inaturalist.org/observations/407944703",
+          "user_login": "simon583",
+          "observed_at": "2026-10-12T14:42:02-07:00",
+          "latitude": 37.2612895332,
+          "longitude": -122.4147721251,
+          "positional_accuracy_m": 45,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "North Pacific Ocean, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            5751,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            77103,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96683,
+            96687,
+            97394,
+            112245,
+            119138,
+            120148,
+            120714,
+            124258,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799,
+            219172
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 749775534,
+              "thumbnail_url": "https://static.inaturalist.org/photos/749775534/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/749775534/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/749775534/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 407944575,
+          "uri": "https://www.inaturalist.org/observations/407944575",
+          "user_login": "simon583",
+          "observed_at": "2026-10-12T14:46:09-07:00",
+          "latitude": 37.2596546318,
+          "longitude": -122.4144530191,
+          "positional_accuracy_m": 18,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "North Pacific Ocean, Pescadero, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            5751,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96683,
+            96687,
+            97394,
+            112245,
+            119138,
+            120148,
+            120714,
+            124258,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799,
+            219172
+          ],
+          "taxon": {
+            "id": 4353,
+            "scientific_name": "Larus heermanni",
+            "common_name": "Heermann's Gull",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 749775312,
+              "thumbnail_url": "https://static.inaturalist.org/photos/749775312/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/749775312/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/749775312/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "North Pacific Ocean, Pescadero, CA, US",
+        "place_id": 5751,
+        "display_name": "Pescadero State Beach, CA, US",
+        "breadcrumb": [
+          5751,
           1919,
           14,
           1,
