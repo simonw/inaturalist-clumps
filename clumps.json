@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 486,
+  "total_observations": 488,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 296,
+  "total_clumps": 297,
   "clumps": [
     {
       "id": 9687475,
@@ -46996,6 +46996,179 @@
           97394
         ]
       }
+    },
+    {
+      "id": 409093726,
+      "started_at": "2026-10-17T14:07:27-04:00",
+      "ended_at": "2026-10-17T14:12:56-04:00",
+      "duration_hours": 0.0914,
+      "centroid": [
+        39.950694,
+        -75.15672
+      ],
+      "bbox": [
+        [
+          39.949556,
+          -75.163994
+        ],
+        [
+          39.951833,
+          -75.149447
+        ]
+      ],
+      "span_km": 1.2655,
+      "observation_count": 2,
+      "species": [
+        {
+          "scientific_name": "Passer domesticus",
+          "common_name": "House Sparrow",
+          "count": 1
+        },
+        {
+          "scientific_name": "Sciurus carolinensis",
+          "common_name": "Eastern Gray Squirrel",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 409093780,
+          "uri": "https://www.inaturalist.org/observations/409093780",
+          "user_login": "simon583",
+          "observed_at": "2026-10-17T14:07:27-04:00",
+          "latitude": 39.9518325154,
+          "longitude": -75.1639935764,
+          "positional_accuracy_m": 186,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "15th St/City Hall, Philadelphia, PA, US",
+          "place_ids": [
+            1,
+            42,
+            2983,
+            9853,
+            51894,
+            52250,
+            59613,
+            59956,
+            61551,
+            64492,
+            66741,
+            81418,
+            81457,
+            82256,
+            82257,
+            96557,
+            97394,
+            111363,
+            122126,
+            125337,
+            127985,
+            130542,
+            142614,
+            145903,
+            158285,
+            169010
+          ],
+          "taxon": {
+            "id": 13858,
+            "scientific_name": "Passer domesticus",
+            "common_name": "House Sparrow",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 752117776,
+              "thumbnail_url": "https://static.inaturalist.org/photos/752117776/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/752117776/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/752117776/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 409093726,
+          "uri": "https://www.inaturalist.org/observations/409093726",
+          "user_login": "simon583",
+          "observed_at": "2026-10-17T14:12:56-04:00",
+          "latitude": 39.9495557444,
+          "longitude": -75.1494472797,
+          "positional_accuracy_m": 138,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Independence National Historical Park, Philadelphia, PA, US",
+          "place_ids": [
+            1,
+            42,
+            2983,
+            9853,
+            51894,
+            52250,
+            59613,
+            59956,
+            61551,
+            64492,
+            66741,
+            81418,
+            81457,
+            82256,
+            82257,
+            95238,
+            96557,
+            97394,
+            111363,
+            120132,
+            122126,
+            125337,
+            127985,
+            130542,
+            142614,
+            145903,
+            158285,
+            169010
+          ],
+          "taxon": {
+            "id": 46017,
+            "scientific_name": "Sciurus carolinensis",
+            "common_name": "Eastern Gray Squirrel",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 752117545,
+              "thumbnail_url": "https://static.inaturalist.org/photos/752117545/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/752117545/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/752117545/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Independence National Historical Park, Philadelphia, PA, US",
+        "place_id": 169010,
+        "display_name": "Philadelphia Center City, PA, US",
+        "breadcrumb": [
+          169010,
+          68325,
+          2983,
+          42,
+          1,
+          97394
+        ]
+      }
     }
   ],
   "places": {
@@ -47107,6 +47280,16 @@
         1
       ]
     },
+    "42": {
+      "name": "Pennsylvania",
+      "display_name": "Pennsylvania, US",
+      "admin_level": 10,
+      "place_type": 8,
+      "ancestor_ids": [
+        97394,
+        1
+      ]
+    },
     "4652": {
       "name": "Los Angeles River",
       "display_name": "Los Angeles River, CA, US",
@@ -47138,6 +47321,19 @@
         97394,
         1,
         14
+      ]
+    },
+    "169010": {
+      "name": "Philadelphia Center City",
+      "display_name": "Philadelphia Center City, PA, US",
+      "admin_level": null,
+      "place_type": null,
+      "ancestor_ids": [
+        97394,
+        1,
+        42,
+        2983,
+        68325
       ]
     },
     "240699": {
@@ -48205,6 +48401,17 @@
         97394,
         1,
         31
+      ]
+    },
+    "2983": {
+      "name": "Philadelphia",
+      "display_name": "Philadelphia County, PA, US",
+      "admin_level": 20,
+      "place_type": 9,
+      "ancestor_ids": [
+        97394,
+        1,
+        42
       ]
     },
     "5555": {
