@@ -47076,7 +47076,7 @@
             "common_name": "House Sparrow",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "House Sparrow",
           "photos": [
             {
               "id": 752117776,
@@ -47139,7 +47139,7 @@
             "common_name": "Eastern Gray Squirrel",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Eastern Gray Squirrel",
           "photos": [
             {
               "id": 752117545,
