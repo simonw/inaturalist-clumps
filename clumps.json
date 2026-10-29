@@ -47799,7 +47799,7 @@
             "common_name": "California Brown Pelican",
             "rank": "subspecies"
           },
-          "species_guess": null,
+          "species_guess": "California Brown Pelican",
           "photos": [
             {
               "id": 757248432,
@@ -47921,7 +47921,7 @@
             "common_name": "Brewer's Blackbird",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Brewer's Blackbird",
           "photos": [
             {
               "id": 757225724,
