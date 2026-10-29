@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 497,
+  "total_observations": 498,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 300,
+  "total_clumps": 301,
   "clumps": [
     {
       "id": 9687475,
@@ -47710,6 +47710,118 @@
         "breadcrumb": [
           128254,
           54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 411614347,
+      "started_at": "2026-10-28T21:08:06-07:00",
+      "ended_at": "2026-10-28T21:08:06-07:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.813633,
+        -122.434246
+      ],
+      "bbox": [
+        [
+          37.813633,
+          -122.434246
+        ],
+        [
+          37.813633,
+          -122.434246
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 411614347,
+          "uri": "https://www.inaturalist.org/observations/411614347",
+          "user_login": "simon583",
+          "observed_at": "2026-10-28T21:08:06-07:00",
+          "latitude": 37.8136327658,
+          "longitude": -122.4342462204,
+          "positional_accuracy_m": 419,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "San Francisco Bay, San Francisco, CA, US",
+          "place_ids": [
+            1,
+            14,
+            854,
+            9853,
+            50422,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63097,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            93467,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            129174,
+            133888,
+            134683,
+            140260,
+            157662,
+            166265,
+            207217
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 757248432,
+              "thumbnail_url": "https://static.inaturalist.org/photos/757248432/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/757248432/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/757248432/original.jpg",
+              "original_dimensions": {
+                "width": 1320,
+                "height": 1202
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "San Francisco Bay, San Francisco, CA, US",
+        "place_id": 854,
+        "display_name": "San Francisco County, US, CA",
+        "breadcrumb": [
+          854,
           14,
           1,
           97394
