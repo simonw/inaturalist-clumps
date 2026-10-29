@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 494,
+  "total_observations": 497,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 299,
+  "total_clumps": 300,
   "clumps": [
     {
       "id": 9687475,
@@ -47693,6 +47693,278 @@
               "thumbnail_url": "https://static.inaturalist.org/photos/756183169/medium.jpg",
               "large_url": "https://static.inaturalist.org/photos/756183169/large.jpg",
               "original_url": "https://static.inaturalist.org/photos/756183169/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pillar Point Harbor, El Granada, CA, US",
+        "place_id": 128254,
+        "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
+        "breadcrumb": [
+          128254,
+          54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 411602765,
+      "started_at": "2026-10-29T10:39:03-07:00",
+      "ended_at": "2026-10-29T10:50:38-07:00",
+      "duration_hours": 0.1931,
+      "centroid": [
+        37.502577,
+        -122.483129
+      ],
+      "bbox": [
+        [
+          37.501291,
+          -122.483692
+        ],
+        [
+          37.503279,
+          -122.482381
+        ]
+      ],
+      "span_km": 0.2495,
+      "observation_count": 3,
+      "species": [
+        {
+          "scientific_name": "Euphagus cyanocephalus",
+          "common_name": "Brewer's Blackbird",
+          "count": 1
+        },
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        },
+        {
+          "scientific_name": "Zalophus californianus",
+          "common_name": "California Sea Lion",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 411603172,
+          "uri": "https://www.inaturalist.org/observations/411603172",
+          "user_login": "simon583",
+          "observed_at": "2026-10-29T10:39:03-07:00",
+          "latitude": 37.5031631817,
+          "longitude": -122.4836923766,
+          "positional_accuracy_m": 71,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, El Granada, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 10325,
+            "scientific_name": "Euphagus cyanocephalus",
+            "common_name": "Brewer's Blackbird",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 757225724,
+              "thumbnail_url": "https://static.inaturalist.org/photos/757225724/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/757225724/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/757225724/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 411602968,
+          "uri": "https://www.inaturalist.org/observations/411602968",
+          "user_login": "simon583",
+          "observed_at": "2026-10-29T10:42:25-07:00",
+          "latitude": 37.5032786956,
+          "longitude": -122.4823813561,
+          "positional_accuracy_m": 419,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, El Granada, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 757225122,
+              "thumbnail_url": "https://static.inaturalist.org/photos/757225122/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/757225122/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/757225122/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 757225171,
+              "thumbnail_url": "https://static.inaturalist.org/photos/757225171/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/757225171/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/757225171/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 411602765,
+          "uri": "https://www.inaturalist.org/observations/411602765",
+          "user_login": "simon583",
+          "observed_at": "2026-10-29T10:50:38-07:00",
+          "latitude": 37.5012905413,
+          "longitude": -122.4833129986,
+          "positional_accuracy_m": 209,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            207217
+          ],
+          "taxon": {
+            "id": 41740,
+            "scientific_name": "Zalophus californianus",
+            "common_name": "California Sea Lion",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 757224673,
+              "thumbnail_url": "https://static.inaturalist.org/photos/757224673/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/757224673/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/757224673/original.jpg",
               "original_dimensions": {
                 "width": 2048,
                 "height": 1365
