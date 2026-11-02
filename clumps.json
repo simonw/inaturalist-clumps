@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 498,
+  "total_observations": 502,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 301,
+  "total_clumps": 303,
   "clumps": [
     {
       "id": 9687475,
@@ -48094,6 +48094,368 @@
         "breadcrumb": [
           128254,
           54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 412352157,
+      "started_at": "2026-11-01T12:33:27-08:00",
+      "ended_at": "2026-11-01T12:33:27-08:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.447693,
+        -122.568065
+      ],
+      "bbox": [
+        [
+          37.447693,
+          -122.568065
+        ],
+        [
+          37.447693,
+          -122.568065
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Sayornis nigricans",
+          "common_name": "Black Phoebe",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 412352157,
+          "uri": "https://www.inaturalist.org/observations/412352157",
+          "user_login": "simon583",
+          "observed_at": "2026-11-01T12:33:27-08:00",
+          "latitude": 37.4476933406,
+          "longitude": -122.5680646888,
+          "positional_accuracy_m": 5,
+          "obscured": true,
+          "geoprivacy": "obscured",
+          "place_guess": "California, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 17013,
+            "scientific_name": "Sayornis nigricans",
+            "common_name": "Black Phoebe",
+            "rank": "species"
+          },
+          "species_guess": "Black Phoebe",
+          "photos": [
+            {
+              "id": 758737324,
+              "thumbnail_url": "https://static.inaturalist.org/photos/758737324/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/758737324/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/758737324/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1341
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": null,
+        "place_id": 1919,
+        "display_name": "San Mateo County, CA, US",
+        "breadcrumb": [
+          1919,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 412352656,
+      "started_at": "2026-11-01T15:18:26-08:00",
+      "ended_at": "2026-11-01T15:23:34-08:00",
+      "duration_hours": 0.0856,
+      "centroid": [
+        37.501817,
+        -122.483183
+      ],
+      "bbox": [
+        [
+          37.501548,
+          -122.483707
+        ],
+        [
+          37.502262,
+          -122.482604
+        ]
+      ],
+      "span_km": 0.1256,
+      "observation_count": 3,
+      "species": [
+        {
+          "scientific_name": "Zalophus californianus",
+          "common_name": "California Sea Lion",
+          "count": 2
+        },
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 412352710,
+          "uri": "https://www.inaturalist.org/observations/412352710",
+          "user_login": "simon583",
+          "observed_at": "2026-11-01T15:18:26-08:00",
+          "latitude": 37.5022621096,
+          "longitude": -122.4832400987,
+          "positional_accuracy_m": 10,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 41740,
+            "scientific_name": "Zalophus californianus",
+            "common_name": "California Sea Lion",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 758738479,
+              "thumbnail_url": "https://static.inaturalist.org/photos/758738479/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/758738479/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/758738479/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 412352737,
+          "uri": "https://www.inaturalist.org/observations/412352737",
+          "user_login": "simon583",
+          "observed_at": "2026-11-01T15:21:25-08:00",
+          "latitude": 37.5016420784,
+          "longitude": -122.4826037228,
+          "positional_accuracy_m": 28,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            207217
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 758738571,
+              "thumbnail_url": "https://static.inaturalist.org/photos/758738571/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/758738571/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/758738571/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 412352656,
+          "uri": "https://www.inaturalist.org/observations/412352656",
+          "user_login": "simon583",
+          "observed_at": "2026-11-01T15:23:34-08:00",
+          "latitude": 37.5015476732,
+          "longitude": -122.4837066181,
+          "positional_accuracy_m": 24,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            207217
+          ],
+          "taxon": {
+            "id": 41740,
+            "scientific_name": "Zalophus californianus",
+            "common_name": "California Sea Lion",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 758738408,
+              "thumbnail_url": "https://static.inaturalist.org/photos/758738408/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/758738408/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/758738408/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pillar Point Harbor, CA, US",
+        "place_id": 53576,
+        "display_name": "Pillar Point Harbor, CA, US",
+        "breadcrumb": [
+          53576,
+          1919,
           14,
           1,
           97394
