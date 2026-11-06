@@ -26320,8 +26320,8 @@
       "observation_count": 1,
       "species": [
         {
-          "scientific_name": "Aphonopelma",
-          "common_name": null,
+          "scientific_name": "Aphonopelma iodius",
+          "common_name": "Desert Tarantula",
           "count": 1
         }
       ],
@@ -26370,12 +26370,12 @@
             203123
           ],
           "taxon": {
-            "id": 47423,
-            "scientific_name": "Aphonopelma",
-            "common_name": null,
-            "rank": "genus"
+            "id": 180759,
+            "scientific_name": "Aphonopelma iodius",
+            "common_name": "Desert Tarantula",
+            "rank": "species"
           },
-          "species_guess": "Aphonopelma",
+          "species_guess": "Desert Tarantula",
           "photos": [
             {
               "id": 236766885,
