@@ -48983,7 +48983,7 @@
             "common_name": "California Sea Lion",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "California Sea Lion",
           "photos": [
             {
               "id": 761475600,
@@ -49052,7 +49052,7 @@
             "common_name": "Pacific Harbor Seal",
             "rank": "subspecies"
           },
-          "species_guess": null,
+          "species_guess": "Pacific Harbor Seal",
           "photos": [
             {
               "id": 761477075,
