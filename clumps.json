@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 503,
+  "total_observations": 509,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 304,
+  "total_clumps": 305,
   "clumps": [
     {
       "id": 9687475,
@@ -48581,6 +48581,501 @@
         "breadcrumb": [
           53576,
           1919,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 413706009,
+      "started_at": "2026-11-08T11:05:16-08:00",
+      "ended_at": "2026-11-08T11:40:36-08:00",
+      "duration_hours": 0.5889,
+      "centroid": [
+        37.5029,
+        -122.483793
+      ],
+      "bbox": [
+        [
+          37.501937,
+          -122.486271
+        ],
+        [
+          37.504063,
+          -122.48191
+        ]
+      ],
+      "span_km": 0.4515,
+      "observation_count": 6,
+      "species": [
+        {
+          "scientific_name": "Ardea herodias",
+          "common_name": "Great Blue Heron",
+          "count": 1
+        },
+        {
+          "scientific_name": "Aechmophorus occidentalis",
+          "common_name": "Western Grebe",
+          "count": 1
+        },
+        {
+          "scientific_name": "Megascapheus bottae",
+          "common_name": "Botta's Pocket Gopher",
+          "count": 1
+        },
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        },
+        {
+          "scientific_name": "Zalophus californianus",
+          "common_name": "California Sea Lion",
+          "count": 1
+        },
+        {
+          "scientific_name": "Phoca vitulina richardii",
+          "common_name": "Pacific Harbor Seal",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 413706009,
+          "uri": "https://www.inaturalist.org/observations/413706009",
+          "user_login": "simon583",
+          "observed_at": "2026-11-08T11:05:16-08:00",
+          "latitude": 37.5040629441,
+          "longitude": -122.4862711607,
+          "positional_accuracy_m": 74,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Capistrano Rd, El Granada, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 4956,
+            "scientific_name": "Ardea herodias",
+            "common_name": "Great Blue Heron",
+            "rank": "species"
+          },
+          "species_guess": "Great Blue Heron",
+          "photos": [
+            {
+              "id": 761475467,
+              "thumbnail_url": "https://static.inaturalist.org/photos/761475467/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/761475467/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/761475467/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 761475495,
+              "thumbnail_url": "https://static.inaturalist.org/photos/761475495/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/761475495/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/761475495/original.jpg",
+              "original_dimensions": {
+                "width": 1365,
+                "height": 2048
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 413706582,
+          "uri": "https://www.inaturalist.org/observations/413706582",
+          "user_login": "simon583",
+          "observed_at": "2026-11-08T11:14:26-08:00",
+          "latitude": 37.5028282174,
+          "longitude": -122.4850537849,
+          "positional_accuracy_m": 26,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, El Granada, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 4235,
+            "scientific_name": "Aechmophorus occidentalis",
+            "common_name": "Western Grebe",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 761476559,
+              "thumbnail_url": "https://static.inaturalist.org/photos/761476559/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/761476559/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/761476559/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 413706312,
+          "uri": "https://www.inaturalist.org/observations/413706312",
+          "user_login": "simon583",
+          "observed_at": "2026-11-08T11:26:20-08:00",
+          "latitude": 37.503050249,
+          "longitude": -122.4839709424,
+          "positional_accuracy_m": 36,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, El Granada, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 1624661,
+            "scientific_name": "Megascapheus bottae",
+            "common_name": "Botta's Pocket Gopher",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 761476014,
+              "thumbnail_url": "https://static.inaturalist.org/photos/761476014/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/761476014/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/761476014/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 413706374,
+          "uri": "https://www.inaturalist.org/observations/413706374",
+          "user_login": "simon583",
+          "observed_at": "2026-11-08T11:34:22-08:00",
+          "latitude": 37.5024291343,
+          "longitude": -122.4819100374,
+          "positional_accuracy_m": 70,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 761476204,
+              "thumbnail_url": "https://static.inaturalist.org/photos/761476204/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/761476204/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/761476204/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 413706107,
+          "uri": "https://www.inaturalist.org/observations/413706107",
+          "user_login": "simon583",
+          "observed_at": "2026-11-08T11:39:55-08:00",
+          "latitude": 37.5019373062,
+          "longitude": -122.4828723567,
+          "positional_accuracy_m": 125,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            207217
+          ],
+          "taxon": {
+            "id": 41740,
+            "scientific_name": "Zalophus californianus",
+            "common_name": "California Sea Lion",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 761475600,
+              "thumbnail_url": "https://static.inaturalist.org/photos/761475600/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/761475600/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/761475600/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 413706815,
+          "uri": "https://www.inaturalist.org/observations/413706815",
+          "user_login": "simon583",
+          "observed_at": "2026-11-08T11:40:36-08:00",
+          "latitude": 37.5030900391,
+          "longitude": -122.4826822118,
+          "positional_accuracy_m": 215,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, El Granada, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 117766,
+            "scientific_name": "Phoca vitulina richardii",
+            "common_name": "Pacific Harbor Seal",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 761477075,
+              "thumbnail_url": "https://static.inaturalist.org/photos/761477075/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/761477075/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/761477075/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pillar Point Harbor, El Granada, CA, US",
+        "place_id": 128254,
+        "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
+        "breadcrumb": [
+          128254,
+          54030,
           14,
           1,
           97394
