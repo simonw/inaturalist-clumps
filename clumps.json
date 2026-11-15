@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 509,
+  "total_observations": 510,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 305,
+  "total_clumps": 306,
   "clumps": [
     {
       "id": 9687475,
@@ -49071,6 +49071,129 @@
       ],
       "location": {
         "place_guess": "Pillar Point Harbor, El Granada, CA, US",
+        "place_id": 128254,
+        "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
+        "breadcrumb": [
+          128254,
+          54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 414803040,
+      "started_at": "2026-11-14T15:03:00-08:00",
+      "ended_at": "2026-11-14T15:03:00-08:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.501638,
+        -122.474237
+      ],
+      "bbox": [
+        [
+          37.501638,
+          -122.474237
+        ],
+        [
+          37.501638,
+          -122.474237
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Molothrus ater",
+          "common_name": "Brown-headed Cowbird",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 414803040,
+          "uri": "https://www.inaturalist.org/observations/414803040",
+          "user_login": "simon583",
+          "observed_at": "2026-11-14T15:03:00-08:00",
+          "latitude": 37.5016381836,
+          "longitude": -122.4742368932,
+          "positional_accuracy_m": 54,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor Trail, Half Moon Bay, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 10373,
+            "scientific_name": "Molothrus ater",
+            "common_name": "Brown-headed Cowbird",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 763684094,
+              "thumbnail_url": "https://static.inaturalist.org/photos/763684094/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/763684094/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/763684094/original.jpg",
+              "original_dimensions": {
+                "width": 1365,
+                "height": 2048
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 763684119,
+              "thumbnail_url": "https://static.inaturalist.org/photos/763684119/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/763684119/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/763684119/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pillar Point Harbor Trail, Half Moon Bay, CA, US",
         "place_id": 128254,
         "display_name": "Monterey Bay National Marine Sanctuary, CA, US, CA",
         "breadcrumb": [
