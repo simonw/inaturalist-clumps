@@ -9,7 +9,7 @@
   },
   "total_observations": 515,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 310,
+  "total_clumps": 292,
   "clumps": [
     {
       "id": 9687475,
@@ -1998,26 +1998,26 @@
       }
     },
     {
-      "id": 9802931,
+      "id": 9802571,
       "started_at": "2018-02-09T10:08:39-07:00",
-      "ended_at": "2018-02-09T10:43:49-07:00",
-      "duration_hours": 0.5861,
+      "ended_at": "2018-02-09T12:46:29-07:00",
+      "duration_hours": 2.6306,
       "centroid": [
-        26.013244,
-        -111.339667
+        26.03101,
+        -111.346469
       ],
       "bbox": [
         [
           26.00861,
-          -111.339897
+          -111.38048
         ],
         [
-          26.014746,
+          26.119837,
           -111.339464
         ]
       ],
-      "span_km": 0.6837,
-      "observation_count": 5,
+      "span_km": 13.0287,
+      "observation_count": 6,
       "species": [
         {
           "scientific_name": "Pelecanus occidentalis",
@@ -2032,6 +2032,11 @@
         {
           "scientific_name": "Egretta thula",
           "common_name": "Snowy Egret",
+          "count": 1
+        },
+        {
+          "scientific_name": "Egretta rufescens",
+          "common_name": "Reddish Egret",
           "count": 1
         }
       ],
@@ -2379,49 +2384,7 @@
               "license_code": "cc-by-nc"
             }
           ]
-        }
-      ],
-      "location": {
-        "place_guess": "Circuito Adolfo López Mateos, , BCS, MX",
-        "place_id": 49402,
-        "display_name": "Comondú, MX, BS",
-        "breadcrumb": [
-          49402,
-          8501,
-          6793,
-          97394
-        ]
-      }
-    },
-    {
-      "id": 9802571,
-      "started_at": "2018-02-09T12:46:29-07:00",
-      "ended_at": "2018-02-09T12:46:29-07:00",
-      "duration_hours": 0.0,
-      "centroid": [
-        26.119837,
-        -111.38048
-      ],
-      "bbox": [
-        [
-          26.119837,
-          -111.38048
-        ],
-        [
-          26.119837,
-          -111.38048
-        ]
-      ],
-      "span_km": 0.0,
-      "observation_count": 1,
-      "species": [
-        {
-          "scientific_name": "Egretta rufescens",
-          "common_name": "Reddish Egret",
-          "count": 1
-        }
-      ],
-      "observations": [
+        },
         {
           "id": 9802571,
           "uri": "https://www.inaturalist.org/observations/9802571",
@@ -2482,7 +2445,7 @@
         }
       ],
       "location": {
-        "place_guess": null,
+        "place_guess": "Circuito Adolfo López Mateos, , BCS, MX",
         "place_id": 49402,
         "display_name": "Comondú, MX, BS",
         "breadcrumb": [
@@ -3220,11 +3183,11 @@
     {
       "id": 9825592,
       "started_at": "2018-02-11T13:06:06-07:00",
-      "ended_at": "2018-02-11T13:09:01-07:00",
-      "duration_hours": 0.0486,
+      "ended_at": "2018-02-11T13:11:19-07:00",
+      "duration_hours": 0.0869,
       "centroid": [
-        25.107253,
-        -112.166203
+        25.136723,
+        -112.140864
       ],
       "bbox": [
         [
@@ -3232,12 +3195,12 @@
           -112.181894
         ],
         [
-          25.121463,
-          -112.150511
+          25.195662,
+          -112.090186
         ]
       ],
-      "span_km": 4.4689,
-      "observation_count": 2,
+      "span_km": 14.677,
+      "observation_count": 3,
       "species": [
         {
           "scientific_name": "Stenocereus eruca",
@@ -3247,6 +3210,11 @@
         {
           "scientific_name": "Ferocactus townsendianus",
           "common_name": null,
+          "count": 1
+        },
+        {
+          "scientific_name": "Cylindropuntia cholla",
+          "common_name": "Chain-link Cholla",
           "count": 1
         }
       ],
@@ -3386,49 +3354,7 @@
               "license_code": "cc-by-nc"
             }
           ]
-        }
-      ],
-      "location": {
-        "place_guess": null,
-        "place_id": 49402,
-        "display_name": "Comondú, MX, BS",
-        "breadcrumb": [
-          49402,
-          8501,
-          6793,
-          97394
-        ]
-      }
-    },
-    {
-      "id": 9828609,
-      "started_at": "2018-02-11T13:11:19-07:00",
-      "ended_at": "2018-02-11T13:11:19-07:00",
-      "duration_hours": 0.0,
-      "centroid": [
-        25.195662,
-        -112.090186
-      ],
-      "bbox": [
-        [
-          25.195662,
-          -112.090186
-        ],
-        [
-          25.195662,
-          -112.090186
-        ]
-      ],
-      "span_km": 0.0,
-      "observation_count": 1,
-      "species": [
-        {
-          "scientific_name": "Cylindropuntia cholla",
-          "common_name": "Chain-link Cholla",
-          "count": 1
-        }
-      ],
-      "observations": [
+        },
         {
           "id": 9828609,
           "uri": "https://www.inaturalist.org/observations/9828609",
@@ -5122,8 +5048,8 @@
       "ended_at": "2018-05-19T12:13:32-07:00",
       "duration_hours": 0.0811,
       "centroid": [
-        36.801505,
-        -121.785019
+        36.829341,
+        -121.747084
       ],
       "bbox": [
         [
@@ -5131,17 +5057,22 @@
           -121.785133
         ],
         [
-          36.80173,
-          -121.784905
+          36.885012,
+          -121.671214
         ]
       ],
-      "span_km": 0.054,
-      "observation_count": 2,
+      "span_km": 13.7642,
+      "observation_count": 3,
       "species": [
         {
           "scientific_name": "Zalophus californianus",
           "common_name": "California Sea Lion",
           "count": 2
+        },
+        {
+          "scientific_name": "Enhydra lutris nereis",
+          "common_name": "Southern Sea Otter",
+          "count": 1
         }
       ],
       "observations": [
@@ -5204,6 +5135,68 @@
               "original_dimensions": {
                 "width": 2048,
                 "height": 1536
+              },
+              "attribution": "(c) Simon Willison, some rights reserved (CC BY-NC)",
+              "license_code": "cc-by-nc"
+            }
+          ]
+        },
+        {
+          "id": 12612562,
+          "uri": "https://www.inaturalist.org/observations/12612562",
+          "user_login": "simonw",
+          "observed_at": "2018-05-19T12:12:05-07:00",
+          "latitude": 36.8850120601,
+          "longitude": -121.6712139055,
+          "positional_accuracy_m": 4,
+          "obscured": true,
+          "geoprivacy": null,
+          "place_guess": "California, US",
+          "place_ids": [
+            1,
+            14,
+            1921,
+            9853,
+            51330,
+            54030,
+            59613,
+            62068,
+            62332,
+            62622,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118063,
+            119138,
+            120714,
+            133886,
+            150804,
+            154028
+          ],
+          "taxon": {
+            "id": 117520,
+            "scientific_name": "Enhydra lutris nereis",
+            "common_name": "Southern Sea Otter",
+            "rank": "subspecies"
+          },
+          "species_guess": "Southern Sea Otter",
+          "photos": [
+            {
+              "id": 18237280,
+              "thumbnail_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18237280/medium.jpg",
+              "large_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18237280/large.jpg",
+              "original_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18237280/original.jpg",
+              "original_dimensions": {
+                "width": 1596,
+                "height": 1042
               },
               "attribution": "(c) Simon Willison, some rights reserved (CC BY-NC)",
               "license_code": "cc-by-nc"
@@ -5278,112 +5271,6 @@
       ],
       "location": {
         "place_guess": "Moss Landing, CA  95039, Moss Landing, CA, US",
-        "place_id": 118063,
-        "display_name": "Monterey Bay Area, CA, US",
-        "breadcrumb": [
-          118063,
-          92272,
-          54030,
-          14,
-          1,
-          97394
-        ]
-      }
-    },
-    {
-      "id": 12612562,
-      "started_at": "2018-05-19T12:12:05-07:00",
-      "ended_at": "2018-05-19T12:12:05-07:00",
-      "duration_hours": 0.0,
-      "centroid": [
-        36.885012,
-        -121.671214
-      ],
-      "bbox": [
-        [
-          36.885012,
-          -121.671214
-        ],
-        [
-          36.885012,
-          -121.671214
-        ]
-      ],
-      "span_km": 0.0,
-      "observation_count": 1,
-      "species": [
-        {
-          "scientific_name": "Enhydra lutris nereis",
-          "common_name": "Southern Sea Otter",
-          "count": 1
-        }
-      ],
-      "observations": [
-        {
-          "id": 12612562,
-          "uri": "https://www.inaturalist.org/observations/12612562",
-          "user_login": "simonw",
-          "observed_at": "2018-05-19T12:12:05-07:00",
-          "latitude": 36.8850120601,
-          "longitude": -121.6712139055,
-          "positional_accuracy_m": 4,
-          "obscured": true,
-          "geoprivacy": null,
-          "place_guess": "California, US",
-          "place_ids": [
-            1,
-            14,
-            1921,
-            9853,
-            51330,
-            54030,
-            59613,
-            62068,
-            62332,
-            62622,
-            65360,
-            66741,
-            92151,
-            92337,
-            94045,
-            95504,
-            96034,
-            96057,
-            96683,
-            96687,
-            97394,
-            118063,
-            119138,
-            120714,
-            133886,
-            150804,
-            154028
-          ],
-          "taxon": {
-            "id": 117520,
-            "scientific_name": "Enhydra lutris nereis",
-            "common_name": "Southern Sea Otter",
-            "rank": "subspecies"
-          },
-          "species_guess": "Southern Sea Otter",
-          "photos": [
-            {
-              "id": 18237280,
-              "thumbnail_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18237280/medium.jpg",
-              "large_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18237280/large.jpg",
-              "original_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18237280/original.jpg",
-              "original_dimensions": {
-                "width": 1596,
-                "height": 1042
-              },
-              "attribution": "(c) Simon Willison, some rights reserved (CC BY-NC)",
-              "license_code": "cc-by-nc"
-            }
-          ]
-        }
-      ],
-      "location": {
-        "place_guess": null,
         "place_id": 118063,
         "display_name": "Monterey Bay Area, CA, US",
         "breadcrumb": [
@@ -11306,11 +11193,11 @@
     {
       "id": 29641292,
       "started_at": "2019-07-27T16:17:40+03:00",
-      "ended_at": "2019-07-27T16:17:40+03:00",
-      "duration_hours": 0.0,
+      "ended_at": "2019-07-27T16:53:56+03:00",
+      "duration_hours": 0.6044,
       "centroid": [
-        -13.665767,
-        48.080468
+        -13.632932,
+        48.108581
       ],
       "bbox": [
         [
@@ -11318,16 +11205,21 @@
           48.080468
         ],
         [
-          -13.665767,
-          48.080468
+          -13.600097,
+          48.136694
         ]
       ],
-      "span_km": 0.0,
-      "observation_count": 1,
+      "span_km": 9.4993,
+      "observation_count": 2,
       "species": [
         {
           "scientific_name": "Eulemur macaco",
           "common_name": "Black Lemur",
+          "count": 1
+        },
+        {
+          "scientific_name": "Dicrurus forficatus",
+          "common_name": "Crested Drongo",
           "count": 1
         }
       ],
@@ -11374,50 +11266,7 @@
               "license_code": "cc-by-nc"
             }
           ]
-        }
-      ],
-      "location": {
-        "place_guess": null,
-        "place_id": 206867,
-        "display_name": "Ambanja, AS, MG",
-        "breadcrumb": [
-          206867,
-          49383,
-          7784,
-          7783,
-          97392
-        ]
-      }
-    },
-    {
-      "id": 30107700,
-      "started_at": "2019-07-27T16:53:56+03:00",
-      "ended_at": "2019-07-27T16:53:56+03:00",
-      "duration_hours": 0.0,
-      "centroid": [
-        -13.600097,
-        48.136694
-      ],
-      "bbox": [
-        [
-          -13.600097,
-          48.136694
-        ],
-        [
-          -13.600097,
-          48.136694
-        ]
-      ],
-      "span_km": 0.0,
-      "observation_count": 1,
-      "species": [
-        {
-          "scientific_name": "Dicrurus forficatus",
-          "common_name": "Crested Drongo",
-          "count": 1
-        }
-      ],
-      "observations": [
+        },
         {
           "id": 30107700,
           "uri": "https://www.inaturalist.org/observations/30107700",
@@ -11576,28 +11425,33 @@
     {
       "id": 30108313,
       "started_at": "2019-08-03T09:30:27+03:00",
-      "ended_at": "2019-08-03T09:30:27+03:00",
-      "duration_hours": 0.0,
+      "ended_at": "2019-08-03T10:37:29+03:00",
+      "duration_hours": 1.1172,
       "centroid": [
-        -12.531615,
-        49.17131
+        -12.551446,
+        49.101122
       ],
       "bbox": [
         [
-          -12.531615,
-          49.17131
+          -12.571278,
+          49.030934
         ],
         [
           -12.531615,
           49.17131
         ]
       ],
-      "span_km": 0.0,
-      "observation_count": 1,
+      "span_km": 15.8616,
+      "observation_count": 2,
       "species": [
         {
           "scientific_name": "Caerostris",
           "common_name": "Bark Spiders",
+          "count": 1
+        },
+        {
+          "scientific_name": "Eulemur sanfordi",
+          "common_name": "Sanford's Brown Lemur",
           "count": 1
         }
       ],
@@ -11645,50 +11499,7 @@
               "license_code": "cc-by-nc"
             }
           ]
-        }
-      ],
-      "location": {
-        "place_guess": "Antsiranana, , Antsiranana, MG",
-        "place_id": 206937,
-        "display_name": "Antsiranana II, AS, MG",
-        "breadcrumb": [
-          206937,
-          49383,
-          7784,
-          7783,
-          97392
-        ]
-      }
-    },
-    {
-      "id": 30108355,
-      "started_at": "2019-08-03T10:37:29+03:00",
-      "ended_at": "2019-08-03T10:37:29+03:00",
-      "duration_hours": 0.0,
-      "centroid": [
-        -12.571278,
-        49.030934
-      ],
-      "bbox": [
-        [
-          -12.571278,
-          49.030934
-        ],
-        [
-          -12.571278,
-          49.030934
-        ]
-      ],
-      "span_km": 0.0,
-      "observation_count": 1,
-      "species": [
-        {
-          "scientific_name": "Eulemur sanfordi",
-          "common_name": "Sanford's Brown Lemur",
-          "count": 1
-        }
-      ],
-      "observations": [
+        },
         {
           "id": 30108355,
           "uri": "https://www.inaturalist.org/observations/30108355",
@@ -11733,7 +11544,7 @@
         }
       ],
       "location": {
-        "place_guess": null,
+        "place_guess": "Antsiranana, , Antsiranana, MG",
         "place_id": 206937,
         "display_name": "Antsiranana II, AS, MG",
         "breadcrumb": [
@@ -11844,30 +11655,40 @@
       }
     },
     {
-      "id": 30469120,
+      "id": 30468934,
       "started_at": "2019-08-09T08:34:40+03:00",
-      "ended_at": "2019-08-09T08:34:40+03:00",
-      "duration_hours": 0.0,
+      "ended_at": "2019-08-09T10:58:28+03:00",
+      "duration_hours": 2.3967,
       "centroid": [
-        -21.241072,
-        47.484077
+        -21.30474,
+        47.458578
       ],
       "bbox": [
         [
-          -21.241072,
-          47.484077
+          -21.343752,
+          47.421279
         ],
         [
           -21.241072,
           47.484077
         ]
       ],
-      "span_km": 0.0,
-      "observation_count": 1,
+      "span_km": 13.1411,
+      "observation_count": 3,
       "species": [
         {
           "scientific_name": "Hapalemur aureus",
           "common_name": "Golden Bamboo Lemur",
+          "count": 1
+        },
+        {
+          "scientific_name": "Prolemur simus",
+          "common_name": "Greater Bamboo Lemur",
+          "count": 1
+        },
+        {
+          "scientific_name": "Propithecus edwardsi",
+          "common_name": "Milne-Edwards' Sifaka",
           "count": 1
         }
       ],
@@ -11915,50 +11736,7 @@
               "license_code": "cc-by-nc"
             }
           ]
-        }
-      ],
-      "location": {
-        "place_guess": null,
-        "place_id": 207316,
-        "display_name": "Ifanadiana, FI, MG",
-        "breadcrumb": [
-          207316,
-          49389,
-          13112,
-          7783,
-          97392
-        ]
-      }
-    },
-    {
-      "id": 30468934,
-      "started_at": "2019-08-09T10:03:06+03:00",
-      "ended_at": "2019-08-09T10:03:06+03:00",
-      "duration_hours": 0.0,
-      "centroid": [
-        -21.329395,
-        47.470377
-      ],
-      "bbox": [
-        [
-          -21.329395,
-          47.470377
-        ],
-        [
-          -21.329395,
-          47.470377
-        ]
-      ],
-      "span_km": 0.0,
-      "observation_count": 1,
-      "species": [
-        {
-          "scientific_name": "Prolemur simus",
-          "common_name": "Greater Bamboo Lemur",
-          "count": 1
-        }
-      ],
-      "observations": [
+        },
         {
           "id": 30468934,
           "uri": "https://www.inaturalist.org/observations/30468934",
@@ -12002,50 +11780,7 @@
               "license_code": "cc-by-nc"
             }
           ]
-        }
-      ],
-      "location": {
-        "place_guess": null,
-        "place_id": 207316,
-        "display_name": "Ifanadiana, FI, MG",
-        "breadcrumb": [
-          207316,
-          49389,
-          13112,
-          7783,
-          97392
-        ]
-      }
-    },
-    {
-      "id": 30472398,
-      "started_at": "2019-08-09T10:58:28+03:00",
-      "ended_at": "2019-08-09T10:58:28+03:00",
-      "duration_hours": 0.0,
-      "centroid": [
-        -21.343752,
-        47.421279
-      ],
-      "bbox": [
-        [
-          -21.343752,
-          47.421279
-        ],
-        [
-          -21.343752,
-          47.421279
-        ]
-      ],
-      "span_km": 0.0,
-      "observation_count": 1,
-      "species": [
-        {
-          "scientific_name": "Propithecus edwardsi",
-          "common_name": "Milne-Edwards' Sifaka",
-          "count": 1
-        }
-      ],
-      "observations": [
+        },
         {
           "id": 30472398,
           "uri": "https://www.inaturalist.org/observations/30472398",
@@ -12106,11 +11841,11 @@
     {
       "id": 30975841,
       "started_at": "2019-08-17T09:31:48+03:00",
-      "ended_at": "2019-08-17T09:31:48+03:00",
-      "duration_hours": 0.0,
+      "ended_at": "2019-08-17T11:18:28+03:00",
+      "duration_hours": 1.7778,
       "centroid": [
-        -18.939028,
-        48.417957
+        -18.893121,
+        48.475729
       ],
       "bbox": [
         [
@@ -12118,16 +11853,31 @@
           48.417957
         ],
         [
-          -18.939028,
-          48.417957
+          -18.82782,
+          48.521874
         ]
       ],
-      "span_km": 0.0,
-      "observation_count": 1,
+      "span_km": 16.5059,
+      "observation_count": 4,
       "species": [
         {
           "scientific_name": "Ardea purpurea",
           "common_name": "Purple Heron",
+          "count": 1
+        },
+        {
+          "scientific_name": "Propithecus diadema",
+          "common_name": "Diademed Sifaka",
+          "count": 1
+        },
+        {
+          "scientific_name": "Lepilemur mustelinus",
+          "common_name": "Weasel Sportive Lemur",
+          "count": 1
+        },
+        {
+          "scientific_name": "Indri indri",
+          "common_name": "Indri",
           "count": 1
         }
       ],
@@ -12175,50 +11925,7 @@
               "license_code": "cc-by-nc"
             }
           ]
-        }
-      ],
-      "location": {
-        "place_guess": "Zahamena National Park, , Toamasina, MG",
-        "place_id": 206703,
-        "display_name": "Moramanga, TM, MG",
-        "breadcrumb": [
-          206703,
-          49394,
-          13114,
-          7783,
-          97392
-        ]
-      }
-    },
-    {
-      "id": 30984791,
-      "started_at": "2019-08-17T10:03:45+03:00",
-      "ended_at": "2019-08-17T10:03:45+03:00",
-      "duration_hours": 0.0,
-      "centroid": [
-        -18.82782,
-        48.484516
-      ],
-      "bbox": [
-        [
-          -18.82782,
-          48.484516
-        ],
-        [
-          -18.82782,
-          48.484516
-        ]
-      ],
-      "span_km": 0.0,
-      "observation_count": 1,
-      "species": [
-        {
-          "scientific_name": "Propithecus diadema",
-          "common_name": "Diademed Sifaka",
-          "count": 1
-        }
-      ],
-      "observations": [
+        },
         {
           "id": 30984791,
           "uri": "https://www.inaturalist.org/observations/30984791",
@@ -12261,50 +11968,7 @@
               "license_code": "cc-by-nc"
             }
           ]
-        }
-      ],
-      "location": {
-        "place_guess": null,
-        "place_id": 206703,
-        "display_name": "Moramanga, TM, MG",
-        "breadcrumb": [
-          206703,
-          49394,
-          13114,
-          7783,
-          97392
-        ]
-      }
-    },
-    {
-      "id": 30984632,
-      "started_at": "2019-08-17T10:58:06+03:00",
-      "ended_at": "2019-08-17T10:58:06+03:00",
-      "duration_hours": 0.0,
-      "centroid": [
-        -18.875236,
-        48.521874
-      ],
-      "bbox": [
-        [
-          -18.875236,
-          48.521874
-        ],
-        [
-          -18.875236,
-          48.521874
-        ]
-      ],
-      "span_km": 0.0,
-      "observation_count": 1,
-      "species": [
-        {
-          "scientific_name": "Lepilemur mustelinus",
-          "common_name": "Weasel Sportive Lemur",
-          "count": 1
-        }
-      ],
-      "observations": [
+        },
         {
           "id": 30984632,
           "uri": "https://www.inaturalist.org/observations/30984632",
@@ -12347,50 +12011,7 @@
               "license_code": "cc-by-nc"
             }
           ]
-        }
-      ],
-      "location": {
-        "place_guess": null,
-        "place_id": 206703,
-        "display_name": "Moramanga, TM, MG",
-        "breadcrumb": [
-          206703,
-          49394,
-          13114,
-          7783,
-          97392
-        ]
-      }
-    },
-    {
-      "id": 30984711,
-      "started_at": "2019-08-17T11:18:28+03:00",
-      "ended_at": "2019-08-17T11:18:28+03:00",
-      "duration_hours": 0.0,
-      "centroid": [
-        -18.9304,
-        48.478571
-      ],
-      "bbox": [
-        [
-          -18.9304,
-          48.478571
-        ],
-        [
-          -18.9304,
-          48.478571
-        ]
-      ],
-      "span_km": 0.0,
-      "observation_count": 1,
-      "species": [
-        {
-          "scientific_name": "Indri indri",
-          "common_name": "Indri",
-          "count": 1
-        }
-      ],
-      "observations": [
+        },
         {
           "id": 30984711,
           "uri": "https://www.inaturalist.org/observations/30984711",
@@ -12436,7 +12057,7 @@
         }
       ],
       "location": {
-        "place_guess": null,
+        "place_guess": "Zahamena National Park, , Toamasina, MG",
         "place_id": 206703,
         "display_name": "Moramanga, TM, MG",
         "breadcrumb": [
@@ -15902,30 +15523,40 @@
       }
     },
     {
-      "id": 104224485,
+      "id": 104224214,
       "started_at": "2022-01-01T12:06:59-08:00",
-      "ended_at": "2022-01-01T12:06:59-08:00",
-      "duration_hours": 0.0,
+      "ended_at": "2022-01-01T16:23:42-08:00",
+      "duration_hours": 4.2786,
       "centroid": [
-        36.706148,
-        -121.862695
+        36.73148,
+        -121.838094
       ],
       "bbox": [
         [
-          36.706148,
-          -121.862695
+          36.616228,
+          -121.919266
         ],
         [
-          36.706148,
-          -121.862695
+          36.80312,
+          -121.783786
         ]
       ],
-      "span_km": 0.0,
-      "observation_count": 1,
+      "span_km": 24.0358,
+      "observation_count": 4,
       "species": [
         {
           "scientific_name": "Megaptera novaeangliae",
           "common_name": "Humpback Whale",
+          "count": 2
+        },
+        {
+          "scientific_name": "Zalophus californianus",
+          "common_name": "California Sea Lion",
+          "count": 1
+        },
+        {
+          "scientific_name": "Ardea herodias",
+          "common_name": "Great Blue Heron",
           "count": 1
         }
       ],
@@ -15991,51 +15622,7 @@
               "license_code": "cc-by-nc"
             }
           ]
-        }
-      ],
-      "location": {
-        "place_guess": null,
-        "place_id": 118063,
-        "display_name": "Monterey Bay Area, CA, US",
-        "breadcrumb": [
-          118063,
-          92272,
-          54030,
-          14,
-          1,
-          97394
-        ]
-      }
-    },
-    {
-      "id": 104224391,
-      "started_at": "2022-01-01T12:44:05-08:00",
-      "ended_at": "2022-01-01T12:44:05-08:00",
-      "duration_hours": 0.0,
-      "centroid": [
-        36.616228,
-        -121.919266
-      ],
-      "bbox": [
-        [
-          36.616228,
-          -121.919266
-        ],
-        [
-          36.616228,
-          -121.919266
-        ]
-      ],
-      "span_km": 0.0,
-      "observation_count": 1,
-      "species": [
-        {
-          "scientific_name": "Megaptera novaeangliae",
-          "common_name": "Humpback Whale",
-          "count": 1
-        }
-      ],
-      "observations": [
+        },
         {
           "id": 104224391,
           "uri": "https://www.inaturalist.org/observations/104224391",
@@ -16100,56 +15687,7 @@
               "license_code": "cc-by-nc"
             }
           ]
-        }
-      ],
-      "location": {
-        "place_guess": null,
-        "place_id": 118063,
-        "display_name": "Monterey Bay Area, CA, US",
-        "breadcrumb": [
-          118063,
-          92272,
-          54030,
-          14,
-          1,
-          97394
-        ]
-      }
-    },
-    {
-      "id": 104224214,
-      "started_at": "2022-01-01T14:40:22-08:00",
-      "ended_at": "2022-01-01T16:23:42-08:00",
-      "duration_hours": 1.7222,
-      "centroid": [
-        36.801772,
-        -121.785207
-      ],
-      "bbox": [
-        [
-          36.800424,
-          -121.786627
-        ],
-        [
-          36.80312,
-          -121.783786
-        ]
-      ],
-      "span_km": 0.3922,
-      "observation_count": 2,
-      "species": [
-        {
-          "scientific_name": "Zalophus californianus",
-          "common_name": "California Sea Lion",
-          "count": 1
         },
-        {
-          "scientific_name": "Ardea herodias",
-          "common_name": "Great Blue Heron",
-          "count": 1
-        }
-      ],
-      "observations": [
         {
           "id": 104224341,
           "uri": "https://www.inaturalist.org/observations/104224341",
@@ -16297,13 +15835,13 @@
       }
     },
     {
-      "id": 104207278,
+      "id": 104207182,
       "started_at": "2022-01-02T11:16:13-08:00",
       "ended_at": "2022-01-02T14:25:42-08:00",
       "duration_hours": 3.1581,
       "centroid": [
-        36.813604,
-        -121.77865
+        36.827144,
+        -121.76083
       ],
       "bbox": [
         [
@@ -16311,13 +15849,18 @@
           -121.784369
         ],
         [
-          36.815742,
-          -121.770103
+          36.856855,
+          -121.702761
         ]
       ],
-      "span_km": 1.3248,
-      "observation_count": 4,
+      "span_km": 8.7887,
+      "observation_count": 6,
       "species": [
+        {
+          "scientific_name": "Enhydra lutris nereis",
+          "common_name": "Southern Sea Otter",
+          "count": 2
+        },
         {
           "scientific_name": "Phoca vitulina",
           "common_name": "Harbor Seal",
@@ -16481,6 +16024,134 @@
           ]
         },
         {
+          "id": 104207182,
+          "uri": "https://www.inaturalist.org/observations/104207182",
+          "user_login": "simonw",
+          "observed_at": "2022-01-02T11:49:53-08:00",
+          "latitude": 36.8568549327,
+          "longitude": -121.7027611004,
+          "positional_accuracy_m": 4,
+          "obscured": true,
+          "geoprivacy": null,
+          "place_guess": "California, US",
+          "place_ids": [
+            1,
+            14,
+            1921,
+            9853,
+            51330,
+            54030,
+            59613,
+            62068,
+            62332,
+            62622,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118063,
+            119138,
+            120714,
+            128254,
+            133886,
+            150804,
+            154028
+          ],
+          "taxon": {
+            "id": 117520,
+            "scientific_name": "Enhydra lutris nereis",
+            "common_name": "Southern Sea Otter",
+            "rank": "subspecies"
+          },
+          "species_guess": "Southern Sea Otter",
+          "photos": [
+            {
+              "id": 174593631,
+              "thumbnail_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174593631/medium.jpg",
+              "large_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174593631/large.jpg",
+              "original_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174593631/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1536
+              },
+              "attribution": "(c) Simon Willison, some rights reserved (CC BY-NC)",
+              "license_code": "cc-by-nc"
+            }
+          ]
+        },
+        {
+          "id": 104224110,
+          "uri": "https://www.inaturalist.org/observations/104224110",
+          "user_login": "simonw",
+          "observed_at": "2022-01-02T14:21:52-08:00",
+          "latitude": 36.8515906276,
+          "longitude": -121.7476214725,
+          "positional_accuracy_m": 408,
+          "obscured": true,
+          "geoprivacy": null,
+          "place_guess": "California, US",
+          "place_ids": [
+            1,
+            14,
+            1921,
+            9853,
+            51330,
+            54030,
+            59613,
+            62068,
+            62332,
+            62622,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118063,
+            119138,
+            120714,
+            128254,
+            133886,
+            150804,
+            154028
+          ],
+          "taxon": {
+            "id": 117520,
+            "scientific_name": "Enhydra lutris nereis",
+            "common_name": "Southern Sea Otter",
+            "rank": "subspecies"
+          },
+          "species_guess": "Southern Sea Otter",
+          "photos": [
+            {
+              "id": 174607382,
+              "thumbnail_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174607382/medium.jpg",
+              "large_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174607382/large.jpg",
+              "original_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174607382/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1366
+              },
+              "attribution": "(c) Simon Willison, some rights reserved (CC BY-NC)",
+              "license_code": "cc-by-nc"
+            }
+          ]
+        },
+        {
           "id": 104224120,
           "uri": "https://www.inaturalist.org/observations/104224120",
           "user_login": "simonw",
@@ -16631,185 +16302,13 @@
       }
     },
     {
-      "id": 104207182,
-      "started_at": "2022-01-02T11:49:53-08:00",
-      "ended_at": "2022-01-02T14:21:52-08:00",
-      "duration_hours": 2.5331,
-      "centroid": [
-        36.854223,
-        -121.725191
-      ],
-      "bbox": [
-        [
-          36.851591,
-          -121.747621
-        ],
-        [
-          36.856855,
-          -121.702761
-        ]
-      ],
-      "span_km": 4.0341,
-      "observation_count": 2,
-      "species": [
-        {
-          "scientific_name": "Enhydra lutris nereis",
-          "common_name": "Southern Sea Otter",
-          "count": 2
-        }
-      ],
-      "observations": [
-        {
-          "id": 104207182,
-          "uri": "https://www.inaturalist.org/observations/104207182",
-          "user_login": "simonw",
-          "observed_at": "2022-01-02T11:49:53-08:00",
-          "latitude": 36.8568549327,
-          "longitude": -121.7027611004,
-          "positional_accuracy_m": 4,
-          "obscured": true,
-          "geoprivacy": null,
-          "place_guess": "California, US",
-          "place_ids": [
-            1,
-            14,
-            1921,
-            9853,
-            51330,
-            54030,
-            59613,
-            62068,
-            62332,
-            62622,
-            65360,
-            66741,
-            92151,
-            92337,
-            94045,
-            95504,
-            96034,
-            96057,
-            96683,
-            96687,
-            97394,
-            112245,
-            118063,
-            119138,
-            120714,
-            128254,
-            133886,
-            150804,
-            154028
-          ],
-          "taxon": {
-            "id": 117520,
-            "scientific_name": "Enhydra lutris nereis",
-            "common_name": "Southern Sea Otter",
-            "rank": "subspecies"
-          },
-          "species_guess": "Southern Sea Otter",
-          "photos": [
-            {
-              "id": 174593631,
-              "thumbnail_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174593631/medium.jpg",
-              "large_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174593631/large.jpg",
-              "original_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174593631/original.jpg",
-              "original_dimensions": {
-                "width": 2048,
-                "height": 1536
-              },
-              "attribution": "(c) Simon Willison, some rights reserved (CC BY-NC)",
-              "license_code": "cc-by-nc"
-            }
-          ]
-        },
-        {
-          "id": 104224110,
-          "uri": "https://www.inaturalist.org/observations/104224110",
-          "user_login": "simonw",
-          "observed_at": "2022-01-02T14:21:52-08:00",
-          "latitude": 36.8515906276,
-          "longitude": -121.7476214725,
-          "positional_accuracy_m": 408,
-          "obscured": true,
-          "geoprivacy": null,
-          "place_guess": "California, US",
-          "place_ids": [
-            1,
-            14,
-            1921,
-            9853,
-            51330,
-            54030,
-            59613,
-            62068,
-            62332,
-            62622,
-            65360,
-            66741,
-            92151,
-            92337,
-            94045,
-            95504,
-            96034,
-            96057,
-            96683,
-            96687,
-            97394,
-            112245,
-            118063,
-            119138,
-            120714,
-            128254,
-            133886,
-            150804,
-            154028
-          ],
-          "taxon": {
-            "id": 117520,
-            "scientific_name": "Enhydra lutris nereis",
-            "common_name": "Southern Sea Otter",
-            "rank": "subspecies"
-          },
-          "species_guess": "Southern Sea Otter",
-          "photos": [
-            {
-              "id": 174607382,
-              "thumbnail_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174607382/medium.jpg",
-              "large_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174607382/large.jpg",
-              "original_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174607382/original.jpg",
-              "original_dimensions": {
-                "width": 2048,
-                "height": 1366
-              },
-              "attribution": "(c) Simon Willison, some rights reserved (CC BY-NC)",
-              "license_code": "cc-by-nc"
-            }
-          ]
-        }
-      ],
-      "location": {
-        "place_guess": null,
-        "place_id": 118063,
-        "display_name": "Monterey Bay Area, CA, US",
-        "breadcrumb": [
-          118063,
-          92272,
-          54030,
-          14,
-          1,
-          97394
-        ]
-      }
-    },
-    {
-      "id": 104296946,
+      "id": 104296300,
       "started_at": "2022-01-03T11:58:28-08:00",
-      "ended_at": "2022-01-03T11:58:28-08:00",
-      "duration_hours": 0.0,
+      "ended_at": "2022-01-03T12:16:14-08:00",
+      "duration_hours": 0.2961,
       "centroid": [
-        36.806085,
-        -121.789069
+        36.865508,
+        -121.706499
       ],
       "bbox": [
         [
@@ -16817,16 +16316,21 @@
           -121.789069
         ],
         [
-          36.806085,
-          -121.789069
+          36.924932,
+          -121.623929
         ]
       ],
-      "span_km": 0.0,
-      "observation_count": 1,
+      "span_km": 19.7602,
+      "observation_count": 2,
       "species": [
         {
           "scientific_name": "Mirounga angustirostris",
           "common_name": "Northern Elephant Seal",
+          "count": 1
+        },
+        {
+          "scientific_name": "Enhydra lutris nereis",
+          "common_name": "Southern Sea Otter",
           "count": 1
         }
       ],
@@ -16898,51 +16402,7 @@
               "license_code": "cc-by-nc"
             }
           ]
-        }
-      ],
-      "location": {
-        "place_guess": "Monterey County, US-CA, US",
-        "place_id": 118063,
-        "display_name": "Monterey Bay Area, CA, US",
-        "breadcrumb": [
-          118063,
-          92272,
-          54030,
-          14,
-          1,
-          97394
-        ]
-      }
-    },
-    {
-      "id": 104296300,
-      "started_at": "2022-01-03T12:16:14-08:00",
-      "ended_at": "2022-01-03T12:16:14-08:00",
-      "duration_hours": 0.0,
-      "centroid": [
-        36.924932,
-        -121.623929
-      ],
-      "bbox": [
-        [
-          36.924932,
-          -121.623929
-        ],
-        [
-          36.924932,
-          -121.623929
-        ]
-      ],
-      "span_km": 0.0,
-      "observation_count": 1,
-      "species": [
-        {
-          "scientific_name": "Enhydra lutris nereis",
-          "common_name": "Southern Sea Otter",
-          "count": 1
-        }
-      ],
-      "observations": [
+        },
         {
           "id": 104296300,
           "uri": "https://www.inaturalist.org/observations/104296300",
@@ -17009,7 +16469,7 @@
         }
       ],
       "location": {
-        "place_guess": null,
+        "place_guess": "Monterey County, US-CA, US",
         "place_id": 118063,
         "display_name": "Monterey Bay Area, CA, US",
         "breadcrumb": [
@@ -21722,11 +21182,11 @@
     {
       "id": 116163069,
       "started_at": "2022-05-08T13:14:35-07:00",
-      "ended_at": "2022-05-08T13:14:35-07:00",
-      "duration_hours": 0.0,
+      "ended_at": "2022-05-08T15:09:02-07:00",
+      "duration_hours": 1.9075,
       "centroid": [
-        35.273175,
-        -120.894553
+        35.30905,
+        -120.878744
       ],
       "bbox": [
         [
@@ -21734,17 +21194,22 @@
           -120.894553
         ],
         [
-          35.273175,
-          -120.894553
+          35.380799,
+          -120.847127
         ]
       ],
-      "span_km": 0.0,
-      "observation_count": 2,
+      "span_km": 12.7172,
+      "observation_count": 3,
       "species": [
         {
           "scientific_name": "Otospermophilus beecheyi",
           "common_name": "California Ground Squirrel",
           "count": 2
+        },
+        {
+          "scientific_name": "Enhydra lutris",
+          "common_name": "Sea Otter",
+          "count": 1
         }
       ],
       "observations": [
@@ -21879,50 +21344,7 @@
               "license_code": "cc-by-nc"
             }
           ]
-        }
-      ],
-      "location": {
-        "place_guess": "Montaña de Oro State Park, Los Osos, CA, US",
-        "place_id": 5555,
-        "display_name": "Montana de Oro State Park, US, CA",
-        "breadcrumb": [
-          5555,
-          1251,
-          14,
-          1,
-          97394
-        ]
-      }
-    },
-    {
-      "id": 116460012,
-      "started_at": "2022-05-08T15:09:02-07:00",
-      "ended_at": "2022-05-08T15:09:02-07:00",
-      "duration_hours": 0.0,
-      "centroid": [
-        35.380799,
-        -120.847127
-      ],
-      "bbox": [
-        [
-          35.380799,
-          -120.847127
-        ],
-        [
-          35.380799,
-          -120.847127
-        ]
-      ],
-      "span_km": 0.0,
-      "observation_count": 1,
-      "species": [
-        {
-          "scientific_name": "Enhydra lutris",
-          "common_name": "Sea Otter",
-          "count": 1
-        }
-      ],
-      "observations": [
+        },
         {
           "id": 116460012,
           "uri": "https://www.inaturalist.org/observations/116460012",
@@ -21990,7 +21412,7 @@
         }
       ],
       "location": {
-        "place_guess": null,
+        "place_guess": "Montaña de Oro State Park, Los Osos, CA, US",
         "place_id": 148209,
         "display_name": "California Central Coast, CA, US",
         "breadcrumb": [
@@ -48103,11 +47525,11 @@
     {
       "id": 412352157,
       "started_at": "2026-11-01T12:33:27-08:00",
-      "ended_at": "2026-11-01T12:33:27-08:00",
-      "duration_hours": 0.0,
+      "ended_at": "2026-11-01T15:23:34-08:00",
+      "duration_hours": 2.8353,
       "centroid": [
-        37.447693,
-        -122.568065
+        37.488286,
+        -122.504404
       ],
       "bbox": [
         [
@@ -48115,16 +47537,26 @@
           -122.568065
         ],
         [
-          37.447693,
-          -122.568065
+          37.502262,
+          -122.482604
         ]
       ],
-      "span_km": 0.0,
-      "observation_count": 1,
+      "span_km": 9.6796,
+      "observation_count": 4,
       "species": [
+        {
+          "scientific_name": "Zalophus californianus",
+          "common_name": "California Sea Lion",
+          "count": 2
+        },
         {
           "scientific_name": "Sayornis nigricans",
           "common_name": "Black Phoebe",
+          "count": 1
+        },
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
           "count": 1
         }
       ],
@@ -48191,54 +47623,7 @@
               "license_code": null
             }
           ]
-        }
-      ],
-      "location": {
-        "place_guess": null,
-        "place_id": 1919,
-        "display_name": "San Mateo County, CA, US",
-        "breadcrumb": [
-          1919,
-          14,
-          1,
-          97394
-        ]
-      }
-    },
-    {
-      "id": 412352656,
-      "started_at": "2026-11-01T15:18:26-08:00",
-      "ended_at": "2026-11-01T15:23:34-08:00",
-      "duration_hours": 0.0856,
-      "centroid": [
-        37.501817,
-        -122.483183
-      ],
-      "bbox": [
-        [
-          37.501548,
-          -122.483707
-        ],
-        [
-          37.502262,
-          -122.482604
-        ]
-      ],
-      "span_km": 0.1256,
-      "observation_count": 3,
-      "species": [
-        {
-          "scientific_name": "Zalophus californianus",
-          "common_name": "California Sea Lion",
-          "count": 2
         },
-        {
-          "scientific_name": "Pelecanus occidentalis californicus",
-          "common_name": "California Brown Pelican",
-          "count": 1
-        }
-      ],
-      "observations": [
         {
           "id": 412352710,
           "uri": "https://www.inaturalist.org/observations/412352710",
@@ -48451,10 +47836,9 @@
       ],
       "location": {
         "place_guess": "Pillar Point Harbor, CA, US",
-        "place_id": 53576,
-        "display_name": "Pillar Point Harbor, CA, US",
+        "place_id": 1919,
+        "display_name": "San Mateo County, CA, US",
         "breadcrumb": [
-          53576,
           1919,
           14,
           1,
@@ -49208,28 +48592,38 @@
     {
       "id": 415220308,
       "started_at": "2026-11-15T11:56:32-08:00",
-      "ended_at": "2026-11-15T11:56:32-08:00",
-      "duration_hours": 0.0,
+      "ended_at": "2026-11-15T12:33:51-08:00",
+      "duration_hours": 0.6219,
       "centroid": [
-        37.14648,
-        -122.380598
+        37.094518,
+        -122.322379
       ],
       "bbox": [
         [
-          37.14648,
+          37.028544,
           -122.380598
         ],
         [
           37.14648,
-          -122.380598
+          -122.277504
         ]
       ],
-      "span_km": 0.0,
-      "observation_count": 1,
+      "span_km": 15.9875,
+      "observation_count": 3,
       "species": [
         {
           "scientific_name": "Ensatina eschscholtzii xanthoptica",
           "common_name": "Yellow-eyed Ensatina",
+          "count": 1
+        },
+        {
+          "scientific_name": "Taricha torosa",
+          "common_name": "California Newt",
+          "count": 1
+        },
+        {
+          "scientific_name": "Taricha granulosa",
+          "common_name": "Rough-skinned Newt",
           "count": 1
         }
       ],
@@ -49295,49 +48689,7 @@
               "license_code": null
             }
           ]
-        }
-      ],
-      "location": {
-        "place_guess": null,
-        "place_id": 1919,
-        "display_name": "San Mateo County, CA, US",
-        "breadcrumb": [
-          1919,
-          14,
-          1,
-          97394
-        ]
-      }
-    },
-    {
-      "id": 415220352,
-      "started_at": "2026-11-15T12:15:29-08:00",
-      "ended_at": "2026-11-15T12:15:29-08:00",
-      "duration_hours": 0.0,
-      "centroid": [
-        37.10853,
-        -122.277504
-      ],
-      "bbox": [
-        [
-          37.10853,
-          -122.277504
-        ],
-        [
-          37.10853,
-          -122.277504
-        ]
-      ],
-      "span_km": 0.0,
-      "observation_count": 1,
-      "species": [
-        {
-          "scientific_name": "Taricha torosa",
-          "common_name": "California Newt",
-          "count": 1
-        }
-      ],
-      "observations": [
+        },
         {
           "id": 415220352,
           "uri": "https://www.inaturalist.org/observations/415220352",
@@ -49398,49 +48750,7 @@
               "license_code": null
             }
           ]
-        }
-      ],
-      "location": {
-        "place_guess": null,
-        "place_id": 1919,
-        "display_name": "San Mateo County, CA, US",
-        "breadcrumb": [
-          1919,
-          14,
-          1,
-          97394
-        ]
-      }
-    },
-    {
-      "id": 415220404,
-      "started_at": "2026-11-15T12:33:51-08:00",
-      "ended_at": "2026-11-15T12:33:51-08:00",
-      "duration_hours": 0.0,
-      "centroid": [
-        37.028544,
-        -122.309035
-      ],
-      "bbox": [
-        [
-          37.028544,
-          -122.309035
-        ],
-        [
-          37.028544,
-          -122.309035
-        ]
-      ],
-      "span_km": 0.0,
-      "observation_count": 1,
-      "species": [
-        {
-          "scientific_name": "Taricha granulosa",
-          "common_name": "Rough-skinned Newt",
-          "count": 1
-        }
-      ],
-      "observations": [
+        },
         {
           "id": 415220404,
           "uri": "https://www.inaturalist.org/observations/415220404",
