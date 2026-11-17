@@ -48622,8 +48622,8 @@
           "count": 1
         },
         {
-          "scientific_name": "Taricha granulosa",
-          "common_name": "Rough-skinned Newt",
+          "scientific_name": "Taricha",
+          "common_name": "Pacific Newts",
           "count": 1
         }
       ],
@@ -48674,7 +48674,7 @@
             "common_name": "Yellow-eyed Ensatina",
             "rank": "subspecies"
           },
-          "species_guess": null,
+          "species_guess": "Yellow-eyed Ensatina",
           "photos": [
             {
               "id": 764538654,
@@ -48735,7 +48735,7 @@
             "common_name": "California Newt",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "California Newt",
           "photos": [
             {
               "id": 764538749,
@@ -48791,12 +48791,12 @@
             128797
           ],
           "taxon": {
-            "id": 27826,
-            "scientific_name": "Taricha granulosa",
-            "common_name": "Rough-skinned Newt",
-            "rank": "species"
+            "id": 27816,
+            "scientific_name": "Taricha",
+            "common_name": "Pacific Newts",
+            "rank": "genus"
           },
-          "species_guess": null,
+          "species_guess": "Pacific Newts",
           "photos": [
             {
               "id": 764538841,
