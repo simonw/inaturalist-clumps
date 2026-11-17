@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 510,
+  "total_observations": 512,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 306,
+  "total_clumps": 307,
   "clumps": [
     {
       "id": 9687475,
@@ -49199,6 +49199,202 @@
         "breadcrumb": [
           128254,
           54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 415187174,
+      "started_at": "2026-11-16T17:20:07-08:00",
+      "ended_at": "2026-11-16T17:43:21-08:00",
+      "duration_hours": 0.3872,
+      "centroid": [
+        37.503864,
+        -122.479338
+      ],
+      "bbox": [
+        [
+          37.502025,
+          -122.483627
+        ],
+        [
+          37.505703,
+          -122.475049
+        ]
+      ],
+      "span_km": 0.8601,
+      "observation_count": 2,
+      "species": [
+        {
+          "scientific_name": "Corvus corax",
+          "common_name": "Common Raven",
+          "count": 1
+        },
+        {
+          "scientific_name": "Zalophus californianus",
+          "common_name": "California Sea Lion",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 415187174,
+          "uri": "https://www.inaturalist.org/observations/415187174",
+          "user_login": "simon583",
+          "observed_at": "2026-11-16T17:20:07-08:00",
+          "latitude": 37.5057025036,
+          "longitude": -122.4750486384,
+          "positional_accuracy_m": 102,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Francisco St, Half Moon Bay, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            120148,
+            120714,
+            128797,
+            133888,
+            140260,
+            154799
+          ],
+          "taxon": {
+            "id": 8010,
+            "scientific_name": "Corvus corax",
+            "common_name": "Common Raven",
+            "rank": "species"
+          },
+          "species_guess": "Common Raven",
+          "photos": [
+            {
+              "id": 764468990,
+              "thumbnail_url": "https://static.inaturalist.org/photos/764468990/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/764468990/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/764468990/original.jpg",
+              "original_dimensions": {
+                "width": 1365,
+                "height": 2048
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 764469008,
+              "thumbnail_url": "https://static.inaturalist.org/photos/764469008/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/764469008/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/764469008/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 415187442,
+          "uri": "https://www.inaturalist.org/observations/415187442",
+          "user_login": "simon583",
+          "observed_at": "2026-11-16T17:43:21-08:00",
+          "latitude": 37.5020249454,
+          "longitude": -122.4836266256,
+          "positional_accuracy_m": 104,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            207217
+          ],
+          "taxon": {
+            "id": 41740,
+            "scientific_name": "Zalophus californianus",
+            "common_name": "California Sea Lion",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 764469038,
+              "thumbnail_url": "https://static.inaturalist.org/photos/764469038/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/764469038/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/764469038/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pillar Point Harbor, CA, US",
+        "place_id": 1919,
+        "display_name": "San Mateo County, CA, US",
+        "breadcrumb": [
+          1919,
           14,
           1,
           97394
