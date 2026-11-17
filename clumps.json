@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 512,
+  "total_observations": 515,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 307,
+  "total_clumps": 310,
   "clumps": [
     {
       "id": 9687475,
@@ -49199,6 +49199,328 @@
         "breadcrumb": [
           128254,
           54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 415220308,
+      "started_at": "2026-11-15T11:56:32-08:00",
+      "ended_at": "2026-11-15T11:56:32-08:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.14648,
+        -122.380598
+      ],
+      "bbox": [
+        [
+          37.14648,
+          -122.380598
+        ],
+        [
+          37.14648,
+          -122.380598
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Ensatina eschscholtzii xanthoptica",
+          "common_name": "Yellow-eyed Ensatina",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 415220308,
+          "uri": "https://www.inaturalist.org/observations/415220308",
+          "user_login": "simon583",
+          "observed_at": "2026-11-15T11:56:32-08:00",
+          "latitude": 37.1464804033,
+          "longitude": -122.38059808,
+          "positional_accuracy_m": null,
+          "obscured": true,
+          "geoprivacy": "obscured",
+          "place_guess": "California, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            93467,
+            94045,
+            96034,
+            96683,
+            96687,
+            97394,
+            119138,
+            120714,
+            124258,
+            128722,
+            128797
+          ],
+          "taxon": {
+            "id": 123168,
+            "scientific_name": "Ensatina eschscholtzii xanthoptica",
+            "common_name": "Yellow-eyed Ensatina",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 764538654,
+              "thumbnail_url": "https://static.inaturalist.org/photos/764538654/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/764538654/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/764538654/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": null,
+        "place_id": 1919,
+        "display_name": "San Mateo County, CA, US",
+        "breadcrumb": [
+          1919,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 415220352,
+      "started_at": "2026-11-15T12:15:29-08:00",
+      "ended_at": "2026-11-15T12:15:29-08:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.10853,
+        -122.277504
+      ],
+      "bbox": [
+        [
+          37.10853,
+          -122.277504
+        ],
+        [
+          37.10853,
+          -122.277504
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Taricha torosa",
+          "common_name": "California Newt",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 415220352,
+          "uri": "https://www.inaturalist.org/observations/415220352",
+          "user_login": "simon583",
+          "observed_at": "2026-11-15T12:15:29-08:00",
+          "latitude": 37.1085300104,
+          "longitude": -122.2775037124,
+          "positional_accuracy_m": null,
+          "obscured": true,
+          "geoprivacy": "obscured",
+          "place_guess": "California, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            93467,
+            94045,
+            96034,
+            96683,
+            96687,
+            97394,
+            119138,
+            120714,
+            128722,
+            128797
+          ],
+          "taxon": {
+            "id": 27818,
+            "scientific_name": "Taricha torosa",
+            "common_name": "California Newt",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 764538749,
+              "thumbnail_url": "https://static.inaturalist.org/photos/764538749/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/764538749/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/764538749/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": null,
+        "place_id": 1919,
+        "display_name": "San Mateo County, CA, US",
+        "breadcrumb": [
+          1919,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 415220404,
+      "started_at": "2026-11-15T12:33:51-08:00",
+      "ended_at": "2026-11-15T12:33:51-08:00",
+      "duration_hours": 0.0,
+      "centroid": [
+        37.028544,
+        -122.309035
+      ],
+      "bbox": [
+        [
+          37.028544,
+          -122.309035
+        ],
+        [
+          37.028544,
+          -122.309035
+        ]
+      ],
+      "span_km": 0.0,
+      "observation_count": 1,
+      "species": [
+        {
+          "scientific_name": "Taricha granulosa",
+          "common_name": "Rough-skinned Newt",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 415220404,
+          "uri": "https://www.inaturalist.org/observations/415220404",
+          "user_login": "simon583",
+          "observed_at": "2026-11-15T12:33:51-08:00",
+          "latitude": 37.0285440781,
+          "longitude": -122.309035353,
+          "positional_accuracy_m": null,
+          "obscured": true,
+          "geoprivacy": "obscured",
+          "place_guess": "California, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            92151,
+            92337,
+            93467,
+            94045,
+            96034,
+            96683,
+            96687,
+            97394,
+            119138,
+            120714,
+            128722,
+            128797
+          ],
+          "taxon": {
+            "id": 27826,
+            "scientific_name": "Taricha granulosa",
+            "common_name": "Rough-skinned Newt",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 764538841,
+              "thumbnail_url": "https://static.inaturalist.org/photos/764538841/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/764538841/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/764538841/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 764538861,
+              "thumbnail_url": "https://static.inaturalist.org/photos/764538861/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/764538861/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/764538861/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": null,
+        "place_id": 1919,
+        "display_name": "San Mateo County, CA, US",
+        "breadcrumb": [
+          1919,
           14,
           1,
           97394
