@@ -49127,7 +49127,7 @@
             "common_name": "California Sea Lion",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "California Sea Lion",
           "photos": [
             {
               "id": 766372540,
@@ -49197,7 +49197,7 @@
             "common_name": "California Brown Pelican",
             "rank": "subspecies"
           },
-          "species_guess": null,
+          "species_guess": "California Brown Pelican",
           "photos": [
             {
               "id": 766372769,
@@ -49334,7 +49334,7 @@
             "common_name": "Osprey",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Osprey",
           "photos": [
             {
               "id": 766372185,
