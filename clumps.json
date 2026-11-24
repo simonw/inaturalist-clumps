@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 525,
+  "total_observations": 527,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 294,
+  "total_clumps": 295,
   "clumps": [
     {
       "id": 9687475,
@@ -49855,6 +49855,193 @@
         "breadcrumb": [
           128254,
           54030,
+          14,
+          1,
+          97394
+        ]
+      }
+    },
+    {
+      "id": 416640118,
+      "started_at": "2026-11-23T17:02:00-08:00",
+      "ended_at": "2026-11-23T17:03:00-08:00",
+      "duration_hours": 0.0167,
+      "centroid": [
+        37.502103,
+        -122.483436
+      ],
+      "bbox": [
+        [
+          37.501919,
+          -122.483641
+        ],
+        [
+          37.502287,
+          -122.48323
+        ]
+      ],
+      "span_km": 0.0547,
+      "observation_count": 2,
+      "species": [
+        {
+          "scientific_name": "Phoca vitulina richardii",
+          "common_name": "Pacific Harbor Seal",
+          "count": 1
+        },
+        {
+          "scientific_name": "Zalophus californianus",
+          "common_name": "California Sea Lion",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 416640118,
+          "uri": "https://www.inaturalist.org/observations/416640118",
+          "user_login": "simon583",
+          "observed_at": "2026-11-23T17:02:00-08:00",
+          "latitude": 37.5022869765,
+          "longitude": -122.4832296261,
+          "positional_accuracy_m": 25,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260
+          ],
+          "taxon": {
+            "id": 117766,
+            "scientific_name": "Phoca vitulina richardii",
+            "common_name": "Pacific Harbor Seal",
+            "rank": "subspecies"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 767341246,
+              "thumbnail_url": "https://static.inaturalist.org/photos/767341246/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/767341246/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/767341246/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 416640165,
+          "uri": "https://www.inaturalist.org/observations/416640165",
+          "user_login": "simon583",
+          "observed_at": "2026-11-23T17:03:00-08:00",
+          "latitude": 37.5019191509,
+          "longitude": -122.4836414737,
+          "positional_accuracy_m": 22,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Pillar Point Harbor, CA, US",
+          "place_ids": [
+            1,
+            14,
+            1919,
+            9853,
+            50422,
+            51330,
+            53576,
+            54030,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            63279,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            112245,
+            118564,
+            119138,
+            120714,
+            128254,
+            128797,
+            133888,
+            140260,
+            207217
+          ],
+          "taxon": {
+            "id": 41740,
+            "scientific_name": "Zalophus californianus",
+            "common_name": "California Sea Lion",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 767341337,
+              "thumbnail_url": "https://static.inaturalist.org/photos/767341337/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/767341337/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/767341337/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Pillar Point Harbor, CA, US",
+        "place_id": 53576,
+        "display_name": "Pillar Point Harbor, CA, US",
+        "breadcrumb": [
+          53576,
+          1919,
           14,
           1,
           97394
