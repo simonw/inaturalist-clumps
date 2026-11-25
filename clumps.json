@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 527,
+  "total_observations": 530,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 295,
+  "total_clumps": 296,
   "clumps": [
     {
       "id": 9687475,
@@ -50047,6 +50047,255 @@
           97394
         ]
       }
+    },
+    {
+      "id": 416951042,
+      "started_at": "2026-11-25T13:23:00-08:00",
+      "ended_at": "2026-11-25T14:20:00-08:00",
+      "duration_hours": 0.95,
+      "centroid": [
+        37.771096,
+        -122.236682
+      ],
+      "bbox": [
+        [
+          37.770402,
+          -122.237434
+        ],
+        [
+          37.771473,
+          -122.235953
+        ]
+      ],
+      "span_km": 0.1763,
+      "observation_count": 3,
+      "species": [
+        {
+          "scientific_name": "Pelecanus occidentalis californicus",
+          "common_name": "California Brown Pelican",
+          "count": 1
+        },
+        {
+          "scientific_name": "Nycticorax nycticorax",
+          "common_name": "Black-crowned Night Heron",
+          "count": 1
+        },
+        {
+          "scientific_name": "Corvus brachyrhynchos",
+          "common_name": "American Crow",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 416951183,
+          "uri": "https://www.inaturalist.org/observations/416951183",
+          "user_login": "simon583",
+          "observed_at": "2026-11-25T13:23:00-08:00",
+          "latitude": 37.771414693,
+          "longitude": -122.2359534692,
+          "positional_accuracy_m": 102,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Tidal Canal, Alameda, CA, US",
+          "place_ids": [
+            1,
+            14,
+            845,
+            9853,
+            50422,
+            54321,
+            59613,
+            60434,
+            62068,
+            62332,
+            62622,
+            62734,
+            63097,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            93467,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            122851,
+            133888,
+            151835
+          ],
+          "taxon": {
+            "id": 123829,
+            "scientific_name": "Pelecanus occidentalis californicus",
+            "common_name": "California Brown Pelican",
+            "rank": "subspecies"
+          },
+          "species_guess": "California Brown Pelican",
+          "photos": [
+            {
+              "id": 767966320,
+              "thumbnail_url": "https://static.inaturalist.org/photos/767966320/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/767966320/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/767966320/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 416951042,
+          "uri": "https://www.inaturalist.org/observations/416951042",
+          "user_login": "simon583",
+          "observed_at": "2026-11-25T13:26:00-08:00",
+          "latitude": 37.7714725404,
+          "longitude": -122.2366579425,
+          "positional_accuracy_m": 86,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Tidal Canal, Alameda, CA, US",
+          "place_ids": [
+            1,
+            14,
+            845,
+            9853,
+            50422,
+            54321,
+            59613,
+            60434,
+            62068,
+            62332,
+            62622,
+            62734,
+            63097,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            93467,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            122851,
+            133888
+          ],
+          "taxon": {
+            "id": 4981,
+            "scientific_name": "Nycticorax nycticorax",
+            "common_name": "Black-crowned Night Heron",
+            "rank": "species"
+          },
+          "species_guess": "Black-crowned Night Heron",
+          "photos": [
+            {
+              "id": 767966088,
+              "thumbnail_url": "https://static.inaturalist.org/photos/767966088/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/767966088/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/767966088/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 416956568,
+          "uri": "https://www.inaturalist.org/observations/416956568",
+          "user_login": "simon583",
+          "observed_at": "2026-11-25T14:20:00-08:00",
+          "latitude": 37.7704019882,
+          "longitude": -122.2374335993,
+          "positional_accuracy_m": 13,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Alameda Island, Alameda, CA, US",
+          "place_ids": [
+            1,
+            14,
+            845,
+            9853,
+            50422,
+            54321,
+            59613,
+            60434,
+            62068,
+            62332,
+            62622,
+            62734,
+            65360,
+            66741,
+            80718,
+            92151,
+            92337,
+            93467,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            122851,
+            133888,
+            137038
+          ],
+          "taxon": {
+            "id": 8021,
+            "scientific_name": "Corvus brachyrhynchos",
+            "common_name": "American Crow",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 767977529,
+              "thumbnail_url": "https://static.inaturalist.org/photos/767977529/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/767977529/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/767977529/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "Tidal Canal, Alameda, CA, US",
+        "place_id": 60434,
+        "display_name": "Alameda Island, CA, CA, US",
+        "breadcrumb": [
+          60434,
+          845,
+          14,
+          1,
+          97394
+        ]
+      }
     }
   ],
   "places": {
@@ -50088,6 +50337,18 @@
       "display_name": "Oakland, US, CA",
       "admin_level": 30,
       "place_type": 7,
+      "ancestor_ids": [
+        97394,
+        1,
+        14,
+        845
+      ]
+    },
+    "60434": {
+      "name": "Alameda Island, CA",
+      "display_name": "Alameda Island, CA, CA, US",
+      "admin_level": null,
+      "place_type": 13,
       "ancestor_ids": [
         97394,
         1,
