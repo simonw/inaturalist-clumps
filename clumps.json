@@ -7,9 +7,9 @@
     "max_distance_km": 5.0,
     "max_hours": 3.0
   },
-  "total_observations": 530,
+  "total_observations": 536,
   "skipped_no_time_or_location": 2,
-  "total_clumps": 296,
+  "total_clumps": 297,
   "clumps": [
     {
       "id": 9687475,
@@ -50296,6 +50296,509 @@
           97394
         ]
       }
+    },
+    {
+      "id": 417300096,
+      "started_at": "2026-11-27T11:59:00-08:00",
+      "ended_at": "2026-11-27T13:19:00-08:00",
+      "duration_hours": 1.3333,
+      "centroid": [
+        38.180781,
+        -122.279966
+      ],
+      "bbox": [
+        [
+          38.179588,
+          -122.285047
+        ],
+        [
+          38.181649,
+          -122.273681
+        ]
+      ],
+      "span_km": 1.0195,
+      "observation_count": 6,
+      "species": [
+        {
+          "scientific_name": "Sayornis saya",
+          "common_name": "Say's Phoebe",
+          "count": 1
+        },
+        {
+          "scientific_name": "Recurvirostra americana",
+          "common_name": "American Avocet",
+          "count": 1
+        },
+        {
+          "scientific_name": "Sterna forsteri",
+          "common_name": "Forster's Tern",
+          "count": 1
+        },
+        {
+          "scientific_name": "Himantopus mexicanus",
+          "common_name": "Black-necked Stilt",
+          "count": 1
+        },
+        {
+          "scientific_name": "Egretta thula",
+          "common_name": "Snowy Egret",
+          "count": 1
+        },
+        {
+          "scientific_name": "Agelaius phoeniceus",
+          "common_name": "Red-winged Blackbird",
+          "count": 1
+        }
+      ],
+      "observations": [
+        {
+          "id": 417302197,
+          "uri": "https://www.inaturalist.org/observations/417302197",
+          "user_login": "simon583",
+          "observed_at": "2026-11-27T11:59:00-08:00",
+          "latitude": 38.1807900389,
+          "longitude": -122.2736814889,
+          "positional_accuracy_m": 114,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "American Canyon, CA, US",
+          "place_ids": [
+            1,
+            14,
+            348,
+            9853,
+            50422,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            65360,
+            66741,
+            92151,
+            92337,
+            92665,
+            93467,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            128640,
+            131081,
+            154030,
+            155929,
+            157578,
+            197710
+          ],
+          "taxon": {
+            "id": 17009,
+            "scientific_name": "Sayornis saya",
+            "common_name": "Say's Phoebe",
+            "rank": "species"
+          },
+          "species_guess": "Say's Phoebe",
+          "photos": [
+            {
+              "id": 768669271,
+              "thumbnail_url": "https://static.inaturalist.org/photos/768669271/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/768669271/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/768669271/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 417301393,
+          "uri": "https://www.inaturalist.org/observations/417301393",
+          "user_login": "simon583",
+          "observed_at": "2026-11-27T12:30:00-08:00",
+          "latitude": 38.1795879878,
+          "longitude": -122.2845621598,
+          "positional_accuracy_m": 24,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Napa, CA, US",
+          "place_ids": [
+            1,
+            14,
+            348,
+            9853,
+            50422,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            65360,
+            66741,
+            92151,
+            92337,
+            92665,
+            93467,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            128640,
+            131081,
+            133888,
+            153971,
+            157578,
+            197710
+          ],
+          "taxon": {
+            "id": 4885,
+            "scientific_name": "Recurvirostra americana",
+            "common_name": "American Avocet",
+            "rank": "species"
+          },
+          "species_guess": "American Avocet",
+          "photos": [
+            {
+              "id": 768667883,
+              "thumbnail_url": "https://static.inaturalist.org/photos/768667883/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/768667883/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/768667883/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 768667919,
+              "thumbnail_url": "https://static.inaturalist.org/photos/768667919/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/768667919/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/768667919/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 768667939,
+              "thumbnail_url": "https://static.inaturalist.org/photos/768667939/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/768667939/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/768667939/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 417300096,
+          "uri": "https://www.inaturalist.org/observations/417300096",
+          "user_login": "simon583",
+          "observed_at": "2026-11-27T12:37:00-08:00",
+          "latitude": 38.181592728,
+          "longitude": -122.2794475427,
+          "positional_accuracy_m": 303,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "American Canyon, CA, US",
+          "place_ids": [
+            1,
+            14,
+            348,
+            9853,
+            50422,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            65360,
+            66741,
+            92151,
+            92337,
+            92665,
+            93467,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            128640,
+            131081,
+            133888,
+            154030,
+            155929,
+            157578,
+            197710
+          ],
+          "taxon": {
+            "id": 4457,
+            "scientific_name": "Sterna forsteri",
+            "common_name": "Forster's Tern",
+            "rank": "species"
+          },
+          "species_guess": "Forster's Tern",
+          "photos": [
+            {
+              "id": 768665464,
+              "thumbnail_url": "https://static.inaturalist.org/photos/768665464/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/768665464/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/768665464/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            },
+            {
+              "id": 768665491,
+              "thumbnail_url": "https://static.inaturalist.org/photos/768665491/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/768665491/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/768665491/original.jpg",
+              "original_dimensions": {
+                "width": 1365,
+                "height": 2048
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 417301874,
+          "uri": "https://www.inaturalist.org/observations/417301874",
+          "user_login": "simon583",
+          "observed_at": "2026-11-27T13:03:00-08:00",
+          "latitude": 38.1796574783,
+          "longitude": -122.2850474573,
+          "positional_accuracy_m": 161,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "Napa, CA, US",
+          "place_ids": [
+            1,
+            14,
+            348,
+            9853,
+            50422,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            65360,
+            66741,
+            92151,
+            92337,
+            92665,
+            93467,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            128640,
+            131081,
+            133888,
+            153971,
+            157578,
+            197710
+          ],
+          "taxon": {
+            "id": 4836,
+            "scientific_name": "Himantopus mexicanus",
+            "common_name": "Black-necked Stilt",
+            "rank": "species"
+          },
+          "species_guess": "Black-necked Stilt",
+          "photos": [
+            {
+              "id": 768668761,
+              "thumbnail_url": "https://static.inaturalist.org/photos/768668761/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/768668761/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/768668761/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 417300560,
+          "uri": "https://www.inaturalist.org/observations/417300560",
+          "user_login": "simon583",
+          "observed_at": "2026-11-27T13:10:00-08:00",
+          "latitude": 38.181648744,
+          "longitude": -122.2789264486,
+          "positional_accuracy_m": 309,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "American Canyon, CA, US",
+          "place_ids": [
+            1,
+            14,
+            348,
+            9853,
+            50422,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            65360,
+            66741,
+            92151,
+            92337,
+            92665,
+            93467,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            128640,
+            131081,
+            133888,
+            154030,
+            155929,
+            157578,
+            197710
+          ],
+          "taxon": {
+            "id": 4940,
+            "scientific_name": "Egretta thula",
+            "common_name": "Snowy Egret",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 768666453,
+              "thumbnail_url": "https://static.inaturalist.org/photos/768666453/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/768666453/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/768666453/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        },
+        {
+          "id": 417300398,
+          "uri": "https://www.inaturalist.org/observations/417300398",
+          "user_login": "simon583",
+          "observed_at": "2026-11-27T13:19:00-08:00",
+          "latitude": 38.1814071897,
+          "longitude": -122.278132686,
+          "positional_accuracy_m": 394,
+          "obscured": false,
+          "geoprivacy": null,
+          "place_guess": "American Canyon, CA, US",
+          "place_ids": [
+            1,
+            14,
+            348,
+            9853,
+            50422,
+            54321,
+            59613,
+            62068,
+            62332,
+            62622,
+            65360,
+            66741,
+            92151,
+            92337,
+            92665,
+            93467,
+            94045,
+            95504,
+            96034,
+            96057,
+            96683,
+            96687,
+            97394,
+            118564,
+            119138,
+            128640,
+            131081,
+            133888,
+            154030,
+            155929,
+            157578,
+            197710
+          ],
+          "taxon": {
+            "id": 9744,
+            "scientific_name": "Agelaius phoeniceus",
+            "common_name": "Red-winged Blackbird",
+            "rank": "species"
+          },
+          "species_guess": null,
+          "photos": [
+            {
+              "id": 768666139,
+              "thumbnail_url": "https://static.inaturalist.org/photos/768666139/medium.jpg",
+              "large_url": "https://static.inaturalist.org/photos/768666139/large.jpg",
+              "original_url": "https://static.inaturalist.org/photos/768666139/original.jpg",
+              "original_dimensions": {
+                "width": 2048,
+                "height": 1365
+              },
+              "attribution": "(c) Simon Willison, all rights reserved",
+              "license_code": null
+            }
+          ]
+        }
+      ],
+      "location": {
+        "place_guess": "American Canyon, CA, US",
+        "place_id": 128640,
+        "display_name": "Napa River Watershed, US, CA",
+        "breadcrumb": [
+          128640,
+          348,
+          14,
+          1,
+          97394
+        ]
+      }
     }
   ],
   "places": {
@@ -50688,6 +51191,18 @@
         97391,
         6857,
         6858
+      ]
+    },
+    "128640": {
+      "name": "Napa River Watershed",
+      "display_name": "Napa River Watershed, US, CA",
+      "admin_level": null,
+      "place_type": 15,
+      "ancestor_ids": [
+        97394,
+        1,
+        14,
+        348
       ]
     },
     "238213": {
@@ -51379,6 +51894,17 @@
       "place_type": 12,
       "ancestor_ids": [
         97394
+      ]
+    },
+    "348": {
+      "name": "Napa",
+      "display_name": "Napa County, US, CA",
+      "admin_level": 20,
+      "place_type": 9,
+      "ancestor_ids": [
+        97394,
+        1,
+        14
       ]
     },
     "51043": {
