@@ -20056,7 +20056,6 @@
             128254,
             133888,
             140260,
-            207214,
             207217
           ],
           "taxon": {
@@ -50770,7 +50769,7 @@
             "common_name": "Red-winged Blackbird",
             "rank": "species"
           },
-          "species_guess": null,
+          "species_guess": "Red-winged Blackbird",
           "photos": [
             {
               "id": 768666139,
